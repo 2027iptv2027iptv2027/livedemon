@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://bit.ly/4dt4s5U"
-# Generated on 2026-09-22T02:17:29.156679 UTC
+# Generated on 2026-09-22T05:54:43.193706 UTC
 
 #PLAYLIST:x 300rip-wo-events
 #EXTGRP:x 300rip-wo-events
@@ -663,6 +663,8 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1429633
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89736
 #EXTINF:-1 tvg-name="VA | RICHMOND | CBS 6 WTVR" tvg-logo="https://static.realiptv.to/snapshots/600251.jpg" group-title="ENG - Local CBS",VA | RICHMOND | CBS 6 WTVR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/600251
+#EXTINF:-1 tvg-id="CBSWWJ.us" tvg-name="MI | Detroit | CBS WWJ" group-title="ENG - Local CBS",MI | Detroit | CBS WWJ
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88065
 
 #GROUP:ENG - Local FOX/MY
 #EXTINF:-1 tvg-id="e97af780-130f-497e-b4ae-e1e76e68d8b0" tvg-name="AK | Anchorage | FOX 4 KTBY" tvg-logo="https://static.realiptv.to/snapshots/38319.jpg" group-title="ENG - Local FOX/MY",AK | Anchorage | FOX 4 KTBY
@@ -1863,6 +1865,16 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1242802
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1242803
 #EXTINF:-1 tvg-name="PA | Pittsburgh |  PBS WQED" tvg-logo="https://static.realiptv.to/snapshots/1270176.jpg" group-title="ENG - Kids & Family",PA | Pittsburgh |  PBS WQED
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1270176
+#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="Disney Channel CA (R)" group-title="ENG - Kids & Family",Disney Channel CA (R)
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3113
+#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="Disney Channel CA" group-title="ENG - Kids & Family",Disney Channel CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3136
+#EXTINF:-1 tvg-id="Treehouse.ca" tvg-name="Treehouse" group-title="ENG - Kids & Family",Treehouse
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3057
+#EXTINF:-1 tvg-id="YTV.ca" tvg-name="YTV (East) CA" group-title="ENG - Kids & Family",YTV (East) CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647754
+#EXTINF:-1 tvg-id="YTVPacific.ca" tvg-name="YTV (West) CA" group-title="ENG - Kids & Family",YTV (West) CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647755
 
 #GROUP:ENG - Local ABC
 #EXTINF:-1 tvg-id="ABCKYUR.us" tvg-name="AK | Anchorage | ABC KYUR" group-title="ENG - Local ABC",AK | Anchorage | ABC KYUR
@@ -2419,6 +2431,10 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38328
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631818
 #EXTINF:-1 tvg-id="CWWPXT.us" tvg-name="ME | Portland | CW WPXT" group-title="ENG - Local CW/IND",ME | Portland | CW WPXT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1449163
+#EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH" group-title="ENG - Local CW/IND",GA | Atlanta | CW WPCH
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3084
+#EXTINF:-1 tvg-id="CWWNLO.us" tvg-name="NY | Buffalo | CW WNLO" group-title="ENG - Local CW/IND",NY | Buffalo | CW WNLO
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3048
 
 #GROUP:ENG - News
 #EXTINF:-1 tvg-name="Albany | Spectrum News 1  (SHD)" tvg-logo="https://static.realiptv.to/snapshots/597106.jpg" group-title="ENG - News",Albany | Spectrum News 1  (SHD)
@@ -2635,6 +2651,22 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/638810
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97488
 #EXTINF:-1 tvg-id="weathernation.us" tvg-name="USA Weather Nation" tvg-logo="https://static.realiptv.to/snapshots/564513.jpg" group-title="ENG - News",USA Weather Nation
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/564513
+#EXTINF:-1 tvg-id="BBCWorldNews.ca" tvg-name="BBC WORLD" group-title="ENG - News",BBC WORLD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3246
+#EXTINF:-1 tvg-id="FoxNewsChannel.ca" tvg-name="FOX NEWS" group-title="ENG - News",FOX NEWS
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3275
+#EXTINF:-1 tvg-id="FoxNewsChannel.ca" tvg-name="Fox News HD (R)" group-title="ENG - News",Fox News HD (R)
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/87991
+#EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global National News" group-title="ENG - News",Global National News
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3193
+#EXTINF:-1 tvg-id="MSNOW.us" tvg-name="MS NOW HD" group-title="ENG - News",MS NOW HD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93125
+#EXTINF:-1 tvg-id="WeatherNetwork.ca" tvg-name="Weather Network CA" group-title="ENG - News",Weather Network CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93138
+#EXTINF:-1 tvg-id="GlobalNewsBC1.ca" tvg-name="Global BC" group-title="ENG - News",Global BC
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1269362
+#EXTINF:-1 tvg-id="GlobalNewsBC1.ca" tvg-name="Global BC News" group-title="ENG - News",Global BC News
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1269373
 
 #GROUP:ESP - Argentina
 #EXTINF:-1 tvg-name="AR  America TV" tvg-logo="https://static.realiptv.to/snapshots/1604.jpg" group-title="ESP - Argentina",AR  America TV
@@ -2849,7 +2881,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2394
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/50931
 #EXTINF:-1 tvg-id="telemundoknso.us" tvg-name="CA | Fresno | Telemundo 51 KNSO" tvg-logo="https://static.realiptv.to/snapshots/629101.jpg" group-title="ESP - Local Telemundo",CA | Fresno | Telemundo 51 KNSO
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629101
-#EXTINF:-1 tvg-id="KUAN" tvg-name="CA | Poway, Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="ESP - Local Telemundo",Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="ESP - Local Telemundo",Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="ESP - Local Telemundo",Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="ESP - Local Telemundo",Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="USA LATIN TELEMUNDO",CA | Poway, Etc. | Telemundo KUAN
+#EXTINF:-1 tvg-id="KUAN" tvg-name="CA | Poway, Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="ESP - Local Telemundo",Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="ESP - Local Telemundo",Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="ESP - Local Telemundo",Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="ESP - Local Telemundo",Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="ESP - Local Telemundo",Etc. | Telemundo KUAN" tvg-logo="https://static.realiptv.to/snapshots/89446.jpg" group-title="USA LATIN TELEMUNDO",CA | Poway, Etc. | Telemundo KUAN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89446
 #EXTINF:-1 tvg-id="KCSO" tvg-name="CA | Sacramento | Telemundo KCSO" tvg-logo="https://static.realiptv.to/snapshots/89450.jpg" group-title="ESP - Local Telemundo",CA | Sacramento | Telemundo KCSO
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89450
@@ -4199,6 +4231,112 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3768
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1424627
 #EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family (East)" group-title="ENG - Entertainment",Hallmark Family (East)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3739
+#EXTINF:-1 tvg-id="CTVSaskatchewan-CFQC.ca" tvg-name="CTV Saskatoon" group-title="ENG - Entertainment",CTV Saskatoon
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679242
+#EXTINF:-1 tvg-id="CTVSciFiChannel.ca" tvg-name="CTV SCI-FI Channel (R)" group-title="ENG - Entertainment",CTV SCI-FI Channel (R)
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3060
+#EXTINF:-1 tvg-id="DocumentaryCanada.ca" tvg-name="Documentary (R)" group-title="ENG - Entertainment",Documentary (R)
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93115
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.ca" tvg-name="E! Entertainment CA" group-title="ENG - Entertainment",E! Entertainment CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3109
+#EXTINF:-1 tvg-id="FlavourNetwork.ca" tvg-name="Flavour Network (R)" group-title="ENG - Entertainment",Flavour Network (R)
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3080
+#EXTINF:-1 tvg-id="FX.ca" tvg-name="FX CA" group-title="ENG - Entertainment",FX CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3054
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="FXX CA" group-title="ENG - Entertainment",FXX CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3055
+#EXTINF:-1 tvg-id="GameShowNetwork.ca" tvg-name="Game Show Network CA" group-title="ENG - Entertainment",Game Show Network CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88793
+#EXTINF:-1 tvg-id="GAMEPLUS.ca" tvg-name="Game+ CA" group-title="ENG - Entertainment",Game+ CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3081
+#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="Global Calgary" group-title="ENG - Entertainment",Global Calgary
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/87967
+#EXTINF:-1 tvg-id="GlobalDurham-CHEXTV2.ca" tvg-name="Global Durham" group-title="ENG - Entertainment",Global Durham
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59857
+#EXTINF:-1 tvg-id="GlobalDurham-CHEXTV2.ca" tvg-name="Global Durham" group-title="ENG - Entertainment",Global Durham
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3062
+#EXTINF:-1 tvg-id="GlobalMaritimes-CIHF.ca" tvg-name="Global Halifax" group-title="ENG - Entertainment",Global Halifax
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3276
+#EXTINF:-1 tvg-id="GlobalKingston-CKWS.ca" tvg-name="Global Kingston" group-title="ENG - Entertainment",Global Kingston
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/141739
+#EXTINF:-1 tvg-id="GlobalMaritimes-CIHF.ca" tvg-name="Global Halifax HD" group-title="ENG - Entertainment",Global Halifax HD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88027
+#EXTINF:-1 tvg-id="GlobalMontreal-CKMI.ca" tvg-name="Global Montreal " group-title="ENG - Entertainment",Global Montreal
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/141740
+#EXTINF:-1 tvg-id="GlobalEdmonton-CITV.ca" tvg-name="Global Edmonton" group-title="ENG - Entertainment",Global Edmonton
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/505081
+#EXTINF:-1 tvg-id="GlobalSaskatoon-CFSK.ca" tvg-name="Global Saskatoon" group-title="ENG - Entertainment",Global Saskatoon
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/609763
+#EXTINF:-1 tvg-id="GlobalPeterborough-CHEX.ca" tvg-name="Global Peterborough (B)" group-title="ENG - Entertainment",Global Peterborough (B)
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93025
+#EXTINF:-1 tvg-id="GlobalToronto-CIII.ca" tvg-name="Global Toronto " group-title="ENG - Entertainment",Global Toronto 
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3277
+#EXTINF:-1 tvg-id="GlobalToronto-CIII.ca" tvg-name="Global Toronto" group-title="ENG - Entertainment",Global Toronto
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3102
+#EXTINF:-1 tvg-id="GlobalBC-CHAN.ca" tvg-name="Global Vancouver" group-title="ENG - Entertainment",Global Vancouver
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3278
+#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="Home Network" group-title="ENG - Entertainment",Home Network
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3100
+#EXTINF:-1 tvg-id="History.ca" tvg-name="History Channel CA" group-title="ENG - Entertainment",History Channel CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3099
+#EXTINF:-1 tvg-id="HLN.ca" tvg-name="HLN CA" group-title="ENG - Entertainment",HLN CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3079
+#EXTINF:-1 tvg-id="HLN.ca" tvg-name="HLN CA" group-title="ENG - Entertainment",HLN CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3098
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="ID CA" group-title="ENG - Entertainment",ID CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3282
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-name="Knowledge Network" group-title="ENG - Entertainment",Knowledge Network
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/87955
+#EXTINF:-1 tvg-id="Lifetime.ca" tvg-name="Lifetime CA" group-title="ENG - Entertainment",Lifetime CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3097
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature SD1 CA" group-title="ENG - Entertainment",Love Nature SD1 CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3167
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature SD2 CA" group-title="ENG - Entertainment",Love Nature SD2 CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/92715
+#EXTINF:-1 tvg-id="MagnoliaNetwork.ca" tvg-name="Magnolia Network CA" group-title="ENG - Entertainment",Magnolia Network CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3086
+#EXTINF:-1 tvg-id="MakefulTV.ca" tvg-name="Makeful" group-title="ENG - Entertainment",Makeful
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3096
+#EXTINF:-1 tvg-id="Much.Music.HD.ca2" tvg-name="Much HD1" group-title="ENG - Entertainment",Much HD1
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3149
+#EXTINF:-1 tvg-id="Much.Music.HD.ca2" tvg-name="Much HD2" group-title="ENG - Entertainment",Much HD2
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3094
+#EXTINF:-1 tvg-id="CJON-NTV.ca" tvg-name="NTV CJON CA" group-title="ENG - Entertainment",NTV CJON CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/417709
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount (East) HD3 USA" group-title="ENG - Entertainment",Paramount (East) HD3 USA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3295
+#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="Showcase" group-title="ENG - Entertainment",Showcase
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3066
+#EXTINF:-1 tvg-id="SmithsonianChannel.ca" tvg-name="Smithsonian CA" group-title="ENG - Entertainment",Smithsonian CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88794
+#EXTINF:-1 tvg-id="SuperChannelHeartandHome.ca" tvg-name="Super Channel Heart & Home" group-title="ENG - Entertainment",Super Channel Heart & Home
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88024
+#EXTINF:-1 tvg-id="T+E.ca" tvg-name="Travel + Escape" group-title="ENG - Entertainment",Travel + Escape
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647748
+#EXTINF:-1 tvg-id="TodaysShoppingChoice.ca" tvg-name="TSC Shopping CA (B)" group-title="ENG - Entertainment",TSC Shopping CA (B)
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3293
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="TLN (East) CA" group-title="ENG - Entertainment",TLN (East) CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647752
+#EXTINF:-1 tvg-id="TLNPacific.ca" tvg-name="TLN (West) CA" group-title="ENG - Entertainment",TLN (West) CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647753
+#EXTINF:-1 tvg-id="T+E.ca" tvg-name="Travel + Escape" group-title="ENG - Entertainment",Travel + Escape
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3296
+#EXTINF:-1 tvg-id="TodaysShoppingChoice.ca" tvg-name="TSC Shopping CA" group-title="ENG - Entertainment",TSC Shopping CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3075
+#EXTINF:-1 tvg-id="TVOntario-CICA.ca" tvg-name="TVO CA" group-title="ENG - Entertainment",TVO CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59856
+#EXTINF:-1 tvg-id="VisionTV.ca" tvg-name="Vision TV CA" group-title="ENG - Entertainment",Vision TV CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3051
+#EXTINF:-1 tvg-id="WNetwork.ca" tvg-name="W NETWORK (East) CA" group-title="ENG - Entertainment",W NETWORK (East) CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/103818
+#EXTINF:-1 tvg-id="WNetworkPacific.ca" tvg-name="W NETWORK (West) CA" group-title="ENG - Entertainment",W NETWORK (West) CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3050
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="YES TV CA" group-title="ENG - Entertainment",YES TV CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3049
+#EXTINF:-1 tvg-id="CTVKitchener-CKCO.ca" tvg-name="CTV Kitchener" group-title="ENG - Entertainment",CTV Kitchener
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1268107
+#EXTINF:-1 tvg-id="CHEK.ca" tvg-name="CHEK" group-title="ENG - Entertainment",CHEK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1423681
 
 #GROUP:ENG - Movies
 #EXTINF:-1 tvg-id="SBSWorldMoviesSydney.au" tvg-name="SBS World Movies Sydney (D)" group-title="ENG - Movies",SBS World Movies Sydney (D)
@@ -4515,6 +4653,20 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1426786
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1426787
 #EXTINF:-1 tvg-id="starzencoresuspensepacific.us" tvg-name="USA Starz Encore Suspense West" group-title="ENG - Movies",USA Starz Encore Suspense West
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1426788
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="HBO 2 CA" group-title="ENG - Movies",HBO 2 CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3188
+#EXTINF:-1 tvg-id="hollywoodsuite70s.ca" tvg-name="Hollywood Suite 70's" group-title="ENG - Movies",Hollywood Suite 70's
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59884
+#EXTINF:-1 tvg-id="hollywoodsuite80s.ca" tvg-name="Hollywood Suite 80's" group-title="ENG - Movies",Hollywood Suite 80's
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59883
+#EXTINF:-1 tvg-id="hollywoodsuite90s.ca" tvg-name="Hollywood Suite 90's" group-title="ENG - Movies",Hollywood Suite 90's
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3367
+#EXTINF:-1 tvg-id="MovieTime.ca" tvg-name="MovieTime" group-title="ENG - Movies",MovieTime
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3056
+#EXTINF:-1 tvg-id="SilverScreenClassics.ca" tvg-name="Silver Screen Classics" group-title="ENG - Movies",Silver Screen Classics
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3294
+#EXTINF:-1 tvg-id="TCM.ca" tvg-name="TCM CA" group-title="ENG - Movies",TCM CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3065
 
 #GROUP:ESP - Local
 #EXTINF:-1 tvg-id="UnivisionKTVW.us" tvg-name="AZ | Phoenix | Univision KTVW" group-title="ESP - Local",AZ | Phoenix | Univision KTVW
@@ -4656,295 +4808,35 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1431200
 #EXTINF:-1 tvg-name="BR SBT TV Aratu Bahia" group-title="POR - Brazil",BR SBT TV Aratu Bahia
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1431201
 
-#GROUP:ENG - Canada
-#EXTINF:-1 tvg-name="CA BBC Toronto Gaunda Punjab" tvg-logo="https://static.realiptv.to/snapshots/87944.jpg" group-title="ENG - Canada",CA BBC Toronto Gaunda Punjab
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/87944
-#EXTINF:-1 tvg-id="bbcworld.ca" tvg-name="CA BBC WORLD" tvg-logo="https://static.realiptv.to/snapshots/3246.jpg" group-title="ENG - Canada",CA BBC WORLD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3246
-#EXTINF:-1 tvg-name="CA CTV News Saskatoon" tvg-logo="https://static.realiptv.to/snapshots/679242.jpg" group-title="ENG - Canada",CA CTV News Saskatoon
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679242
-#EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-name="CA CTV SCI-FI Channel (R)" tvg-logo="https://static.realiptv.to/snapshots/3060.jpg" group-title="ENG - Canada",CA CTV SCI-FI Channel (R)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3060
-#EXTINF:-1 tvg-id="CTVSpeed.ca" tvg-name="CTV Speed Channel" group-title="ENG - Canada",CTV Speed Channel
+#GROUP:ENG - Sports Auto
+#EXTINF:-1 tvg-id="CTVSpeed.ca" tvg-name="CTV Speed Channel" group-title="ENG - Sports Auto",CTV Speed Channel
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59878
-#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA Disney Channel (R)" tvg-logo="https://static.realiptv.to/snapshots/3113.jpg" group-title="ENG - Canada",CA Disney Channel (R)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3113
-#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA Disney Junior" tvg-logo="https://static.realiptv.to/snapshots/3136.jpg" group-title="ENG - Canada",CA Disney Junior
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3136
-#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA DISNEY XD (R)" tvg-logo="https://static.realiptv.to/snapshots/3112.jpg" group-title="ENG - Canada",CA DISNEY XD (R)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3112
-#EXTINF:-1 tvg-id="documentarychannel.ca" tvg-name="CA DOCUMENTARY (R)" tvg-logo="https://static.realiptv.to/snapshots/93115.jpg" group-title="ENG - Canada",CA DOCUMENTARY (R)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93115
-#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA E! Entertainment" tvg-logo="https://static.realiptv.to/snapshots/3109.jpg" group-title="ENG - Canada",CA E! Entertainment
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3109
-#EXTINF:-1 tvg-id="WTWCTV" tvg-name="CA FAITH TV" tvg-logo="https://static.realiptv.to/snapshots/93121.jpg" group-title="ENG - Canada",CA FAITH TV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93121
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA Food Network (R)" tvg-logo="https://static.realiptv.to/snapshots/3080.jpg" group-title="ENG - Canada",CA Food Network (R)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3080
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA FOX NEWS" tvg-logo="https://static.realiptv.to/snapshots/3275.jpg" group-title="ENG - Canada",CA FOX NEWS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3275
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA Fox News HD (R)" tvg-logo="https://static.realiptv.to/snapshots/87991.jpg" group-title="ENG - Canada",CA Fox News HD (R)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/87991
-#EXTINF:-1 tvg-id="fx.ca" tvg-name="CA FX" tvg-logo="https://static.realiptv.to/snapshots/3054.jpg" group-title="ENG - Canada",CA FX
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3054
-#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA FXX" tvg-logo="https://static.realiptv.to/snapshots/3055.jpg" group-title="ENG - Canada",CA FXX
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3055
-#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA GAME SHOW NETWORK" tvg-logo="https://static.realiptv.to/snapshots/88793.jpg" group-title="ENG - Canada",CA GAME SHOW NETWORK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88793
-#EXTINF:-1 tvg-id="gameplus.ca" tvg-name="CA Game+" tvg-logo="https://static.realiptv.to/snapshots/3081.jpg" group-title="ENG - Canada",CA Game+
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3081
-#EXTINF:-1 tvg-id="globalcalgary.ca" tvg-name="CA Global Calgary" tvg-logo="https://static.realiptv.to/snapshots/87967.jpg" group-title="ENG - Canada",CA Global Calgary
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/87967
-#EXTINF:-1 tvg-id="globaldurham.ca" tvg-name="CA Global Durham" tvg-logo="https://static.realiptv.to/snapshots/59857.jpg" group-title="ENG - Canada",CA Global Durham
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59857
-#EXTINF:-1 tvg-id="globaldurham.ca" tvg-name="CA Global Durham" tvg-logo="https://static.realiptv.to/snapshots/3062.jpg" group-title="ENG - Canada",CA Global Durham
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3062
-#EXTINF:-1 tvg-id="globalhalifaxcihf.ca" tvg-name="CA GLOBAL HALIFAX" tvg-logo="https://static.realiptv.to/snapshots/3276.jpg" group-title="ENG - Canada",CA GLOBAL HALIFAX
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3276
-#EXTINF:-1 tvg-id="CKWS.ca" tvg-name="CA GLOBAL KINGSTON" tvg-logo="https://static.realiptv.to/snapshots/141739.jpg" group-title="ENG - Canada",CA GLOBAL KINGSTON
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/141739
-#EXTINF:-1 tvg-id="CA: GLOBAL MARITIMES NB" tvg-name="CA Global Maritimes HD" tvg-logo="https://static.realiptv.to/snapshots/88027.jpg" group-title="ENG - Canada",CA Global Maritimes HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88027
-#EXTINF:-1 tvg-id="globalmontreal.ca" tvg-name="CA GLOBAL MONTREAL" tvg-logo="https://static.realiptv.to/snapshots/141740.jpg" group-title="ENG - Canada",CA GLOBAL MONTREAL
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/141740
-#EXTINF:-1 tvg-id="globalnewsbc1.ca" tvg-name="CA Global National News" tvg-logo="https://static.realiptv.to/snapshots/3193.jpg" group-title="ENG - Canada",CA Global National News
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3193
-#EXTINF:-1 tvg-id="globaledmonton.ca" tvg-name="CA Global News Edmonton" tvg-logo="https://static.realiptv.to/snapshots/505081.jpg" group-title="ENG - Canada",CA Global News Edmonton
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/505081
-#EXTINF:-1 tvg-id="globalsaskatoon.ca" tvg-name="CA Global News Saskatoon" tvg-logo="https://static.realiptv.to/snapshots/609763.jpg" group-title="ENG - Canada",CA Global News Saskatoon
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/609763
-#EXTINF:-1 tvg-id="globalbc.ca" tvg-name="CA Global Peterborough (B)" tvg-logo="https://static.realiptv.to/snapshots/93025.jpg" group-title="ENG - Canada",CA Global Peterborough (B)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93025
-#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA GLOBAL TORONTO" tvg-logo="https://static.realiptv.to/snapshots/3277.jpg" group-title="ENG - Canada",CA GLOBAL TORONTO
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3277
-#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA Global Toronto" tvg-logo="https://static.realiptv.to/snapshots/3102.jpg" group-title="ENG - Canada",CA Global Toronto
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3102
-#EXTINF:-1 tvg-name="CA GLOBAL VANCOUVER" tvg-logo="https://static.realiptv.to/snapshots/3278.jpg" group-title="ENG - Canada",CA GLOBAL VANCOUVER
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3278
-#EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://static.realiptv.to/snapshots/3101.jpg" group-title="ENG - Canada",CA GOLF
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3101
-#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA HBO 2" tvg-logo="https://static.realiptv.to/snapshots/3188.jpg" group-title="ENG - Canada",CA HBO 2
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3188
-#EXTINF:-1 tvg-id="hgtv.ca" tvg-name="CA HGTV" tvg-logo="https://static.realiptv.to/snapshots/3100.jpg" group-title="ENG - Canada",CA HGTV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3100
-#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA History Channel" tvg-logo="https://static.realiptv.to/snapshots/3099.jpg" group-title="ENG - Canada",CA History Channel
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3099
-#EXTINF:-1 tvg-id="hln.ca" tvg-name="CA HLN" tvg-logo="https://static.realiptv.to/snapshots/3079.jpg" group-title="ENG - Canada",CA HLN
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3079
-#EXTINF:-1 tvg-id="hln.ca" tvg-name="CA HLN" tvg-logo="https://static.realiptv.to/snapshots/3098.jpg" group-title="ENG - Canada",CA HLN
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3098
-#EXTINF:-1 tvg-id="hollywoodsuite70s.ca" tvg-name="CA Hollywood Suite 70's" tvg-logo="https://static.realiptv.to/snapshots/59884.jpg" group-title="ENG - Canada",CA Hollywood Suite 70's
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59884
-#EXTINF:-1 tvg-id="hollywoodsuite80s.ca" tvg-name="CA Hollywood Suite 80's" tvg-logo="https://static.realiptv.to/snapshots/59883.jpg" group-title="ENG - Canada",CA Hollywood Suite 80's
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59883
-#EXTINF:-1 tvg-id="hollywoodsuite90s.ca" tvg-name="CA Hollywood Suite 90's" tvg-logo="https://static.realiptv.to/snapshots/3367.jpg" group-title="ENG - Canada",CA Hollywood Suite 90's
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3367
-#EXTINF:-1 tvg-id="CA: ICI MONTREAL" tvg-name="CA ICI Montreal (FR)" tvg-logo="https://static.realiptv.to/snapshots/3225.jpg" group-title="ENG - Canada",CA ICI Montreal (FR)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3225
-#EXTINF:-1 tvg-id="iciradiocanadamontreal.ca" tvg-name="CA ICI RDI" tvg-logo="https://static.realiptv.to/snapshots/3151.jpg" group-title="ENG - Canada",CA ICI RDI
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3151
-#EXTINF:-1 tvg-id="investigationdiscovery.ca" tvg-name="CA ID" tvg-logo="https://static.realiptv.to/snapshots/3282.jpg" group-title="ENG - Canada",CA ID
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3282
-#EXTINF:-1 tvg-id="investigationdiscovery.ca" tvg-name="CA Investigation Discovery HD" tvg-logo="https://static.realiptv.to/snapshots/88083.jpg" group-title="ENG - Canada",CA Investigation Discovery HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88083
-#EXTINF:-1 tvg-id="knowledgenetwork.ca" tvg-name="CA Knowledge Network" tvg-logo="https://static.realiptv.to/snapshots/87955.jpg" group-title="ENG - Canada",CA Knowledge Network
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/87955
-#EXTINF:-1 tvg-id="CA: LCN" tvg-name="CA LCN (FR)" tvg-logo="https://static.realiptv.to/snapshots/3228.jpg" group-title="ENG - Canada",CA LCN (FR)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3228
-#EXTINF:-1 tvg-id="WTAP" tvg-name="CA Legislative Assembly of British Columbia Committee A" tvg-logo="https://static.realiptv.to/snapshots/88045.jpg" group-title="ENG - Canada",CA Legislative Assembly of British Columbia Committee A
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88045
-#EXTINF:-1 tvg-name="CA Legislative Assembly of Ontario" tvg-logo="https://static.realiptv.to/snapshots/88044.jpg" group-title="ENG - Canada",CA Legislative Assembly of Ontario
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88044
-#EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="CA Lifetime" tvg-logo="https://static.realiptv.to/snapshots/3097.jpg" group-title="ENG - Canada",CA Lifetime
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3097
-#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA Love Nature" tvg-logo="https://static.realiptv.to/snapshots/3312.jpg" group-title="ENG - Canada",CA Love Nature
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3312
-#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA Love Nature" tvg-logo="https://static.realiptv.to/snapshots/3167.jpg" group-title="ENG - Canada",CA Love Nature
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3167
-#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA LOVE NATURE" tvg-logo="https://static.realiptv.to/snapshots/92715.jpg" group-title="ENG - Canada",CA LOVE NATURE
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/92715
-#EXTINF:-1 tvg-id="magnolianetwork.ca" tvg-name="CA MAGNOLIA" tvg-logo="https://static.realiptv.to/snapshots/3086.jpg" group-title="ENG - Canada",CA MAGNOLIA
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3086
-#EXTINF:-1 tvg-id="makeful.ca" tvg-name="CA Makeful" tvg-logo="https://static.realiptv.to/snapshots/3096.jpg" group-title="ENG - Canada",CA Makeful
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3096
-#EXTINF:-1 tvg-id="CA: MLB NETWORK" tvg-name="CA MLB Network" tvg-logo="https://static.realiptv.to/snapshots/3150.jpg" group-title="ENG - Canada",CA MLB Network
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3150
-#EXTINF:-1 tvg-id="WTWCTV" tvg-name="CA Montreal Greek TV" tvg-logo="https://static.realiptv.to/snapshots/87956.jpg" group-title="ENG - Canada",CA Montreal Greek TV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/87956
-#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA MovieTime" tvg-logo="https://static.realiptv.to/snapshots/3056.jpg" group-title="ENG - Canada",CA MovieTime
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3056
-#EXTINF:-1 tvg-id="CA: MSNBC" tvg-name="CA MSNBC" tvg-logo="https://static.realiptv.to/snapshots/93125.jpg" group-title="ENG - Canada",CA MSNBC
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93125
-#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA MTV" tvg-logo="https://static.realiptv.to/snapshots/3095.jpg" group-title="ENG - Canada",CA MTV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3095
-#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA Much" tvg-logo="https://static.realiptv.to/snapshots/3149.jpg" group-title="ENG - Canada",CA Much
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3149
-#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA MUCH_MUSIC" tvg-logo="https://static.realiptv.to/snapshots/3094.jpg" group-title="ENG - Canada",CA MUCH_MUSIC
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3094
-#EXTINF:-1 tvg-id="WJW" tvg-name="CA My 43 (WUAB) Cleveland" tvg-logo="https://static.realiptv.to/snapshots/88039.jpg" group-title="ENG - Canada",CA My 43 (WUAB) Cleveland
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88039
-#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA NAT GEO" tvg-logo="https://static.realiptv.to/snapshots/3093.jpg" group-title="ENG - Canada",CA NAT GEO
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3093
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA Nat Geo Wild" tvg-logo="https://static.realiptv.to/snapshots/3058.jpg" group-title="ENG - Canada",CA Nat Geo Wild
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3058
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA NAT GEO WILD" tvg-logo="https://static.realiptv.to/snapshots/92712.jpg" group-title="ENG - Canada",CA NAT GEO WILD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/92712
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA NBA TV" tvg-logo="https://static.realiptv.to/snapshots/3092.jpg" group-title="ENG - Canada",CA NBA TV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3092
-#EXTINF:-1 tvg-id="ntvcjon.ca" tvg-name="CA Newfoundland" tvg-logo="https://static.realiptv.to/snapshots/417709.jpg" group-title="ENG - Canada",CA Newfoundland
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/417709
-#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA NFL Network" tvg-logo="https://static.realiptv.to/snapshots/3067.jpg" group-title="ENG - Canada",CA NFL Network
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3067
-#EXTINF:-1 tvg-id="omni1.ca" tvg-name="CA OMNI East" tvg-logo="https://static.realiptv.to/snapshots/59855.jpg" group-title="ENG - Canada",CA OMNI East
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59855
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA PARAMOUNT" tvg-logo="https://static.realiptv.to/snapshots/3295.jpg" group-title="ENG - Canada",CA PARAMOUNT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3295
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA Paramount Network" tvg-logo="https://static.realiptv.to/snapshots/50883.jpg" group-title="ENG - Canada",CA Paramount Network
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/50883
-#EXTINF:-1 tvg-id="peachtree.ca" tvg-name="CA PEACHTREE TV" tvg-logo="https://static.realiptv.to/snapshots/3084.jpg" group-title="ENG - Canada",CA PEACHTREE TV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3084
-#EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA PRISE" tvg-logo="https://static.realiptv.to/snapshots/3291.jpg" group-title="ENG - Canada",CA PRISE
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3291
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://static.realiptv.to/snapshots/3232.jpg" group-title="ENG - Canada",CA RDS (FR)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3232
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA RDS (HD)" tvg-logo="https://static.realiptv.to/snapshots/59870.jpg" group-title="ENG - Canada",CA RDS (HD)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59870
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA RDS (HQ)" tvg-logo="https://static.realiptv.to/snapshots/59887.jpg" group-title="ENG - Canada",CA RDS (HQ)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59887
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA RDS (LQ)" tvg-logo="https://static.realiptv.to/snapshots/59888.jpg" group-title="ENG - Canada",CA RDS (LQ)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59888
-#EXTINF:-1 tvg-name="CA Rev TV" tvg-logo="https://static.realiptv.to/snapshots/702667.jpg" group-title="ENG - Canada",CA Rev TV
+#EXTINF:-1 tvg-id="REVTV.ca" tvg-name="Rev TV CA" group-title="ENG - Sports Auto",Rev TV CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/702667
-#EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA Showcase" tvg-logo="https://static.realiptv.to/snapshots/3066.jpg" group-title="ENG - Canada",CA Showcase
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3066
-#EXTINF:-1 tvg-id="silverscreenclassics.ca" tvg-name="CA SILVER SCREEN CLASSICS" tvg-logo="https://static.realiptv.to/snapshots/3294.jpg" group-title="ENG - Canada",CA SILVER SCREEN CLASSICS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3294
-#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA SMITHSONIAN CHANNEL" tvg-logo="https://static.realiptv.to/snapshots/88794.jpg" group-title="ENG - Canada",CA SMITHSONIAN CHANNEL
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88794
-#EXTINF:-1 tvg-id="superchannelheartandhome.ca" tvg-name="CA Super Channel Heart & Home" tvg-logo="https://static.realiptv.to/snapshots/88024.jpg" group-title="ENG - Canada",CA Super Channel Heart & Home
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88024
-#EXTINF:-1 tvg-id="travelescape.ca" tvg-name="CA T+E" tvg-logo="https://static.realiptv.to/snapshots/647748.jpg" group-title="ENG - Canada",CA T+E
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647748
-#EXTINF:-1 tvg-id="telemagino.ca" tvg-name="CA TELEMAGINO  (FR)" tvg-logo="https://static.realiptv.to/snapshots/3211.jpg" group-title="ENG - Canada",CA TELEMAGINO  (FR)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3211
-#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA Teletoon (FR)" tvg-logo="https://static.realiptv.to/snapshots/3134.jpg" group-title="ENG - Canada",CA Teletoon (FR)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3134
-#EXTINF:-1 tvg-id="theshoppingchannel.ca" tvg-name="CA THE SHOPPING CHANNEL (B)" tvg-logo="https://static.realiptv.to/snapshots/3293.jpg" group-title="ENG - Canada",CA THE SHOPPING CHANNEL (B)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3293
-#EXTINF:-1 tvg-name="CA TLN" tvg-logo="https://static.realiptv.to/snapshots/647752.jpg" group-title="ENG - Canada",CA TLN
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647752
-#EXTINF:-1 tvg-name="CA TLN West" tvg-logo="https://static.realiptv.to/snapshots/647753.jpg" group-title="ENG - Canada",CA TLN West
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647753
-#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA Toronto 360" tvg-logo="https://static.realiptv.to/snapshots/87962.jpg" group-title="ENG - Canada",CA Toronto 360
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/87962
-#EXTINF:-1 tvg-id="travelescape.ca" tvg-name="CA TRAVEL ESCAPE" tvg-logo="https://static.realiptv.to/snapshots/3296.jpg" group-title="ENG - Canada",CA TRAVEL ESCAPE
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3296
-#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="CA Treehouse" tvg-logo="https://static.realiptv.to/snapshots/3057.jpg" group-title="ENG - Canada",CA Treehouse
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3057
-#EXTINF:-1 tvg-name="CA TSC" tvg-logo="https://static.realiptv.to/snapshots/3075.jpg" group-title="ENG - Canada",CA TSC
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3075
-#EXTINF:-1 tvg-id="turnerclassicmovies.ca" tvg-name="CA Turner Classic Movies" tvg-logo="https://static.realiptv.to/snapshots/3065.jpg" group-title="ENG - Canada",CA Turner Classic Movies
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3065
-#EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA TV5 (FR)" tvg-logo="https://static.realiptv.to/snapshots/3131.jpg" group-title="ENG - Canada",CA TV5 (FR)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3131
-#EXTINF:-1 tvg-id="tva.ca" tvg-name="CA TVA Hull (CHOT)" tvg-logo="https://static.realiptv.to/snapshots/59868.jpg" group-title="ENG - Canada",CA TVA Hull (CHOT)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59868
-#EXTINF:-1 tvg-id="tva.ca" tvg-name="CA TVA Montreal (CFTM)" tvg-logo="https://static.realiptv.to/snapshots/3130.jpg" group-title="ENG - Canada",CA TVA Montreal (CFTM)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3130
-#EXTINF:-1 tvg-name="CA TVA Riviere-du-Loup (CIMT)" tvg-logo="https://static.realiptv.to/snapshots/59852.jpg" group-title="ENG - Canada",CA TVA Riviere-du-Loup (CIMT)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59852
-#EXTINF:-1 tvg-id="CA: TVO" tvg-name="CA TVO" tvg-logo="https://static.realiptv.to/snapshots/59856.jpg" group-title="ENG - Canada",CA TVO
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59856
-#EXTINF:-1 tvg-id="unistv.ca" tvg-name="CA Unis" tvg-logo="https://static.realiptv.to/snapshots/647751.jpg" group-title="ENG - Canada",CA Unis
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647751
-#EXTINF:-1 tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://static.realiptv.to/snapshots/3129.jpg" group-title="ENG - Canada",CA Unis_TV_(FR)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3129
-#EXTINF:-1 tvg-id="vision.ca" tvg-name="CA VISION" tvg-logo="https://static.realiptv.to/snapshots/3051.jpg" group-title="ENG - Canada",CA VISION
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3051
-#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA W NETWORK" tvg-logo="https://static.realiptv.to/snapshots/103818.jpg" group-title="ENG - Canada",CA W NETWORK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/103818
-#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA W NETWORK West" tvg-logo="https://static.realiptv.to/snapshots/3050.jpg" group-title="ENG - Canada",CA W NETWORK West
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3050
-#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA WEATHER NETWORK" tvg-logo="https://static.realiptv.to/snapshots/93138.jpg" group-title="ENG - Canada",CA WEATHER NETWORK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93138
-#EXTINF:-1 tvg-name="CA WNLO Buffalo (CW23)" tvg-logo="https://static.realiptv.to/snapshots/3048.jpg" group-title="ENG - Canada",CA WNLO Buffalo (CW23)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3048
-#EXTINF:-1 tvg-id="WFTC" tvg-name="CA WWE Network" tvg-logo="https://static.realiptv.to/snapshots/59881.jpg" group-title="ENG - Canada",CA WWE Network
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59881
-#EXTINF:-1 tvg-id="yestv.ca" tvg-name="CA YES TV" tvg-logo="https://static.realiptv.to/snapshots/3049.jpg" group-title="ENG - Canada",CA YES TV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3049
-#EXTINF:-1 tvg-name="CA YTV East" tvg-logo="https://static.realiptv.to/snapshots/647754.jpg" group-title="ENG - Canada",CA YTV East
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647754
-#EXTINF:-1 tvg-id="ytvwest.ca" tvg-name="CA YTV West" tvg-logo="https://static.realiptv.to/snapshots/647755.jpg" group-title="ENG - Canada",CA YTV West
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647755
-#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA-FR CASA (B)" tvg-logo="https://static.realiptv.to/snapshots/3218.jpg" group-title="ENG - Canada",CA-FR CASA (B)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3218
-#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="CA-FR RDS INFO  (B)" tvg-logo="https://static.realiptv.to/snapshots/3234.jpg" group-title="ENG - Canada",CA-FR RDS INFO  (B)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3234
-#EXTINF:-1 tvg-id="seriesplus.ca" tvg-name="CA-FR Series+" tvg-logo="https://static.realiptv.to/snapshots/3235.jpg" group-title="ENG - Canada",CA-FR Series+
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3235
-#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CA-FR SUPER ECRAN 2 (B)" tvg-logo="https://static.realiptv.to/snapshots/3301.jpg" group-title="ENG - Canada",CA-FR SUPER ECRAN 2 (B)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3301
-#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA-FR Zeste (B)" tvg-logo="https://static.realiptv.to/snapshots/3243.jpg" group-title="ENG - Canada",CA-FR Zeste (B)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3243
-#EXTINF:-1 tvg-id="WKBD" tvg-name="US CBS 62 (WWJ) Detroit" tvg-logo="https://static.realiptv.to/snapshots/88065.jpg" group-title="ENG - Canada",US CBS 62 (WWJ) Detroit
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88065
-#EXTINF:-1 tvg-name="CA (FR) Frissons" tvg-logo="https://static.realiptv.to/snapshots/1091280.jpg" group-title="ENG - Canada",CA (FR) Frissons
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1091280
-#EXTINF:-1 tvg-id="ctvkitchener.ca" tvg-name="CA CTV Kitchener" tvg-logo="https://static.realiptv.to/snapshots/1268107.jpg" group-title="ENG - Canada",CA CTV Kitchener
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1268107
-#EXTINF:-1 tvg-id="globalbc.ca" tvg-name="CA Global BC" tvg-logo="https://static.realiptv.to/snapshots/1269362.jpg" group-title="ENG - Canada",CA Global BC
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1269362
-#EXTINF:-1 tvg-id="globalnewsbc1.ca" tvg-name="CA Global BC News" tvg-logo="https://static.realiptv.to/snapshots/1269373.jpg" group-title="ENG - Canada",CA Global BC News
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1269373
-#EXTINF:-1 tvg-name="CA CHEK Victoria" tvg-logo="https://static.realiptv.to/snapshots/1423681.jpg" group-title="ENG - Canada",CA CHEK Victoria
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1423681
-
-#GROUP:ENG - Canada Sports
-#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA BEIN SPORTS" tvg-logo="https://static.realiptv.to/snapshots/3153.jpg" group-title="ENG - Canada Sports",CA BEIN SPORTS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3153
-#EXTINF:-1 tvg-id="CA: BEIN SPORT CANADA" tvg-name="CA Bein Sports HD" tvg-logo="https://static.realiptv.to/snapshots/88062.jpg" group-title="ENG - Canada Sports",CA Bein Sports HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88062
-#EXTINF:-1 tvg-id="foxsportsracing.ca" tvg-name="CA Fox Sports Racing" tvg-logo="https://static.realiptv.to/snapshots/3053.jpg" group-title="ENG - Canada Sports",CA Fox Sports Racing
+#EXTINF:-1 tvg-id="Fox.Sports.Racing.ca2" tvg-name="Fox Sports Racing CA" group-title="ENG - Sports Auto",Fox Sports Racing CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3053
-#EXTINF:-1 tvg-id="CA: SPORTSMAN" tvg-name="CA SPORTSMAN (B)" tvg-logo="https://static.realiptv.to/snapshots/93136.jpg" group-title="ENG - Canada Sports",CA SPORTSMAN (B)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93136
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA SPORTSNET 360" tvg-logo="https://static.realiptv.to/snapshots/3073.jpg" group-title="ENG - Canada Sports",CA SPORTSNET 360
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3073
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA SPORTSNET EAST" tvg-logo="https://static.realiptv.to/snapshots/3072.jpg" group-title="ENG - Canada Sports",CA SPORTSNET EAST
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3072
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA SPORTSNET ONE" tvg-logo="https://static.realiptv.to/snapshots/3071.jpg" group-title="ENG - Canada Sports",CA SPORTSNET ONE
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3071
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA SPORTSNET ONTARIO" tvg-logo="https://static.realiptv.to/snapshots/3070.jpg" group-title="ENG - Canada Sports",CA SPORTSNET ONTARIO
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3070
-#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA SPORTSNET PACIFIC" tvg-logo="https://static.realiptv.to/snapshots/3069.jpg" group-title="ENG - Canada Sports",CA SPORTSNET PACIFIC
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3069
-#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA SPORTSNET WEST" tvg-logo="https://static.realiptv.to/snapshots/3068.jpg" group-title="ENG - Canada Sports",CA SPORTSNET WEST
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3068
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA Sportsnet World" tvg-logo="https://static.realiptv.to/snapshots/88060.jpg" group-title="ENG - Canada Sports",CA Sportsnet World
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88060
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 UHD" tvg-logo="https://static.realiptv.to/snapshots/3146.jpg" group-title="ENG - Canada Sports",CA TSN 1 UHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3146
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 UHD" tvg-logo="https://static.realiptv.to/snapshots/3145.jpg" group-title="ENG - Canada Sports",CA TSN 2 UHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3145
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 UHD" tvg-logo="https://static.realiptv.to/snapshots/3144.jpg" group-title="ENG - Canada Sports",CA TSN 3 UHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3144
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 UHD" tvg-logo="https://static.realiptv.to/snapshots/3143.jpg" group-title="ENG - Canada Sports",CA TSN 4 UHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3143
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 UHD" tvg-logo="https://static.realiptv.to/snapshots/3142.jpg" group-title="ENG - Canada Sports",CA TSN 5 UHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3142
-#EXTINF:-1 tvg-name="CA TSN5 Blackout" tvg-logo="https://static.realiptv.to/snapshots/88079.jpg" group-title="ENG - Canada Sports",CA TSN5 Blackout
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88079
-#EXTINF:-1 tvg-id="WEVVDT2" tvg-name="CA TSN5 HD Blackout 2" tvg-logo="https://static.realiptv.to/snapshots/88080.jpg" group-title="ENG - Canada Sports",CA TSN5 HD Blackout 2
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88080
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA TVA  Sports" tvg-logo="https://static.realiptv.to/snapshots/3180.jpg" group-title="ENG - Canada Sports",CA TVA  Sports
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3180
-#EXTINF:-1 tvg-id="tvasports2.ca" tvg-name="CA TVA Sports 2" tvg-logo="https://static.realiptv.to/snapshots/3179.jpg" group-title="ENG - Canada Sports",CA TVA Sports 2
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3179
-#EXTINF:-1 tvg-name="CA One Soccer" tvg-logo="https://static.realiptv.to/snapshots/1269512.jpg" group-title="ENG - Canada Sports",CA One Soccer
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1269512
+#EXTINF:-1 tvg-name="MOTORSPORT 01: " tvg-logo="https://static.realiptv.to/snapshots/712482.jpg" group-title="ENG - Sports Auto",MOTORSPORT 01:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/712482
+#EXTINF:-1 tvg-name="MOTORSPORT 02: " tvg-logo="https://static.realiptv.to/snapshots/714451.jpg" group-title="ENG - Sports Auto",MOTORSPORT 02:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714451
+#EXTINF:-1 tvg-name="MOTORSPORT 03:" tvg-logo="https://static.realiptv.to/snapshots/714452.jpg" group-title="ENG - Sports Auto",MOTORSPORT 03:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714452
+#EXTINF:-1 tvg-name="MOTORSPORT 04: " tvg-logo="https://static.realiptv.to/snapshots/714453.jpg" group-title="ENG - Sports Auto",MOTORSPORT 04:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714453
+#EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV" group-title="ENG - Sports Auto",Cars TV
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75345
+#EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV SD" group-title="ENG - Sports Auto",Cars TV SD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401219
+#EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network SD" tvg-logo="https://static.realiptv.to/snapshots/97540.jpg" group-title="ENG - Sports Auto",Racer Network SD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97540
+#EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network" group-title="ENG - Sports Auto",Racer Network USA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/5290
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo USA SD" tvg-logo="https://static.realiptv.to/snapshots/97471.jpg" group-title="ENG - Sports Auto",Discovery Turbo USA SD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97471
 
 #GROUP:Religion (All Lang)
+#EXTINF:-1 tvg-id="HopeTVManitoba-CIIT.ca" tvg-name="FAITH TV CA" group-title="Religion (All Lang)",FAITH TV CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93121
 #EXTINF:-1 tvg-id="Daystar.ca" tvg-name="DAYSTAR TV CA (B)" group-title="Religion (All Lang)",DAYSTAR TV CA (B)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3272
 #EXTINF:-1 tvg-name="US Faith Africa" tvg-logo="https://static.realiptv.to/snapshots/739838.jpg" group-title="Religion (All Lang)",US Faith Africa
@@ -4991,6 +4883,50 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/739836
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/699668
 
 #GROUP:ENG - Sports
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="GOLF" group-title="ENG - Sports",GOLF
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3101
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" group-title="ENG - Sports",MLB Network
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3150
+#EXTINF:-1 tvg-id="NBATV.ca" tvg-name="NBA TV CA" group-title="ENG - Sports",NBA TV CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3092
+#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="NFL Network CA" group-title="ENG - Sports",NFL Network CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3067
+#EXTINF:-1 tvg-id="beINSports.ca" tvg-name="beINSports CA" group-title="ENG - Sports",beINSports CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3153
+#EXTINF:-1 tvg-id="beINSports.ca" tvg-name="beIN Sports HD CA" group-title="ENG - Sports",beIN Sports HD CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88062
+#EXTINF:-1 tvg-id="SportsmanChannel.ca" tvg-name="SPORTSMAN CA (B)" group-title="ENG - Sports",SPORTSMAN CA (B)
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93136
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="Sportsnet 360 CA" group-title="ENG - Sports",Sportsnet 360 CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3073
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="Sportsnet East CA" group-title="ENG - Sports",Sportsnet East CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3072
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="Sportsnet 1 CA" group-title="ENG - Sports",Sportsnet 1 CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3071
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="Sportsnet Ontario CA" group-title="ENG - Sports",Sportsnet Ontario CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3070
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="Sportsnet Pacific CA" group-title="ENG - Sports",Sportsnet Pacific CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3069
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="Sportsnet West CA" group-title="ENG - Sports",Sportsnet West CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3068
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="Sportsnet World CA" group-title="ENG - Sports",Sportsnet World CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88060
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1 HD CA" group-title="ENG - Sports",TSN 1 HD CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3146
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2 HD CA" group-title="ENG - Sports",TSN 2 HD CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3145
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3 HD CA" group-title="ENG - Sports",TSN 3 HD CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3144
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4 HD CA" group-title="ENG - Sports",TSN 4 HD CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3143
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 HD CA" group-title="ENG - Sports",TSN 5 HD CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3142
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 HD2 CA" group-title="ENG - Sports",TSN 5 HD2 CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88079
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 HD3 CA" group-title="ENG - Sports",TSN 5 HD3 CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88080
+#EXTINF:-1 tvg-id="One.Soccer.ca2" tvg-name="One Soccer CA" group-title="ENG - Sports",One Soccer CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1269512
 #EXTINF:-1 tvg-name="USA Angel Broadcast Television" tvg-logo="https://static.realiptv.to/snapshots/88066.jpg" group-title="ENG - Sports",USA Angel Broadcast Television
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88066
 #EXTINF:-1 tvg-id="accnetwork.us" tvg-name="USA ACC Network" tvg-logo="https://static.realiptv.to/snapshots/5287.jpg" group-title="ENG - Sports",USA ACC Network
@@ -5345,6 +5281,10 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1270001
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1426065
 #EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA SPORTSMAN CHANNEL " group-title="ENG - Sports",USA SPORTSMAN CHANNEL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1437446
+
+#GROUP:ENG - FOX/MY
+#EXTINF:-1 tvg-id="WUAB-DT.us_locals1" tvg-name="OH | Cleveland | MY WUAB" group-title="ENG - FOX/MY",OH | Cleveland | MY WUAB
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88039
 
 #GROUP:ESP - Chile
 #EXTINF:-1 tvg-name="CL A&E" tvg-logo="https://static.realiptv.to/snapshots/560364.jpg" group-title="ESP - Chile",CL A&E
@@ -5873,26 +5813,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177097
 #GROUP:Z - Offline Streams
 #EXTINF:-1 tvg-id="FOXKXLT.us" tvg-name="MN | Rochester | FOX KXLT" group-title="Z - Offline Streams",MN | Rochester | FOX KXLT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629911
-
-#GROUP:ENG - Sports Auto
-#EXTINF:-1 tvg-name="MOTORSPORT 01: " tvg-logo="https://static.realiptv.to/snapshots/712482.jpg" group-title="ENG - Sports Auto",MOTORSPORT 01:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/712482
-#EXTINF:-1 tvg-name="MOTORSPORT 02: " tvg-logo="https://static.realiptv.to/snapshots/714451.jpg" group-title="ENG - Sports Auto",MOTORSPORT 02:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714451
-#EXTINF:-1 tvg-name="MOTORSPORT 03:" tvg-logo="https://static.realiptv.to/snapshots/714452.jpg" group-title="ENG - Sports Auto",MOTORSPORT 03:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714452
-#EXTINF:-1 tvg-name="MOTORSPORT 04: " tvg-logo="https://static.realiptv.to/snapshots/714453.jpg" group-title="ENG - Sports Auto",MOTORSPORT 04:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714453
-#EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV" group-title="ENG - Sports Auto",Cars TV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75345
-#EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV SD" group-title="ENG - Sports Auto",Cars TV SD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401219
-#EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network SD" tvg-logo="https://static.realiptv.to/snapshots/97540.jpg" group-title="ENG - Sports Auto",Racer Network SD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97540
-#EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network" group-title="ENG - Sports Auto",Racer Network USA
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/5290
-#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo USA SD" tvg-logo="https://static.realiptv.to/snapshots/97471.jpg" group-title="ENG - Sports Auto",Discovery Turbo USA SD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97471
 
 #GROUP:ESP - Mexico
 #EXTINF:-1 tvg-name="MX PX Sports" tvg-logo="https://static.realiptv.to/snapshots/3980.jpg" group-title="ESP - Mexico",MX PX Sports
