@@ -5,10 +5,10 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-    "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/300rip.m3u8", 
-    "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u",
+    "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/300rip-wo-events.m3u8", 
     "",
-    "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u"
+    "",
+    ""
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
