@@ -7,6 +7,7 @@ import re
 PLAYLISTS = [
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/300rip-wo-events.m3u8", 
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/dancetv.m3u8", 
+    "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/iheart.m3u8", 
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/direct.m3u8", 
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/plutotv_gb.m3u", 
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/plutotv_us.m3u", 
