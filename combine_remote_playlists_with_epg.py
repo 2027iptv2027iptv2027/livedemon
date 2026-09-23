@@ -10,6 +10,7 @@ PLAYLISTS = [
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/direct.m3u8", 
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/plutotv_gb.m3u", 
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/plutotv_us.m3u", 
+    "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/roku.m3u", 
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/samsungtvplus_gb.m3u",
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/samsungtvplus_us.m3u",
     "https://github.com/2027iptv2027iptv2027/demon_m3/raw/refs/heads/main/playlists/m3u/tubi.m3u8", 
