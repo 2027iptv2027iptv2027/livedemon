@@ -21,7 +21,7 @@ PLAYLISTS = [
 ]
 
 # EPG URL
-EPG_URL = "https://bit.ly/4dt4s5U"
+EPG_URL = "https://github.com/2027iptv2027iptv2027/multilightepg/raw/refs/heads/main/epgs/light-epg.xml.gz"
 
 # Output file
 OUTPUT_FILE = "combined_playlist.m3u"
