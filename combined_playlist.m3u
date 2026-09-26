@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/2027iptv2027iptv2027/multilightepg/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-09-26T00:01:04.536486 UTC
+# Generated on 2026-09-26T02:27:03.499844 UTC
 
 #PLAYLIST:x 300rip-wo-events
 #EXTGRP:x 300rip-wo-events
@@ -1961,7 +1961,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/435490
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/638792
 #EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation HD2 US" group-title="ENG - News",NewsNation HD2 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647784
-#EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" group-title="ENG - News",Scripps News 
+#EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" group-title="ENG - News",Scripps News
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/77414
 #EXTINF:-1 tvg-id="NHKWorld.us" tvg-name="NHK World KCET" group-title="ENG - News",NHK World KCET
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597118
@@ -3429,8 +3429,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97481
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3812
 #EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian (West) USA" group-title="ENG - Entertainment",Smithsonian (West) USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631865
-#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network" group-title="ENG - Entertainment",Space City Home Network
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663927
 #EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV" group-title="ENG - Entertainment",Start TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/469939
 #EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV (WCBS)" group-title="ENG - Entertainment",Start TV (WCBS)
@@ -4153,6 +4151,8 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2325
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89089
 #EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="PREMIER SPORTS 2 HD2 UK" group-title="ENG - Sports",PREMIER SPORTS 2 HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89090
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network" group-title="ENG - Sports",Space City Home Network
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663927
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel HD US" group-title="ENG - Sports",Golf Channel HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3101
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" group-title="ENG - Sports",MLB Network
@@ -4849,11 +4849,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1426787
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1426788
 #EXTINF:-1 tvg-id="HBO2.ca" tvg-name="HBO 2 CA" group-title="ENG - Movies",HBO 2 CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3188
-#EXTINF:-1 tvg-id="hollywoodsuite70s.ca" tvg-name="Hollywood Suite 70's" group-title="ENG - Movies",Hollywood Suite 70's
+#EXTINF:-1 tvg-id="HollywoodSuite70s+Movies.ca" tvg-name="Hollywood Suite 70's" group-title="ENG - Movies",Hollywood Suite 70's
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59884
-#EXTINF:-1 tvg-id="hollywoodsuite80s.ca" tvg-name="Hollywood Suite 80's" group-title="ENG - Movies",Hollywood Suite 80's
+#EXTINF:-1 tvg-id="HollywoodSuite80sAnd90sMovies.ca" tvg-name="Hollywood Suite 80's & 90's" group-title="ENG - Movies",Hollywood Suite 80's & 90's
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59883
-#EXTINF:-1 tvg-id="hollywoodsuite90s.ca" tvg-name="Hollywood Suite 90's" group-title="ENG - Movies",Hollywood Suite 90's
+#EXTINF:-1 tvg-id="HollywoodSuite2010s+Movies.ca" tvg-name="Hollywood Suite 2010s+" group-title="ENG - Movies",Hollywood Suite 2010s+
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3367
 #EXTINF:-1 tvg-id="MovieTime.ca" tvg-name="MovieTime" group-title="ENG - Movies",MovieTime
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3056
@@ -5143,23 +5143,15 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59878
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/702667
 #EXTINF:-1 tvg-id="Fox.Sports.Racing.ca2" tvg-name="Fox Sports Racing CA" group-title="ENG - Sports Auto",Fox Sports Racing CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3053
-#EXTINF:-1 tvg-name="MOTORSPORT 01: " tvg-logo="https://static.realiptv.to/snapshots/712482.jpg" group-title="ENG - Sports Auto",MOTORSPORT 01:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/712482
-#EXTINF:-1 tvg-name="MOTORSPORT 02: " tvg-logo="https://static.realiptv.to/snapshots/714451.jpg" group-title="ENG - Sports Auto",MOTORSPORT 02:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714451
-#EXTINF:-1 tvg-name="MOTORSPORT 03:" tvg-logo="https://static.realiptv.to/snapshots/714452.jpg" group-title="ENG - Sports Auto",MOTORSPORT 03:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714452
-#EXTINF:-1 tvg-name="MOTORSPORT 04: " tvg-logo="https://static.realiptv.to/snapshots/714453.jpg" group-title="ENG - Sports Auto",MOTORSPORT 04:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714453
 #EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV" group-title="ENG - Sports Auto",Cars TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75345
 #EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV SD" group-title="ENG - Sports Auto",Cars TV SD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401219
-#EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network SD" tvg-logo="https://static.realiptv.to/snapshots/97540.jpg" group-title="ENG - Sports Auto",Racer Network SD
+#EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network SD" group-title="ENG - Sports Auto",Racer Network SD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97540
 #EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network" group-title="ENG - Sports Auto",Racer Network USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/5290
-#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo USA SD" tvg-logo="https://static.realiptv.to/snapshots/97471.jpg" group-title="ENG - Sports Auto",Discovery Turbo USA SD
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo SD USA" group-title="ENG - Sports Auto",Discovery Turbo SD USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97471
 
 #GROUP:ENG - Classic TV & Westerns
@@ -6890,18 +6882,20 @@ https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="TheNest.us" tvg-name="The Nest (D)" group-title="ENG - Entertainment",The Nest (D)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
-#GROUP:Music (All Lang)
-#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network (D)" group-title="Music (All Lang)",The Country Network (D)
+#GROUP:ENG - Music Videos
+#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network (D)" group-title="ENG - Music Videos",The Country Network (D)
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Chiptune Radio" group-title="Music (All Lang)",24/7 Chiptune Radio
-https://watch.chiptune.fm/hls/0/stream.m3u8?cachebust=a0a999
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Vapor Funk Radio" group-title="Music (All Lang)",24/7 Vapor Funk Radio
-https://watch.vapor.fm/hls/0/stream.m3u8?cachebust=9cb8e3
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="HotBeats TV" group-title="Music (All Lang)",HotBeats TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="HotBeats TV" group-title="ENG - Music Videos",HotBeats TV
 https://rumble.com/live-hls-dvr/79c1p8/playlist.m3u8?
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Hip-Hop Radio" group-title="Music (All Lang)",Lofi Hip-Hop Radio
+
+#GROUP:ENG - Music Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Chiptune Radio" group-title="ENG - Music Radio",24/7 Chiptune Radio
+https://watch.chiptune.fm/hls/0/stream.m3u8?cachebust=a0a999
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Vapor Funk Radio" group-title="ENG - Music Radio",24/7 Vapor Funk Radio
+https://watch.vapor.fm/hls/0/stream.m3u8?cachebust=9cb8e3
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Hip-Hop Radio" group-title="ENG - Music Radio",Lofi Hip-Hop Radio
 https://rumble.com/live-hls/1essrt/playlist.m3u8?
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Synthwave Radio" group-title="Music (All Lang)",Lofi Synthwave Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Synthwave Radio" group-title="ENG - Music Radio",Lofi Synthwave Radio
 https://rumble.com/live-hls/2lh8yh/playlist.m3u8?
 
 #GROUP:ENG - Kids & Family
@@ -6925,6 +6919,10 @@ https://mthrbord.tv/hls/0/stream.m3u8
 #GROUP:Ambiance
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Nonstop Rain for Calming Vibes" group-title="Ambiance",Nonstop Rain for Calming Vibes
 https://rumble.com/live-hls-dvr/78pg2i/playlist.m3u8?
+
+#GROUP:ENG - Local CW/IND
+#EXTINF:-1 tvg-id="KCWX-DT.us_locals1" tvg-name="TX  | San Antonio | KCWX (Not 24/7)" group-title="ENG - Local CW/IND",TX  | San Antonio | KCWX (Not 24/7)
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 
 ==================================================
