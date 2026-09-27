@@ -1,65 +1,65 @@
 #EXTM3U x-tvg-url="https://github.com/2027iptv2027iptv2027/multilightepg/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-09-26T12:01:00.716233 UTC
+# Generated on 2026-09-27T00:01:29.604749 UTC
 
 #PLAYLIST:x 300rip-wo-events
 #EXTGRP:x 300rip-wo-events
 
 #GROUP:Music (All Lang)
-#EXTINF:-1 tvg-name="24/7 BARBRA STREISAND" tvg-logo="https://static.realiptv.to/snapshots/552843.jpg" group-title="Music (All Lang)",24/7 BARBRA STREISAND
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 BARBRA STREISAND" group-title="Music (All Lang)",24/7 BARBRA STREISAND
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552843
-#EXTINF:-1 tvg-name="24/7 Billy Joel" tvg-logo="https://static.realiptv.to/snapshots/552844.jpg" group-title="Music (All Lang)",24/7 Billy Joel
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Billy Joel" group-title="Music (All Lang)",24/7 Billy Joel
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552844
-#EXTINF:-1 tvg-name="24/7 Bruce Springsteen" tvg-logo="https://static.realiptv.to/snapshots/552845.jpg" group-title="Music (All Lang)",24/7 Bruce Springsteen
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Bruce Springsteen" group-title="Music (All Lang)",24/7 Bruce Springsteen
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552845
-#EXTINF:-1 tvg-name="24/7 Chicago Band" tvg-logo="https://static.realiptv.to/snapshots/552846.jpg" group-title="Music (All Lang)",24/7 Chicago Band
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Chicago Band" group-title="Music (All Lang)",24/7 Chicago Band
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552846
-#EXTINF:-1 tvg-name="24/7 Drake" tvg-logo="https://static.realiptv.to/snapshots/552847.jpg" group-title="Music (All Lang)",24/7 Drake
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Drake" group-title="Music (All Lang)",24/7 Drake
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552847
-#EXTINF:-1 tvg-name="24/7 Elton John" tvg-logo="https://static.realiptv.to/snapshots/551493.jpg" group-title="Music (All Lang)",24/7 Elton John
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Elton John" group-title="Music (All Lang)",24/7 Elton John
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/551493
-#EXTINF:-1 tvg-name="24/7 Elvis Presley" tvg-logo="https://static.realiptv.to/snapshots/552848.jpg" group-title="Music (All Lang)",24/7 Elvis Presley
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Elvis Presley" group-title="Music (All Lang)",24/7 Elvis Presley
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552848
-#EXTINF:-1 tvg-name="24/7 Eminem" tvg-logo="https://static.realiptv.to/snapshots/552849.jpg" group-title="Music (All Lang)",24/7 Eminem
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Eminem" group-title="Music (All Lang)",24/7 Eminem
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552849
-#EXTINF:-1 tvg-name="24/7 Garth Brooks Red Strokes" tvg-logo="https://static.realiptv.to/snapshots/552850.jpg" group-title="Music (All Lang)",24/7 Garth Brooks Red Strokes
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Garth Brooks Red Strokes" group-title="Music (All Lang)",24/7 Garth Brooks Red Strokes
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552850
-#EXTINF:-1 tvg-name="24/7 Herb Alpert" tvg-logo="https://static.realiptv.to/snapshots/552851.jpg" group-title="Music (All Lang)",24/7 Herb Alpert
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Herb Alpert" group-title="Music (All Lang)",24/7 Herb Alpert
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552851
-#EXTINF:-1 tvg-name="24/7 JANET JACKSON" tvg-logo="https://static.realiptv.to/snapshots/552852.jpg" group-title="Music (All Lang)",24/7 JANET JACKSON
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 JANET JACKSON" group-title="Music (All Lang)",24/7 JANET JACKSON
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552852
-#EXTINF:-1 tvg-name="24/7 Madonna" tvg-logo="https://static.realiptv.to/snapshots/552853.jpg" group-title="Music (All Lang)",24/7 Madonna
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Madonna" group-title="Music (All Lang)",24/7 Madonna
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552853
-#EXTINF:-1 tvg-name="24/7 Mariah Carey" tvg-logo="https://static.realiptv.to/snapshots/552854.jpg" group-title="Music (All Lang)",24/7 Mariah Carey
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Mariah Carey" group-title="Music (All Lang)",24/7 Mariah Carey
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552854
-#EXTINF:-1 tvg-name="24/7 Michael Jackson" tvg-logo="https://static.realiptv.to/snapshots/552855.jpg" group-title="Music (All Lang)",24/7 Michael Jackson
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Michael Jackson" group-title="Music (All Lang)",24/7 Michael Jackson
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552855
-#EXTINF:-1 tvg-name="24/7 Music 2024" tvg-logo="https://static.realiptv.to/snapshots/708877.jpg" group-title="Music (All Lang)",24/7 Music 2024
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Music 2024" group-title="Music (All Lang)",24/7 Music 2024
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/708877
-#EXTINF:-1 tvg-name="24/7 Neil Diamond" tvg-logo="https://static.realiptv.to/snapshots/552856.jpg" group-title="Music (All Lang)",24/7 Neil Diamond
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Neil Diamond" group-title="Music (All Lang)",24/7 Neil Diamond
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552856
-#EXTINF:-1 tvg-name="24/7 Paul McCartney" tvg-logo="https://static.realiptv.to/snapshots/552857.jpg" group-title="Music (All Lang)",24/7 Paul McCartney
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Paul McCartney" group-title="Music (All Lang)",24/7 Paul McCartney
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552857
-#EXTINF:-1 tvg-name="24/7 Prince" tvg-logo="https://static.realiptv.to/snapshots/552858.jpg" group-title="Music (All Lang)",24/7 Prince
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Prince" group-title="Music (All Lang)",24/7 Prince
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552858
-#EXTINF:-1 tvg-name="24/7 Rihanna" tvg-logo="https://static.realiptv.to/snapshots/552859.jpg" group-title="Music (All Lang)",24/7 Rihanna
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Rihanna" group-title="Music (All Lang)",24/7 Rihanna
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552859
-#EXTINF:-1 tvg-name="24/7 Rod Stewart" tvg-logo="https://static.realiptv.to/snapshots/552860.jpg" group-title="Music (All Lang)",24/7 Rod Stewart
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Rod Stewart" group-title="Music (All Lang)",24/7 Rod Stewart
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552860
-#EXTINF:-1 tvg-name="24/7 ROLLING STONES" tvg-logo="https://static.realiptv.to/snapshots/552861.jpg" group-title="Music (All Lang)",24/7 ROLLING STONES
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 ROLLING STONES" group-title="Music (All Lang)",24/7 ROLLING STONES
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552861
-#EXTINF:-1 tvg-name="24/7 ROLLING STONES GREATEST HITS" tvg-logo="https://static.realiptv.to/snapshots/551494.jpg" group-title="Music (All Lang)",24/7 ROLLING STONES GREATEST HITS
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Rolling Stones Greatest Hits" group-title="Music (All Lang)",24/7 Rolling Stones Greatest Hits
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/551494
-#EXTINF:-1 tvg-name="24/7 Stevie Wonder" tvg-logo="https://static.realiptv.to/snapshots/552862.jpg" group-title="Music (All Lang)",24/7 Stevie Wonder
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Stevie Wonder" group-title="Music (All Lang)",24/7 Stevie Wonder
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552862
-#EXTINF:-1 tvg-name="24/7 Taylor Swift" tvg-logo="https://static.realiptv.to/snapshots/552863.jpg" group-title="Music (All Lang)",24/7 Taylor Swift
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Taylor Swift" group-title="Music (All Lang)",24/7 Taylor Swift
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552863
-#EXTINF:-1 tvg-name="24/7 The Beatles" tvg-logo="https://static.realiptv.to/snapshots/551495.jpg" group-title="Music (All Lang)",24/7 The Beatles
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 The Beatles" group-title="Music (All Lang)",24/7 The Beatles
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/551495
-#EXTINF:-1 tvg-name="24/7 The Supremes" tvg-logo="https://static.realiptv.to/snapshots/552864.jpg" group-title="Music (All Lang)",24/7 The Supremes
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 The Supremes" group-title="Music (All Lang)",24/7 The Supremes
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552864
-#EXTINF:-1 tvg-name="24/7 Usher" tvg-logo="https://static.realiptv.to/snapshots/552865.jpg" group-title="Music (All Lang)",24/7 Usher
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Usher" group-title="Music (All Lang)",24/7 Usher
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552865
-#EXTINF:-1 tvg-name="24/7 Whitney Houston" tvg-logo="https://static.realiptv.to/snapshots/552866.jpg" group-title="Music (All Lang)",24/7 Whitney Houston
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="24/7 Whitney Houston" group-title="Music (All Lang)",24/7 Whitney Houston
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552866
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV USA" group-title="Music (All Lang)",AXS TV USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/42309
@@ -257,6 +257,12 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/81588
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629904
 #EXTINF:-1 tvg-id="B4UMusic.uk" tvg-name="B4U Music UK" group-title="Music (All Lang)",B4U Music UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2362
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic (East) US" group-title="Music (All Lang)",MTV Classic (East) US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2249
+#EXTINF:-1 tvg-id="MTVHits.fr" tvg-name="MTV Hits FR" group-title="Music (All Lang)",MTV Hits FR
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2246
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music UK" group-title="Music (All Lang)",MTV Music UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2245
 
 #GROUP:ENG - Local CBS
 #EXTINF:-1 tvg-id="CBSKYES.us" tvg-name="AK | Anchorage | CBS KYES" group-title="ENG - Local CBS",AK | Anchorage | CBS KYES
@@ -851,6 +857,8 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38283
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38328
 #EXTINF:-1 tvg-id="CWWPXT.us" tvg-name="ME | Portland | CW WPXT" group-title="ENG - Local CW/IND",ME | Portland | CW WPXT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1449163
+#EXTINF:-1 tvg-id="CWKUSI.us" tvg-name="CA | San Diego | CW KUSI" group-title="ENG - Local CW/IND",CA | San Diego | CW KUSI
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/710371
 #EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH" group-title="ENG - Local CW/IND",GA | Atlanta | CW WPCH
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3084
 #EXTINF:-1 tvg-id="CWWNLO.us" tvg-name="NY | Buffalo | CW WNLO" group-title="ENG - Local CW/IND",NY | Buffalo | CW WNLO
@@ -1995,10 +2003,16 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89034
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88349
 #EXTINF:-1 tvg-id="BBCNewsChannel.uk" tvg-name="BBC News HD UK" group-title="ENG - News",BBC News HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2354
+#EXTINF:-1 tvg-id="BBCNewsChannel.uk" tvg-name="BBC News UK" group-title="ENG - News",BBC News UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2345
 #EXTINF:-1 tvg-id="Bloomberg.uk" tvg-name="Bloomberg UK" group-title="ENG - News",Bloomberg UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2341
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News HD US" group-title="ENG - News",Fox News HD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2278
 #EXTINF:-1 tvg-id="France24.uk" tvg-name="France 24 News UK" group-title="ENG - News",France 24 News UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2277
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" group-title="ENG - News",Sky News UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2197
 #EXTINF:-1 tvg-id="BBCWorldNews.ca" tvg-name="BBC WORLD" group-title="ENG - News",BBC WORLD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3246
 #EXTINF:-1 tvg-id="FoxNewsChannel.ca" tvg-name="FOX NEWS" group-title="ENG - News",FOX NEWS
@@ -2779,14 +2793,20 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2300
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2295
 #EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="U & Drama UK" group-title="ENG - Entertainment",U & Drama UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2294
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! (East) HD US" group-title="ENG - Entertainment",E! (East) HD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2293
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" group-title="ENG - Entertainment",E4 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2292
 #EXTINF:-1 tvg-id="UandEden.uk" tvg-name="U & EDEN HD UK" group-title="ENG - Entertainment",U & EDEN HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2290
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" group-title="ENG - Entertainment",Food Network UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2280
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform (East) HD US" group-title="ENG - Entertainment",Freeform (East) HD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2276
 #EXTINF:-1 tvg-id="Gold.uk" tvg-name="Gold UK" group-title="ENG - Entertainment",Gold UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2275
+#EXTINF:-1 tvg-name="History 2 CA" group-title="ENG - Entertainment",History 2 CA EPG
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2273
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History HD UK" group-title="ENG - Entertainment",Discovery History HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2271
 #EXTINF:-1 tvg-id="HorseAndCountry.uk" tvg-name="Horse and Country HD1 UK" group-title="ENG - Entertainment",Horse and Country HD1 UK
@@ -2795,24 +2815,66 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2267
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88861
 #EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery UK" group-title="ENG - Entertainment",Investigation Discovery UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2266
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 UK" group-title="ENG - Entertainment",ITV2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2264
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 UK" group-title="ENG - Entertainment",ITV3 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2263
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" group-title="ENG - Entertainment",ITV4 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2262
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV1 (Anglia )UK" group-title="ENG - Entertainment",ITV1 (Anglia )UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527497
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 FHD2 UK" group-title="ENG - Entertainment",ITV2 FHD2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527498
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 HD2 UK" group-title="ENG - Entertainment",ITV3 FHD2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527499
 #EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live UK" group-title="ENG - Entertainment",London Live UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2257
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4 HD UK" group-title="ENG - Entertainment",More 4 HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2254
 #EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV UK" group-title="ENG - Entertainment",MTV UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2251
+#EXTINF:-1 tvg-id="MTVPacific.us" tvg-name="MTV (West) FHD US" group-title="ENG - Entertainment",MTV (West) FHD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2250
 #EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV HD2 UK" group-title="ENG - Entertainment",MTV HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2247
 #EXTINF:-1 tvg-id="NationalGeographicChannel.uk" tvg-name="NatGeo UK" group-title="ENG - Entertainment",NatGeo UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2240
 #EXTINF:-1 tvg-id="NationalGeographicWild.uk" tvg-name="NatGeo Wild UK" group-title="ENG - Entertainment",Nat Geo Wild UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2239
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount (East) HD US" group-title="ENG - Entertainment",Paramount (East) HD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2174
+#EXTINF:-1 tvg-id="SkyMix.uk" tvg-name="Sky Mix SD UK" group-title="ENG - Entertainment",Sky Mix SD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2230
 #EXTINF:-1 tvg-id="Pop.uk" tvg-name="POP UK" group-title="ENG - Entertainment",POP UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2229
 #EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest UK" group-title="ENG - Entertainment",Quest UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2228
 #EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red UK" group-title="ENG - Entertainment",Quest Red UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2227
+#EXTINF:-1 tvg-name="RTE One HD" group-title="ENG - Entertainment",RTE One HD EPG
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2220
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts FHD UK" group-title="ENG - Entertainment",Sky Arts FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2210
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic FHD UK" group-title="ENG - Entertainment",Sky Atlantic FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2209
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="Sky Crime FHD UK" group-title="ENG - Entertainment",Sky Crime FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650418
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="Sky Nature FHD UK" group-title="ENG - Entertainment",Sky Nature FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/103905
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="Sky Showcase HD UK" group-title="ENG - Entertainment",Sky Showcase HD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650417
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witness FHD UK" group-title="ENG - Entertainment",Sky Witness FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2177
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV FHD" group-title="ENG - Entertainment",STV FHD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2168
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM (East) FHD US" group-title="ENG - Entertainment",TCM (East) FHD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2165
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC FHD UK" group-title="ENG - Entertainment",TLC FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2161
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel (East) HD US" group-title="ENG - Entertainment",Travel Channel (East) HD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2159
+#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="U&Yesterday SD" group-title="ENG - Entertainment",U&Yesterday SD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2144
 #EXTINF:-1 tvg-id="10PeachSydney.au" tvg-name="10 Peach Sydney (D)" group-title="ENG - Entertainment",10 Peach Sydney (D)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527461
 #EXTINF:-1 tvg-id="10BOLDSydney.au" tvg-name="10 Bold Sydney (D)" group-title="ENG - Entertainment",10 Bold Sydney (D)
@@ -3724,10 +3786,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2379
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="We TV (East) FHD US" group-title="ENG - Entertainment",We TV (East) FHD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2378
 
-#GROUP:ENG - CW/IND
-#EXTINF:-1 tvg-id="CWKUSI.us" tvg-name="CA | San Diego | CW KUSI" group-title="ENG - CW/IND",CA | San Diego | CW KUSI
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/710371
-
 #GROUP:ESP - Argentina
 #EXTINF:-1 tvg-name="AR  America TV" tvg-logo="https://static.realiptv.to/snapshots/1604.jpg" group-title="ESP - Argentina",AR  America TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1604
@@ -4147,20 +4205,62 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/587718
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2326
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3 HD UK" group-title="ENG - Sports",TNT Sports 3 HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2325
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV UK" group-title="ENG - Sports",MUTV UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2242
 #EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="PREMIER  SPORTS 1 HD2 UK" group-title="ENG - Sports",PREMIER  SPORTS 1 HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89089
 #EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="PREMIER SPORTS 2 HD2 UK" group-title="ENG - Sports",PREMIER SPORTS 2 HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89090
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sport Racing FHD UK" group-title="ENG - Sports",Sky Sport Racing FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2226
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action FHD UK" group-title="ENG - Sports",Sky Sports Action FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2195
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action FHD2 UK" group-title="ENG - Sports",Sky Sports Action FHD2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2194
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket FHD UK" group-title="ENG - Sports",Sky Sports Cricket FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2192
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket FHD2 UK" group-title="ENG - Sports",Sky Sports Cricket FHD2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2191
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 FHD UK" group-title="ENG - Sports",Sky Sports F1 FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2190
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 FHD2 UK" group-title="ENG - Sports",Sky Sports F1 FHD2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2189
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football FHD UK" group-title="ENG - Sports",Sky Sports Football FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2188
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf FHD UK" group-title="ENG - Sports",Sky Sports Golf FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2187
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf FHD2 UK" group-title="ENG - Sports",Sky Sports Golf FHD2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2186
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Events HD" group-title="ENG - Sports",Sky Sports Main Event HD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2185
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" group-title="ENG - Sports",Sky Sports Main Event HD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2184
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix FHD UK" group-title="ENG - Sports",Sky Sports Mix FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2180
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD UK" group-title="ENG - Sports",Sky Sports News HD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2183
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News FHD UK" group-title="ENG - Sports",Sky Sports News FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2179
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League FHD" group-title="ENG - Sports",Sky Sports Premier League FHD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2182
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League FHD2" group-title="ENG - Sports",Sky Sports Premier League FHD2
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2181
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1 HD UK" group-title="ENG - Sports",TNT Sports 1 HD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/737805
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1 FHD UK" group-title="ENG - Sports",TNT Sports 1 FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2337
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2 FHD UK" group-title="ENG - Sports",TNT Sports 2 FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2336
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3 FHD UK" group-title="ENG - Sports",TNT Sports 3 FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2335
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4 HD UK" group-title="ENG - Sports",TNT Sports 4 HD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2334
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4 FHD UK" group-title="ENG - Sports",TNT Sports 4 FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/675021
 #EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network" group-title="ENG - Sports",Space City Home Network
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663927
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel HD US" group-title="ENG - Sports",Golf Channel HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3101
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" group-title="ENG - Sports",MLB Network
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3150
-#EXTINF:-1 tvg-id="NBATV.ca" tvg-name="NBA TV CA" group-title="ENG - Sports",NBA TV CA
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3092
-#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="NFL Network CA" group-title="ENG - Sports",NFL Network CA
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3067
 #EXTINF:-1 tvg-id="beINSports.ca" tvg-name="beINSports CA" group-title="ENG - Sports",beINSports CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3153
 #EXTINF:-1 tvg-id="beINSports.ca" tvg-name="beIN Sports HD CA" group-title="ENG - Sports",beIN Sports HD CA
@@ -4327,14 +4427,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/55178
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401174
 #EXTINF:-1 tvg-id="MASN.us" tvg-name="MASN" group-title="ENG - Sports",MASN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/149308
-#EXTINF:-1 tvg-id="MLBNetwork-Alt.us" tvg-name="MLB Network Alternate US" group-title="ENG - Sports",MLB Network Alternate US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663879
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD1" group-title="ENG - Sports",MLB Network HD1 US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3746
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD2 US" group-title="ENG - Sports",MLB Network HD2 US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3661
-#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone US" group-title="ENG - Sports",MLB Strike Zone US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2480
 #EXTINF:-1 tvg-id="MonumentalSportsNetwork.us" tvg-name="Monumental Sports FHD" group-title="ENG - Sports",Monumental Sports FHD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663881
 #EXTINF:-1 tvg-id="MSGZone1.us" tvg-name="MSG" group-title="ENG - Sports",MSG
@@ -4351,12 +4443,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401186
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/706915
 #EXTINF:-1 tvg-id="MSGSNZone2.us" tvg-name="MSGSN 2 Zone 2 HD" group-title="ENG - Sports",MSGSN 2 Zone 2 HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/648959
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV FHD US" group-title="ENG - Sports",NBA TV FHD US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2470
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV HD US" group-title="ENG - Sports",NBA TV HD US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3751
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV SD US" group-title="ENG - Sports",NBA TV SD IS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3667
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area FHD" group-title="ENG - Sports",NBC Sports Bay Area FHD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2436
 #EXTINF:-1 tvg-id="NBCSportsBayAreaPlus.us" tvg-name="NBC Sports Bay Area FHD2" tvg-logo="Plus" group-title="ENG - Sports",NBC Sports Bay Area FHD2
@@ -4387,14 +4473,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2425
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/149310
 #EXTINF:-1 tvg-id="NextLevelSports.us" tvg-name="Next Level Sports FHD" group-title="ENG - Sports",Next Level Sports FHD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663901
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network SD US" group-title="ENG - Sports",NFL Network SD US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2424
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network HD US" group-title="ENG - Sports",NFL Network HD US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3754
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network HD2 US" group-title="ENG - Sports",NFL Network HD2 US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3670
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network HD US" group-title="ENG - Sports",NHL Network HD US
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3672
 #EXTINF:-1 tvg-id="OutsideTelevision.us" tvg-name="Outside TV FHD US" group-title="ENG - Sports",Outside TV FHD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2421
 #EXTINF:-1 tvg-id="OutsideTelevision.us" tvg-name="Outside TV SD USA" group-title="ENG - Sports",Outside TV SD USA
@@ -4595,6 +4673,32 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1431201
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/587861
 #EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="B4U Movies UK" group-title="ENG - Movies",B4U Movies UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2363
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="Sky Cinema Scifi/Horror FHD" group-title="ENG - Movies",Sky Cinema Scifi/Horror FHD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88862
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action FHD UK" group-title="ENG - Movies",Sky Cinema Action FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2207
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy UK" group-title="ENG - Movies",Sky Cinema Comedy UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2206
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema DRAMA FHD UK" group-title="ENG - Movies",Sky Cinema Drama FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650435
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama FHD2 UK" group-title="ENG - Movies",Sky Cinema Drama FHD2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2205
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family FHD UK" group-title="ENG - Movies",Sky Cinema Family FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650430
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family FHD2 UK" group-title="ENG - Movies",Sky Cinema Family FHD2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2204
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats HD UK" group-title="ENG - Movies",Sky Cinema Greats HD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2203
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits HD UK" group-title="ENG - Movies",Sky Cinema Hits HD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/487358
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premiere FHD UK" group-title="ENG - Movies",Sky Cinema Premiere FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2202
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="Sky Cinema Select FHD UK" group-title="ENG - Movies",Sky Cinema Select FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2200
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller FHD UK" group-title="ENG - Movies",Sky Cinema Thriller FHD UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650433
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller FHD2 UK" group-title="ENG - Movies",Sky Cinema Thriller FHD2 UK
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2198
 #EXTINF:-1 tvg-id="SBSWorldMoviesSydney.au" tvg-name="SBS World Movies Sydney (D)" group-title="ENG - Movies",SBS World Movies Sydney (D)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527471
 #EXTINF:-1 tvg-id="Crave1.ca" tvg-name="Crave 1 (R)" group-title="ENG - Movies",Crave 1 (R)
@@ -4862,278 +4966,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3294
 #EXTINF:-1 tvg-id="TCM.ca" tvg-name="TCM CA" group-title="ENG - Movies",TCM CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3065
 
-#GROUP:ENG - United Kingdom
-#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK 4Music" tvg-logo="https://static.realiptv.to/snapshots/2374.jpg" group-title="ENG - United Kingdom",UK 4Music UK (Offline)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2374
-#EXTINF:-1 tvg-id="AAJTAK.uk" tvg-name="Aaj Tak UK" group-title="ENG - United Kingdom",Aaj Tak UK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2370
-#EXTINF:-1 tvg-id="Aastha.uk" tvg-name="Aastha UK" group-title="ENG - United Kingdom",Aastha UK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88352
-#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="At The Races UK" group-title="ENG - United Kingdom",At The Races UK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2364
-#EXTINF:-1 tvg-name="UK BBC Two Scotland" tvg-logo="https://static.realiptv.to/snapshots/2347.jpg" group-title="ENG - United Kingdom",UK BBC Two Scotland
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2347
-#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK BBC World News" tvg-logo="https://static.realiptv.to/snapshots/2345.jpg" group-title="ENG - United Kingdom",UK BBC World News
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2345
-#EXTINF:-1 tvg-id="Colors.uk" tvg-name="Colors UK" group-title="ENG - United Kingdom",Colors UK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2308
-#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="UK Disney XD" tvg-logo="https://static.realiptv.to/snapshots/2296.jpg" group-title="ENG - United Kingdom",UK Disney XD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2296
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK E!" tvg-logo="https://static.realiptv.to/snapshots/2293.jpg" group-title="ENG - United Kingdom",UK E!
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2293
-#EXTINF:-1 tvg-id="eir-sport-1" tvg-name="UK Eir Sport 1" tvg-logo="https://static.realiptv.to/snapshots/2289.jpg" group-title="ENG - United Kingdom",UK Eir Sport 1
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2289
-#EXTINF:-1 tvg-id="eir-sport-2" tvg-name="UK Eir Sport 2" tvg-logo="https://static.realiptv.to/snapshots/2287.jpg" group-title="ENG - United Kingdom",UK Eir Sport 2
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2287
-#EXTINF:-1 tvg-id="UKEurosport1.uk" tvg-name="EuroSport 1 UK" group-title="ENG - United Kingdom",EuroSport 1 UK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2286
-#EXTINF:-1 tvg-id="UKEurosport2.uk" tvg-name="EuroSport 2 UK" group-title="ENG - United Kingdom",EuroSport 2 UK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2285
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK Film 4 HD" tvg-logo="https://static.realiptv.to/snapshots/2284.jpg" group-title="ENG - United Kingdom",UK Film 4 HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2284
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK Film 4 HD" tvg-logo="https://static.realiptv.to/snapshots/2283.jpg" group-title="ENG - United Kingdom",UK Film 4 HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2283
-#EXTINF:-1 tvg-id="fox.uk" tvg-name="UK Fox" tvg-logo="https://static.realiptv.to/snapshots/2279.jpg" group-title="ENG - United Kingdom",UK Fox
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2279
-#EXTINF:-1 tvg-name="UK Fox News HD" tvg-logo="https://static.realiptv.to/snapshots/2278.jpg" group-title="ENG - United Kingdom",UK Fox News HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2278
-#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK FreeSports" tvg-logo="https://static.realiptv.to/snapshots/2276.jpg" group-title="ENG - United Kingdom",UK FreeSports
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2276
-#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="UK Good Food" tvg-logo="https://static.realiptv.to/snapshots/2274.jpg" group-title="ENG - United Kingdom",UK Good Food
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2274
-#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK History 2" tvg-logo="https://static.realiptv.to/snapshots/2273.jpg" group-title="ENG - United Kingdom",UK History 2
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2273
-#EXTINF:-1 tvg-id="home.uk" tvg-name="UK Home" tvg-logo="https://static.realiptv.to/snapshots/2270.jpg" group-title="ENG - United Kingdom",UK Home
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2270
-#EXTINF:-1 tvg-id="homeandhealth.uk" tvg-name="UK Home Health" tvg-logo="https://static.realiptv.to/snapshots/2269.jpg" group-title="ENG - United Kingdom",UK Home Health
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2269
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK HORROR CHANNEL" tvg-logo="https://static.realiptv.to/snapshots/88862.jpg" group-title="ENG - United Kingdom",UK HORROR CHANNEL
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88862
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ITV 2" tvg-logo="https://static.realiptv.to/snapshots/2264.jpg" group-title="ENG - United Kingdom",UK ITV 2
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2264
-#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK ITV 3" tvg-logo="https://static.realiptv.to/snapshots/2263.jpg" group-title="ENG - United Kingdom",UK ITV 3
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2263
-#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK Itv 4" tvg-logo="https://static.realiptv.to/snapshots/2262.jpg" group-title="ENG - United Kingdom",UK Itv 4
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2262
-#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK ITV1" tvg-logo="https://static.realiptv.to/snapshots/527497.jpg" group-title="ENG - United Kingdom",UK ITV1
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527497
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ITV2" tvg-logo="https://static.realiptv.to/snapshots/527498.jpg" group-title="ENG - United Kingdom",UK ITV2
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527498
-#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK ITV3" tvg-logo="https://static.realiptv.to/snapshots/527499.jpg" group-title="ENG - United Kingdom",UK ITV3
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527499
-#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK ITV4" tvg-logo="https://static.realiptv.to/snapshots/527500.jpg" group-title="ENG - United Kingdom",UK ITV4
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527500
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK ITVBE" tvg-logo="https://static.realiptv.to/snapshots/2261.jpg" group-title="ENG - United Kingdom",UK ITVBE
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2261
-#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK LFC TV" tvg-logo="https://static.realiptv.to/snapshots/2259.jpg" group-title="ENG - United Kingdom",UK LFC TV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2259
-#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="UK Life Time HD" tvg-logo="https://static.realiptv.to/snapshots/2258.jpg" group-title="ENG - United Kingdom",UK Life Time HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2258
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK LIFETIME" tvg-logo="https://static.realiptv.to/snapshots/88853.jpg" group-title="ENG - United Kingdom",UK LIFETIME
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88853
-#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK MTV Base" tvg-logo="https://static.realiptv.to/snapshots/2250.jpg" group-title="ENG - United Kingdom",UK MTV Base
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2250
-#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK MTV Classic" tvg-logo="https://static.realiptv.to/snapshots/2249.jpg" group-title="ENG - United Kingdom",UK MTV Classic
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2249
-#EXTINF:-1 tvg-name="UK MTV Club" tvg-logo="https://static.realiptv.to/snapshots/2311.jpg" group-title="ENG - United Kingdom",UK MTV Club
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2311
-#EXTINF:-1 tvg-id="mtvdance.uk" tvg-name="UK MTV Dance" tvg-logo="https://static.realiptv.to/snapshots/2248.jpg" group-title="ENG - United Kingdom",UK MTV Dance
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2248
-#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK MTV Hits" tvg-logo="https://static.realiptv.to/snapshots/2246.jpg" group-title="ENG - United Kingdom",UK MTV Hits
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2246
-#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="UK MTV Music" tvg-logo="https://static.realiptv.to/snapshots/2245.jpg" group-title="ENG - United Kingdom",UK MTV Music
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2245
-#EXTINF:-1 tvg-id="mtvrocks.uk" tvg-name="UK MTV Rocks" tvg-logo="https://static.realiptv.to/snapshots/2243.jpg" group-title="ENG - United Kingdom",UK MTV Rocks
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2243
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV UK" group-title="ENG - United Kingdom",MUTV UK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2242
-#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK NICK JUNIOR" tvg-logo="https://static.realiptv.to/snapshots/2237.jpg" group-title="ENG - United Kingdom",UK NICK JUNIOR
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2237
-#EXTINF:-1 tvg-id="NickJuniorToo.uk" tvg-name="UK Nick Junior Too" tvg-logo="https://static.realiptv.to/snapshots/2238.jpg" group-title="ENG - United Kingdom",UK Nick Junior Too
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2238
-#EXTINF:-1 tvg-name="UK NickSpongeBob" tvg-logo="https://static.realiptv.to/snapshots/650440.jpg" group-title="ENG - United Kingdom",UK NickSpongeBob
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650440
-#EXTINF:-1 tvg-id="paramount.uk" tvg-name="UK Paramount" tvg-logo="https://static.realiptv.to/snapshots/2174.jpg" group-title="ENG - United Kingdom",UK Paramount
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2174
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK PICK" tvg-logo="https://static.realiptv.to/snapshots/2230.jpg" group-title="ENG - United Kingdom",UK PICK
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2230
-#EXTINF:-1 tvg-id="really.uk" tvg-name="UK Really" tvg-logo="https://static.realiptv.to/snapshots/2224.jpg" group-title="ENG - United Kingdom",UK Really
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2224
-#EXTINF:-1 tvg-name="UK RTE 1 HD" tvg-logo="https://static.realiptv.to/snapshots/2220.jpg" group-title="ENG - United Kingdom",UK RTE 1 HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2220
-#EXTINF:-1 tvg-id="RTEJr.uk" tvg-name="UK RTE Junior" tvg-logo="https://static.realiptv.to/snapshots/2215.jpg" group-title="ENG - United Kingdom",UK RTE Junior
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2215
-#EXTINF:-1 tvg-id="RTENews.uk" tvg-name="UK RTE News Now" tvg-logo="https://static.realiptv.to/snapshots/2218.jpg" group-title="ENG - United Kingdom",UK RTE News Now
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2218
-#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="UK RTE One" tvg-logo="https://static.realiptv.to/snapshots/2217.jpg" group-title="ENG - United Kingdom",UK RTE One
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2217
-#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK S4C" tvg-logo="https://static.realiptv.to/snapshots/2214.jpg" group-title="ENG - United Kingdom",UK S4C
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2214
-#EXTINF:-1 tvg-name="UK Sab TV (SET)" tvg-logo="https://static.realiptv.to/snapshots/2213.jpg" group-title="ENG - United Kingdom",UK Sab TV (SET)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2213
-#EXTINF:-1 tvg-id="sky1.uk" tvg-name="UK SKY 1 HD" tvg-logo="https://static.realiptv.to/snapshots/2211.jpg" group-title="ENG - United Kingdom",UK SKY 1 HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2211
-#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK Sky Arts" tvg-logo="https://static.realiptv.to/snapshots/2210.jpg" group-title="ENG - United Kingdom",UK Sky Arts
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2210
-#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK Sky Atlantic" tvg-logo="https://static.realiptv.to/snapshots/2209.jpg" group-title="ENG - United Kingdom",UK Sky Atlantic
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2209
-#EXTINF:-1 tvg-name="UK Sky Batman" tvg-logo="https://static.realiptv.to/snapshots/650428.jpg" group-title="ENG - United Kingdom",UK Sky Batman
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650428
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK Sky Cinema Action & Adventure (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2207.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Action & Adventure (SHD)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2207
-#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK Sky Cinema Animation FHD" tvg-logo="https://static.realiptv.to/snapshots/587860.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Animation FHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/587860
-#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK Sky Cinema Comedy" tvg-logo="https://static.realiptv.to/snapshots/2206.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Comedy
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2206
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK Sky Cinema Drama" tvg-logo="https://static.realiptv.to/snapshots/650435.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Drama
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650435
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK Sky Cinema Drama" tvg-logo="https://static.realiptv.to/snapshots/2205.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Drama
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2205
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK Sky Cinema Family" tvg-logo="https://static.realiptv.to/snapshots/650430.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Family
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650430
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK Sky Cinema Family" tvg-logo="https://static.realiptv.to/snapshots/2204.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Family
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2204
-#EXTINF:-1 tvg-name="UK Sky Cinema Gangsters" tvg-logo="https://static.realiptv.to/snapshots/650426.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Gangsters
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650426
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK Sky Cinema Greats" tvg-logo="https://static.realiptv.to/snapshots/2203.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Greats
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2203
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK Sky Cinema Hits" tvg-logo="https://static.realiptv.to/snapshots/487358.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Hits
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/487358
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK Sky Cinema Premiere" tvg-logo="https://static.realiptv.to/snapshots/2202.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Premiere
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2202
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK Sky Cinema Select" tvg-logo="https://static.realiptv.to/snapshots/2200.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Select
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2200
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK Sky Cinema Thriller" tvg-logo="https://static.realiptv.to/snapshots/650433.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Thriller
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650433
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK Sky Cinema Thriller" tvg-logo="https://static.realiptv.to/snapshots/2198.jpg" group-title="ENG - United Kingdom",UK Sky Cinema Thriller
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2198
-#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK Sky Crime" tvg-logo="https://static.realiptv.to/snapshots/650418.jpg" group-title="ENG - United Kingdom",UK Sky Crime
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650418
-#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK Sky Nature" tvg-logo="https://static.realiptv.to/snapshots/103905.jpg" group-title="ENG - United Kingdom",UK Sky Nature
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/103905
-#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK Sky News" tvg-logo="https://static.realiptv.to/snapshots/2197.jpg" group-title="ENG - United Kingdom",UK Sky News
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2197
-#EXTINF:-1 tvg-name="UK Sky One" tvg-logo="https://static.realiptv.to/snapshots/2196.jpg" group-title="ENG - United Kingdom",UK Sky One
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2196
-#EXTINF:-1 tvg-id="showcase.uk" tvg-name="UK Sky Showcase" tvg-logo="https://static.realiptv.to/snapshots/650417.jpg" group-title="ENG - United Kingdom",UK Sky Showcase
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650417
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK Sky Sport Racing HD" tvg-logo="https://static.realiptv.to/snapshots/2226.jpg" group-title="ENG - United Kingdom",UK Sky Sport Racing HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2226
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK Sky Sports Action" tvg-logo="https://static.realiptv.to/snapshots/2195.jpg" group-title="ENG - United Kingdom",UK Sky Sports Action
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2195
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK Sky Sports Action HD" tvg-logo="https://static.realiptv.to/snapshots/2194.jpg" group-title="ENG - United Kingdom",UK Sky Sports Action HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2194
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK Sky Sports Arena HD" tvg-logo="https://static.realiptv.to/snapshots/2193.jpg" group-title="ENG - United Kingdom",UK Sky Sports Arena HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2193
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK Sky Sports Cricket" tvg-logo="https://static.realiptv.to/snapshots/2192.jpg" group-title="ENG - United Kingdom",UK Sky Sports Cricket
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2192
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK Sky Sports Cricket HD" tvg-logo="https://static.realiptv.to/snapshots/2191.jpg" group-title="ENG - United Kingdom",UK Sky Sports Cricket HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2191
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1" tvg-logo="https://static.realiptv.to/snapshots/2190.jpg" group-title="ENG - United Kingdom",UK Sky Sports F1
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2190
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 HD" tvg-logo="https://static.realiptv.to/snapshots/2189.jpg" group-title="ENG - United Kingdom",UK Sky Sports F1 HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2189
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK Sky Sports Football" tvg-logo="https://static.realiptv.to/snapshots/30822.jpg" group-title="ENG - United Kingdom",UK Sky Sports Football
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/30822
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK Sky Sports Football HD" tvg-logo="https://static.realiptv.to/snapshots/2188.jpg" group-title="ENG - United Kingdom",UK Sky Sports Football HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2188
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK Sky Sports Golf" tvg-logo="https://static.realiptv.to/snapshots/2187.jpg" group-title="ENG - United Kingdom",UK Sky Sports Golf
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2187
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK Sky Sports Golf HD" tvg-logo="https://static.realiptv.to/snapshots/2186.jpg" group-title="ENG - United Kingdom",UK Sky Sports Golf HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2186
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK Sky Sports Main Events" tvg-logo="https://static.realiptv.to/snapshots/2185.jpg" group-title="ENG - United Kingdom",UK Sky Sports Main Events
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2185
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK Sky Sports Main Events HD" tvg-logo="https://static.realiptv.to/snapshots/2184.jpg" group-title="ENG - United Kingdom",UK Sky Sports Main Events HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2184
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports MIX" tvg-logo="https://static.realiptv.to/snapshots/2180.jpg" group-title="ENG - United Kingdom",UK Sky Sports MIX
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2180
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK Sky Sports News" tvg-logo="https://static.realiptv.to/snapshots/2183.jpg" group-title="ENG - United Kingdom",UK Sky Sports News
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2183
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK Sky Sports News HD" tvg-logo="https://static.realiptv.to/snapshots/2179.jpg" group-title="ENG - United Kingdom",UK Sky Sports News HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2179
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK Sky Sports Premier League" tvg-logo="https://static.realiptv.to/snapshots/2182.jpg" group-title="ENG - United Kingdom",UK Sky Sports Premier League
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2182
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK Sky Sports Premier League HD" tvg-logo="https://static.realiptv.to/snapshots/2181.jpg" group-title="ENG - United Kingdom",UK Sky Sports Premier League HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2181
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK Sky Sports Racing" tvg-logo="https://static.realiptv.to/snapshots/102182.jpg" group-title="ENG - United Kingdom",UK Sky Sports Racing
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/102182
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK Sky Sports Racing (HD)" tvg-logo="https://static.realiptv.to/snapshots/527483.jpg" group-title="ENG - United Kingdom",UK Sky Sports Racing (HD)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527483
-#EXTINF:-1 tvg-name="UK Sky Superheroes" tvg-logo="https://static.realiptv.to/snapshots/650429.jpg" group-title="ENG - United Kingdom",UK Sky Superheroes
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650429
-#EXTINF:-1 tvg-id="sky2.uk" tvg-name="UK Sky Two" tvg-logo="https://static.realiptv.to/snapshots/2178.jpg" group-title="ENG - United Kingdom",UK Sky Two
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2178
-#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK Sky Witness" tvg-logo="https://static.realiptv.to/snapshots/2177.jpg" group-title="ENG - United Kingdom",UK Sky Witness
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2177
-#EXTINF:-1 tvg-id="sonychannel.uk" tvg-name="UK Sony Channel" tvg-logo="https://static.realiptv.to/snapshots/2176.jpg" group-title="ENG - United Kingdom",UK Sony Channel
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2176
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK Sony Movies" tvg-logo="https://static.realiptv.to/snapshots/2175.jpg" group-title="ENG - United Kingdom",UK Sony Movies
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2175
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK Sony Movies Action" tvg-logo="https://static.realiptv.to/snapshots/2252.jpg" group-title="ENG - United Kingdom",UK Sony Movies Action
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2252
-#EXTINF:-1 tvg-id="starbharat.uk" tvg-name="UK Star Bharat" tvg-logo="https://static.realiptv.to/snapshots/2173.jpg" group-title="ENG - United Kingdom",UK Star Bharat
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2173
-#EXTINF:-1 tvg-id="stargold.uk" tvg-name="UK Star Gold" tvg-logo="https://static.realiptv.to/snapshots/2172.jpg" group-title="ENG - United Kingdom",UK Star Gold
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2172
-#EXTINF:-1 tvg-id="starplus.uk" tvg-name="UK Star Plus" tvg-logo="https://static.realiptv.to/snapshots/2170.jpg" group-title="ENG - United Kingdom",UK Star Plus
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2170
-#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK STV HD" tvg-logo="https://static.realiptv.to/snapshots/2168.jpg" group-title="ENG - United Kingdom",UK STV HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2168
-#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK Syfy" tvg-logo="https://static.realiptv.to/snapshots/2167.jpg" group-title="ENG - United Kingdom",UK Syfy
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2167
-#EXTINF:-1 tvg-id="TalkingPictures.uk" tvg-name="UK Talking Pictures HD" tvg-logo="https://static.realiptv.to/snapshots/2166.jpg" group-title="ENG - United Kingdom",UK Talking Pictures HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2166
-#EXTINF:-1 tvg-id="TCM.uk" tvg-name="UK TCM HD" tvg-logo="https://static.realiptv.to/snapshots/2165.jpg" group-title="ENG - United Kingdom",UK TCM HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2165
-#EXTINF:-1 tvg-id="TG4.ie" tvg-name="UK TG4" tvg-logo="https://static.realiptv.to/snapshots/2164.jpg" group-title="ENG - United Kingdom",UK TG4
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2164
-#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK Tiny Pop" tvg-logo="https://static.realiptv.to/snapshots/2162.jpg" group-title="ENG - United Kingdom",UK Tiny Pop
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2162
-#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK TLC" tvg-logo="https://static.realiptv.to/snapshots/2161.jpg" group-title="ENG - United Kingdom",UK TLC
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2161
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK TNT Sports 1" tvg-logo="https://static.realiptv.to/snapshots/737805.jpg" group-title="ENG - United Kingdom",UK TNT Sports 1
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/737805
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK TNT Sports 1 FHD" tvg-logo="https://static.realiptv.to/snapshots/2337.jpg" group-title="ENG - United Kingdom",UK TNT Sports 1 FHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2337
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK TNT Sports 2 FHD 50fps" tvg-logo="https://static.realiptv.to/snapshots/2336.jpg" group-title="ENG - United Kingdom",UK TNT Sports 2 FHD 50fps
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2336
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK TNT Sports 3 FHD 50fps" tvg-logo="https://static.realiptv.to/snapshots/2335.jpg" group-title="ENG - United Kingdom",UK TNT Sports 3 FHD 50fps
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2335
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="UK TNT Sports 4" tvg-logo="https://static.realiptv.to/snapshots/2334.jpg" group-title="ENG - United Kingdom",UK TNT Sports 4
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2334
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="UK TNT Sports 4 FHD" tvg-logo="https://static.realiptv.to/snapshots/675021.jpg" group-title="ENG - United Kingdom",UK TNT Sports 4 FHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/675021
-#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="UK TNT Sports 5 Extra 1" tvg-logo="https://static.realiptv.to/snapshots/2332.jpg" group-title="ENG - United Kingdom",UK TNT Sports 5 Extra 1
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2332
-#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="UK Travel Channel" tvg-logo="https://static.realiptv.to/snapshots/2159.jpg" group-title="ENG - United Kingdom",UK Travel Channel
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2159
-#EXTINF:-1 tvg-id="truecrime.uk" tvg-name="UK True Crime" tvg-logo="https://static.realiptv.to/snapshots/93544.jpg" group-title="ENG - United Kingdom",UK True Crime
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93544
-#EXTINF:-1 tvg-name="UK True Drama" tvg-logo="https://static.realiptv.to/snapshots/2156.jpg" group-title="ENG - United Kingdom",UK True Drama
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2156
-#EXTINF:-1 tvg-id="TrueEntertainment.uk" tvg-name="UK True Entertainment" tvg-logo="https://static.realiptv.to/snapshots/2158.jpg" group-title="ENG - United Kingdom",UK True Entertainment
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2158
-#EXTINF:-1 tvg-id="truemovie1.uk" tvg-name="UK True Movies" tvg-logo="https://static.realiptv.to/snapshots/2157.jpg" group-title="ENG - United Kingdom",UK True Movies
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2157
-#EXTINF:-1 tvg-id="Universal.uk" tvg-name="UK Universal Channel HD" tvg-logo="https://static.realiptv.to/snapshots/2151.jpg" group-title="ENG - United Kingdom",UK Universal Channel HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2151
-#EXTINF:-1 tvg-id="UTV.uk" tvg-name="UK UTV Ireland" tvg-logo="https://static.realiptv.to/snapshots/2150.jpg" group-title="ENG - United Kingdom",UK UTV Ireland
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2150
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Viceland HD" tvg-logo="https://static.realiptv.to/snapshots/2148.jpg" group-title="ENG - United Kingdom",UK Viceland HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2148
-#EXTINF:-1 tvg-name="UK Watch" tvg-logo="https://static.realiptv.to/snapshots/2145.jpg" group-title="ENG - United Kingdom",UK Watch
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2145
-#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK Yesterday HD" tvg-logo="https://static.realiptv.to/snapshots/2144.jpg" group-title="ENG - United Kingdom",UK Yesterday HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2144
-#EXTINF:-1 tvg-id="zeecinema.uk" tvg-name="UK Zee Cinema" tvg-logo="https://static.realiptv.to/snapshots/2143.jpg" group-title="ENG - United Kingdom",UK Zee Cinema
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2143
-#EXTINF:-1 tvg-id="zeetv.uk" tvg-name="UK Zee TV" tvg-logo="https://static.realiptv.to/snapshots/2142.jpg" group-title="ENG - United Kingdom",UK Zee TV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2142
-#EXTINF:-1 tvg-name="UK Zing" tvg-logo="https://static.realiptv.to/snapshots/2140.jpg" group-title="ENG - United Kingdom",UK Zing
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2140
-#EXTINF:-1 tvg-name="USA Asian Zee Cinema (Hindi)" tvg-logo="https://static.realiptv.to/snapshots/543967.jpg" group-title="ENG - United Kingdom",USA Asian Zee Cinema (Hindi)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/543967
-
 #GROUP:ENG - Sports Auto
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo UK" group-title="ENG - Sports Auto",Discovery Turbo UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2298
@@ -5163,6 +4995,8 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3955
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1270107
 #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns (East) HD" group-title="ENG - Classic TV & Westerns",Starz Encore Westerns (East) HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1270108
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP (East) HD2 USA" group-title="ENG - Classic TV & Westerns",INSP (East) HD2 USA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/74682
 
 #GROUP:Religion (All Lang)
 #EXTINF:-1 tvg-id="HopeTVManitoba-CIIT.ca" tvg-name="FAITH TV CA" group-title="Religion (All Lang)",FAITH TV CA
@@ -5212,14 +5046,298 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/739836
 #EXTINF:-1 tvg-id="thewordnetwork.us" tvg-name="USA The Word Network" tvg-logo="https://static.realiptv.to/snapshots/699668.jpg" group-title="Religion (All Lang)",USA The Word Network
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/699668
 
+#GROUP:ENG - Sports MLB
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" group-title="ENG - Sports MLB",MLB Network
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3150
+#EXTINF:-1 tvg-id="MLBNetwork-Alt.us" tvg-name="MLB Network Alternate US" group-title="ENG - Sports MLB",MLB Network Alternate US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663879
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD1" group-title="ENG - Sports MLB",MLB Network HD1 US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3746
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD2 US" group-title="ENG - Sports MLB",MLB Network HD2 US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3661
+#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone US" group-title="ENG - Sports MLB",MLB Strike Zone US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2480
+#EXTINF:-1 tvg-id="ArizonaDiamondbacks.mlb" tvg-name="MLB Arizona Diamondbacks" group-title="ENG - Sports MLB",MLB Arizona Diamondbacks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390398
+#EXTINF:-1 tvg-id="AtlantaBraves.mlb" tvg-name="MLB Atlanta Braves" group-title="ENG - Sports MLB",MLB Atlanta Braves
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390399
+#EXTINF:-1 tvg-id="BaltimoreOrioles.mlb" tvg-name="MLB Baltimore Orioles" group-title="ENG - Sports MLB",MLB Baltimore Orioles
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390400
+#EXTINF:-1 tvg-id="BostonRedSox.mlb" tvg-name="MLB Boston Red Sox" group-title="ENG - Sports MLB",MLB Boston Red Sox
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390401
+#EXTINF:-1 tvg-id="ChicagoCubs.mlb" tvg-name="MLB Chicago Cubs" group-title="ENG - Sports MLB",MLB Chicago Cubs
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390402
+#EXTINF:-1 tvg-id="ChicagoWhiteSox.mlb" tvg-name="MLB Chicago White Sox" group-title="ENG - Sports MLB",MLB Chicago White Sox
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390406
+#EXTINF:-1 tvg-id="CincinnatiReds.mlb" tvg-name="MLB Cincinnati Reds" group-title="ENG - Sports MLB",MLB Cincinnati Reds
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390403
+#EXTINF:-1 tvg-id="ClevelandGuardians.mlb" tvg-name="MLB Cleveland Guardians" group-title="ENG - Sports MLB",MLB Cleveland Guardians
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390404
+#EXTINF:-1 tvg-id="ColoradoRockies.mlb" tvg-name="MLB Colorado Rockies" group-title="ENG - Sports MLB",MLB Colorado Rockies
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390405
+#EXTINF:-1 tvg-id="DetroitTigers.mlb" tvg-name="MLB Detroit Tigers" group-title="ENG - Sports MLB",MLB Detroit Tigers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390407
+#EXTINF:-1 tvg-id="HoustonAstros.mlb" tvg-name="MLB Houston Astros" group-title="ENG - Sports MLB",MLB Houston Astros
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390408
+#EXTINF:-1 tvg-id="KansasCityRoyals.mlb" tvg-name="MLB Kansas City Royals" group-title="ENG - Sports MLB",MLB Kansas City Royals
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390409
+#EXTINF:-1 tvg-id="LosAngelesAngels.mlb" tvg-name="MLB Los Angeles Angels" group-title="ENG - Sports MLB",MLB Los Angeles Angels
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390410
+#EXTINF:-1 tvg-id="LosAngelesDodgers.mlb" tvg-name="MLB Los Angeles Dodgers" group-title="ENG - Sports MLB",MLB Los Angeles Dodgers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390411
+#EXTINF:-1 tvg-id="MiamiMarlins.mlb" tvg-name="MLB Miami Marlins" group-title="ENG - Sports MLB",MLB Miami Marlins
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390412
+#EXTINF:-1 tvg-id="MilwaukeeBrewers.mlb" tvg-name="MLB Milwaukee Brewers" group-title="ENG - Sports MLB",MLB Milwaukee Brewers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390413
+#EXTINF:-1 tvg-id="MinnesotaTwins.mlb" tvg-name="MLB Minnesota Twins" group-title="ENG - Sports MLB",MLB Minnesota Twins
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390414
+#EXTINF:-1 tvg-id="NewYorkMets.mlb" tvg-name="MLB New York Mets" group-title="ENG - Sports MLB",MLB New York Mets
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390415
+#EXTINF:-1 tvg-id="NewYorkYankees.mlb" tvg-name="MLB New York Yankees" group-title="ENG - Sports MLB",MLB New York Yankees
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390416
+#EXTINF:-1 tvg-id="OaklandAthletics.mlb" tvg-name="MLB Oakland Athletics" group-title="ENG - Sports MLB",MLB Oakland Athletics
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390417
+#EXTINF:-1 tvg-id="PhiladelphiaPhillies.mlb" tvg-name="MLB Philadelphia Phillies" group-title="ENG - Sports MLB",MLB Philadelphia Phillies
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390418
+#EXTINF:-1 tvg-id="PittsburghPirates.mlb" tvg-name="MLB Pittsburgh Pirates" group-title="ENG - Sports MLB",MLB Pittsburgh Pirates
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390419
+#EXTINF:-1 tvg-id="SanDiegoPadres.mlb" tvg-name="MLB San Diego Padres" group-title="ENG - Sports MLB",MLB San Diego Padres
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390420
+#EXTINF:-1 tvg-id="SanFranciscoGiants.mlb" tvg-name="MLB San Francisco Giants" group-title="ENG - Sports MLB",MLB San Francisco Giants
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390422
+#EXTINF:-1 tvg-id="SeattleMariners.mlb" tvg-name="MLB Seattle Mariners" group-title="ENG - Sports MLB",MLB Seattle Mariners
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390421
+#EXTINF:-1 tvg-id="StLouisCardinals.mlb" tvg-name="MLB St. Louis Cardinals" group-title="ENG - Sports MLB",MLB St. Louis Cardinals
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390423
+#EXTINF:-1 tvg-id="TampaBayRays.mlb" tvg-name="MLB Tampa Bay Rays" group-title="ENG - Sports MLB",MLB Tampa Bay Rays
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390424
+#EXTINF:-1 tvg-id="TexasRangers.mlb" tvg-name="MLB Texas Rangers" group-title="ENG - Sports MLB",MLB Texas Rangers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390425
+#EXTINF:-1 tvg-id="TorontoBlueJays.mlb" tvg-name="MLB Toronto Blue Jays" group-title="ENG - Sports MLB",MLB Toronto Blue Jays
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390426
+#EXTINF:-1 tvg-id="WashingtonNationals.mlb" tvg-name="MLB Washington Nationals" group-title="ENG - Sports MLB",MLB Washington Nationals
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390427
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network SD US" group-title="ENG - Sports MLB",MLB Network SD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21574
+
+#GROUP:ENG - Sports NBA/WNBA
+#EXTINF:-1 tvg-id="NBATV.ca" tvg-name="NBA TV CA" group-title="ENG - Sports NBA/WNBA",NBA TV CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3092
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV FHD US" group-title="ENG - Sports NBA/WNBA",NBA TV FHD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2470
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV HD US" group-title="ENG - Sports NBA/WNBA",NBA TV HD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3751
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV SD US" group-title="ENG - Sports NBA/WNBA",NBA TV SD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3667
+#EXTINF:-1 tvg-name="NBA G League 01:" group-title="ENG - Sports NBA/WNBA",NBA G League 01:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711755
+#EXTINF:-1 tvg-name="NBA G League 02:" group-title="ENG - Sports NBA/WNBA",NBA G League 02:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711756
+#EXTINF:-1 tvg-name="NBA G League 03:" group-title="ENG - Sports NBA/WNBA",NBA G League 03:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711757
+#EXTINF:-1 tvg-name="NBA G League 04: " group-title="ENG - Sports NBA/WNBA",NBA G League 04:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711758
+#EXTINF:-1 tvg-name="NBA G League 05: " group-title="ENG - Sports NBA/WNBA",NBA G League 05:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711759
+#EXTINF:-1 tvg-name="NBA G League 06: " group-title="ENG - Sports NBA/WNBA",NBA G League 06:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/738353
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV SD2 US" group-title="ENG - Sports NBA/WNBA",NBA TV SD2 US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21576
+#EXTINF:-1 tvg-name="WNBA 01: " group-title="ENG - Sports NBA/WNBA",WNBA 01:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/685882
+#EXTINF:-1 tvg-name="WNBA 02: " group-title="ENG - Sports NBA/WNBA",WNBA 02:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679464
+#EXTINF:-1 tvg-name="WNBA 03 : " group-title="ENG - Sports NBA/WNBA",WNBA 03 :
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679465
+#EXTINF:-1 tvg-name="WNBA 04: " group-title="ENG - Sports NBA/WNBA",WNBA 04:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679466
+#EXTINF:-1 tvg-name="WNBA 05: " group-title="ENG - Sports NBA/WNBA",WNBA 05:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679467
+#EXTINF:-1 tvg-name="WNBA 06: " group-title="ENG - Sports NBA/WNBA",WNBA 06:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679468
+#EXTINF:-1 tvg-name="WNBA 07" group-title="ENG - Sports NBA/WNBA",WNBA 07
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679469
+#EXTINF:-1 tvg-name="WNBA 08" group-title="ENG - Sports NBA/WNBA",WNBA 08
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679470
+#EXTINF:-1 tvg-name="WNBA 09" group-title="ENG - Sports NBA/WNBA",WNBA 09
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679471
+#EXTINF:-1 tvg-name="WNBA 10" group-title="ENG - Sports NBA/WNBA",WNBA 10
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679472
+#EXTINF:-1 tvg-id="AtlantaHawks.nba" tvg-name="NBA Atlanta Hawks" group-title="ENG - Sports NBA/WNBA",NBA Atlanta Hawks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89060
+#EXTINF:-1 tvg-id="BostonCeltics.nba" tvg-name="NBA Boston Celtics" group-title="ENG - Sports NBA/WNBA",NBA Boston Celtics
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89061
+#EXTINF:-1 tvg-id="BrooklynNets.nba" tvg-name="NBA Brooklyn Nets" group-title="ENG - Sports NBA/WNBA",NBA Brooklyn Nets
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89062
+#EXTINF:-1 tvg-id="CharlotteHornets.nba" tvg-name="NBA Charlotte Hornets" group-title="ENG - Sports NBA/WNBA",NBA Charlotte Hornets
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89063
+#EXTINF:-1 tvg-id="ChicagoBulls.nba" tvg-name="NBA Chicago Bulls" group-title="ENG - Sports NBA/WNBA",NBA Chicago Bulls
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89064
+#EXTINF:-1 tvg-id="ClevelandCavaliers.nba" tvg-name="NBA Cleveland Cavaliers" group-title="ENG - Sports NBA/WNBA",NBA Cleveland Cavaliers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89065
+#EXTINF:-1 tvg-id="DallasMavericks.nba" tvg-name="NBA Dallas Mavericks" group-title="ENG - Sports NBA/WNBA",NBA Dallas Mavericks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89066
+#EXTINF:-1 tvg-id="DenverNuggets.nba" tvg-name="NBA Denver Nuggets" group-title="ENG - Sports NBA/WNBA",NBA Denver Nuggets
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89067
+#EXTINF:-1 tvg-id="DetroitPistons.nba" tvg-name="NBA Detroit Pistons" group-title="ENG - Sports NBA/WNBA",NBA Detroit Pistons
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89068
+#EXTINF:-1 tvg-id="GoldenStateWarriors.nba" tvg-name="NBA Golden State Warriors" group-title="ENG - Sports NBA/WNBA",NBA Golden State Warriors
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/92887
+#EXTINF:-1 tvg-id="HoustonRockets.nba" tvg-name="NBA Houston Rockets" group-title="ENG - Sports NBA/WNBA",NBA Houston Rockets
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89069
+#EXTINF:-1 tvg-id="IndianaPacers.nba" tvg-name="NBA Indiana Pacers" group-title="ENG - Sports NBA/WNBA",NBA Indiana Pacers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89070
+#EXTINF:-1 tvg-id="LosAngelesClippers.nba" tvg-name="NBA Los Angeles Clippers" group-title="ENG - Sports NBA/WNBA",NBA Los Angeles Clippers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89071
+#EXTINF:-1 tvg-id="LosAngelesLakers.nba" tvg-name="NBA Los Angeles Lakers" group-title="ENG - Sports NBA/WNBA",NBA Los Angeles Lakers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89072
+#EXTINF:-1 tvg-id="MemphisGrizzlies.nba" tvg-name="NBA Memphis Grizzlies" group-title="ENG - Sports NBA/WNBA",NBA Memphis Grizzlies
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89073
+#EXTINF:-1 tvg-id="MiamiHeat.nba" tvg-name="NBA Miami Heat" group-title="ENG - Sports NBA/WNBA",NBA Miami Heat
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89074
+#EXTINF:-1 tvg-id="MilwaukeeBucks.nba" tvg-name="NBA Milwaukee Bucks" group-title="ENG - Sports NBA/WNBA",NBA Milwaukee Bucks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89075
+#EXTINF:-1 tvg-id="MinnesotaTimberwolves.nba" tvg-name="NBA Minnesota Timberwolves" group-title="ENG - Sports NBA/WNBA",NBA Minnesota Timberwolves
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89076
+#EXTINF:-1 tvg-id="NewOrleansPelicans.nba" tvg-name="NBA New Orleans Pelicans" group-title="ENG - Sports NBA/WNBA",NBA New Orleans Pelicans
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89077
+#EXTINF:-1 tvg-id="NewYorkKnicks.nba" tvg-name="NBA New York Knicks" group-title="ENG - Sports NBA/WNBA",NBA New York Knicks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89078
+#EXTINF:-1 tvg-id="OklahomaCityThunder.nba" tvg-name="NBA Oklahoma City Thunder" group-title="ENG - Sports NBA/WNBA",NBA Oklahoma City Thunder
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89079
+#EXTINF:-1 tvg-id="OrlandoMagic.nba" tvg-name="NBA Orlando Magic" group-title="ENG - Sports NBA/WNBA",NBA Orlando Magic
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89080
+#EXTINF:-1 tvg-id="Philadelphia76ers.nba" tvg-name="NBA Philadelphia 76ers" group-title="ENG - Sports NBA/WNBA",NBA Philadelphia 76ers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89081
+#EXTINF:-1 tvg-id="PhoenixSuns.nba" tvg-name="NBA Phoenix Suns" group-title="ENG - Sports NBA/WNBA",NBA Phoenix Suns
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89082
+#EXTINF:-1 tvg-id="PortlandTrailBlazers.nba" tvg-name="NBA Portland TrailBlazers" group-title="ENG - Sports NBA/WNBA",NBA Portland TrailBlazers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89083
+#EXTINF:-1 tvg-id="SacramentoKings.nba" tvg-name="NBA Sacramento Kings" group-title="ENG - Sports NBA/WNBA",NBA Sacramento Kings
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89084
+#EXTINF:-1 tvg-id="SanAntonioSpurs.nba" tvg-name="NBA San Antonio Spurs" group-title="ENG - Sports NBA/WNBA",NBA San Antonio Spurs
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89085
+#EXTINF:-1 tvg-id="TorontoRaptors.nba" tvg-name="NBA Toronto Raptors" group-title="ENG - Sports NBA/WNBA",NBA Toronto Raptors
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89086
+#EXTINF:-1 tvg-id="UtahJazz.nba" tvg-name="NBA Utah Jazz" group-title="ENG - Sports NBA/WNBA",NBA Utah Jazz
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89087
+#EXTINF:-1 tvg-id="WashingtonWizards.nba" tvg-name="NBA Washington Wizards" group-title="ENG - Sports NBA/WNBA",NBA Washington Wizards
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89088
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NBA Expansion (FUTURE1)" group-title="ENG - Sports NBA/WNBA",NBA Expansion (FUTURE1)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NBA Expansion (FUTURE2)" group-title="ENG - Sports NBA/WNBA",NBA Expansion (FUTURE2)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NBA Expansion (FUTURE3)" group-title="ENG - Sports NBA/WNBA",NBA Expansion (FUTURE3)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NBA Expansion (FUTURE4)" group-title="ENG - Sports NBA/WNBA",NBA Expansion (FUTURE4)
+http://example.com/stream
+
+#GROUP:ENG - Sports NFL
+#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="NFL Network CA" group-title="ENG - Sports NFL",NFL Network CA
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3067
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network SD US" group-title="ENG - Sports NFL",NFL Network SD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2424
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network HD US" group-title="ENG - Sports NFL",NFL Network HD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3754
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network HD2 US" group-title="ENG - Sports NFL",NFL Network HD2 US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3670
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL Red Zone FHD1" group-title="ENG - Sports NFL",NFL Red Zone FHD1
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3752
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL Red zone FHD2" group-title="ENG - Sports NFL",NFL Red zone FHD2
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3671
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL Red Zone HD" group-title="ENG - Sports NFL",NFL Red Zone HD
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97491
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="NFL SNF HD1:" group-title="ENG - Sports NFL",NFL SNF HD1:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/740091
+#EXTINF:-1 tvg-id="NBCWTVJ.us" tvg-name="NFL SNF HD2:" group-title="ENG - Sports NFL",NFL SNF HD2:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401123
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="NFL MNF:  " group-title="ENG - Sports NFL",NFL MNF:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401124
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL TNF: " group-title="ENG - Sports NFL",NFL TNF:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401125
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network SD US" group-title="ENG - Sports NFL",NFL Network SD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21600
+#EXTINF:-1 tvg-id="NewOrleansSaints.nfl" tvg-name="NFL: New Orleans Saints" group-title="ENG - Sports NFL",NFL: New Orleans Saints
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401122
+#EXTINF:-1 tvg-id="SanFrancisco49ers.nfl" tvg-name="NFL: San Francisco 49ers" group-title="ENG - Sports NFL",NFL: San Francisco 49ers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390458
+#EXTINF:-1 tvg-id="ChicagoBears.nfl" tvg-name="NFL: Chicago Bears" group-title="ENG - Sports NFL",NFL: Chicago Bears
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390457
+#EXTINF:-1 tvg-id="CincinnatiBengals.nfl" tvg-name="NFL: Cincinnati Bengals" group-title="ENG - Sports NFL",NFL: Cincinnati Bengals
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390456
+#EXTINF:-1 tvg-id="BuffaloBills.nfl" tvg-name="NFL: Buffalo Bills" group-title="ENG - Sports NFL",NFL: Buffalo Bills
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390455
+#EXTINF:-1 tvg-id="DenverBroncos.nfl" tvg-name="NFL: Denver Broncos" group-title="ENG - Sports NFL",NFL: Denver Broncos
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390454
+#EXTINF:-1 tvg-id="ClevelandBrowns.nfl" tvg-name="NFL: Cleveland Browns" group-title="ENG - Sports NFL",NFL: Cleveland Browns
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390453
+#EXTINF:-1 tvg-id="TampaBayBuccaneers.nfl" tvg-name="NFL: Tampa Bay Buccaneers" group-title="ENG - Sports NFL",NFL: Tampa Bay Buccaneers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390452
+#EXTINF:-1 tvg-id="ArizonaCardinals.nfl" tvg-name="NFL: Arizona Cardinals" group-title="ENG - Sports NFL",NFL: Arizona Cardinals
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390451
+#EXTINF:-1 tvg-id="LosAngelesChargers.nfl" tvg-name="NFL: Los Angeles Chargers" group-title="ENG - Sports NFL",NFL: Los Angeles Chargers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390450
+#EXTINF:-1 tvg-id="KansasCityChiefs.nfl" tvg-name="NFL: Kansas City Chiefs" group-title="ENG - Sports NFL",NFL: Kansas City Chiefs
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390449
+#EXTINF:-1 tvg-id="IndianapolisColts.nfl" tvg-name="NFL: Indianapolis Colts" group-title="ENG - Sports NFL",NFL: Indianapolis Colts
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390448
+#EXTINF:-1 tvg-id="WashingtonCommanders.nfl" tvg-name="NFL: Washington Commanders" group-title="ENG - Sports NFL",NFL: Washington Commanders
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390433
+#EXTINF:-1 tvg-id="DallasCowboys.nfl" tvg-name="NFL: Dallas Cowboys" group-title="ENG - Sports NFL",NFL: Dallas Cowboys
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390447
+#EXTINF:-1 tvg-id="MiamiDolphins.nfl" tvg-name="NFL: Miami Dolphins" group-title="ENG - Sports NFL",NFL: Miami Dolphins
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390446
+#EXTINF:-1 tvg-id="PhiladelphiaEagles.nfl" tvg-name="NFL: Philadelphia Eagles" group-title="ENG - Sports NFL",NFL: Philadelphia Eagles
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390445
+#EXTINF:-1 tvg-id="AtlantaFalcons.nfl" tvg-name="NFL: Atlanta Falcons" group-title="ENG - Sports NFL",NFL: Atlanta Falcons
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390444
+#EXTINF:-1 tvg-id="NewYorkGiants.nfl" tvg-name="NFL: New York Giants" group-title="ENG - Sports NFL",NFL: New York Giants
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390443
+#EXTINF:-1 tvg-id="JacksonvilleJaguars.nfl" tvg-name="NFL: Jacksonville Jaguars" group-title="ENG - Sports NFL",NFL: Jacksonville Jaguars
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390442
+#EXTINF:-1 tvg-id="NewYorkJets.nfl" tvg-name="NFL: New York Jets" group-title="ENG - Sports NFL",NFL: New York Jets
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390441
+#EXTINF:-1 tvg-id="DetroitLions.nfl" tvg-name="NFL: Detroit Lions" group-title="ENG - Sports NFL",NFL: Detroit Lions
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390440
+#EXTINF:-1 tvg-id="GreenBayPackers.nfl" tvg-name="NFL: Green Bay Packers" group-title="ENG - Sports NFL",NFL: Green Bay Packers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390439
+#EXTINF:-1 tvg-id="CarolinaPanthers.nfl" tvg-name="NFL: Carolina Panthers" group-title="ENG - Sports NFL",NFL: Carolina Panthers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390438
+#EXTINF:-1 tvg-id="NewEnglandPatriots.nfl" tvg-name="NFL: New England Patriots" group-title="ENG - Sports NFL",NFL: New England Patriots
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390437
+#EXTINF:-1 tvg-id="LasVegasRaiders.nfl" tvg-name="NFL: Las Vegas Raiders" group-title="ENG - Sports NFL",NFL: Las Vegas Raiders
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390436
+#EXTINF:-1 tvg-id="LosAngelesRams.nfl" tvg-name="NFL: Los Angeles Rams" group-title="ENG - Sports NFL",NFL: Los Angeles Rams
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390435
+#EXTINF:-1 tvg-id="BaltimoreRavens.nfl" tvg-name="NFL: Baltimore Ravens" group-title="ENG - Sports NFL",NFL: Baltimore Ravens
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390434
+#EXTINF:-1 tvg-id="SeattleSeahawks.nfl" tvg-name="NFL: Seattle Seahawks" group-title="ENG - Sports NFL",NFL: Seattle Seahawks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390432
+#EXTINF:-1 tvg-id="PittsburghSteelers.nfl" tvg-name="NFL: Pittsburgh Steelers" group-title="ENG - Sports NFL",NFL: Pittsburgh Steelers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390431
+#EXTINF:-1 tvg-id="HoustonTexans.nfl" tvg-name="NFL: Houston Texans" group-title="ENG - Sports NFL",NFL: Houston Texans
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390430
+#EXTINF:-1 tvg-id="TennesseeTitans.nfl" tvg-name="NFL: Tennessee Titans" group-title="ENG - Sports NFL",NFL: Tennessee Titans
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390429
+#EXTINF:-1 tvg-id="MinnesotaVikings.nfl" tvg-name="NFL: Minnesota Vikings" group-title="ENG - Sports NFL",NFL: Minnesota Vikings
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390428
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NFL Expansion (FUTURE1)" group-title="ENG - Sports NFL",NFL Expansion (FUTURE1)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NFL Expansion (FUTURE2)" group-title="ENG - Sports NFL",NFL Expansion (FUTURE2)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NFL Expansion (FUTURE3)" group-title="ENG - Sports NFL",NFL Expansion (FUTURE3)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NFL Expansion (FUTURE4)" group-title="ENG - Sports NFL",NFL Expansion (FUTURE4)
+http://example.com/stream
+
 #GROUP:ENG - Sports Fight
-#EXTINF:-1 tvg-id="FightNetwork.us" tvg-name="Fight Network US" group-title="ENG - Sports Fight",Fight Network US
+#EXTINF:-1 tvg-id="FightNetwork.us" tvg-name="Fight Network HD US" group-title="ENG - Sports Fight",Fight Network HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/81589
 #EXTINF:-1 tvg-id="UFC24_7.us" tvg-name="UFC Channel FHD US" group-title="ENG - Sports Fight",UFC Channel FHD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/61769
-#EXTINF:-1 tvg-id="TheFightNetwork.ca" tvg-name="FIGHT NETWORK SD" tvg-logo="https://static.realiptv.to/snapshots/97533.jpg" group-title="ENG - Sports Fight",FIGHT NETWORK SD
+#EXTINF:-1 tvg-id="TheFightNetwork.ca" tvg-name="Fight Network SD US" group-title="ENG - Sports Fight",Fight Network SD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97533
-#EXTINF:-1 tvg-id="Stadium.us" tvg-name="STADIUM USA SD" tvg-logo="https://static.realiptv.to/snapshots/97494.jpg" group-title="ENG - Sports Fight",STADIUM USA SD
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium SD US" group-title="ENG - Sports Fight",Stadium SD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97494
 
 #GROUP:ESP - Deportes
@@ -5247,6 +5365,82 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/40648
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/40647
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" group-title="ESP - Deportes",TUDN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/4640
+
+#GROUP:ENG - Sports NHL
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network HD US" group-title="ENG - Sports NHL",NHL Network HD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3672
+#EXTINF:-1 tvg-id="AnaheimDucks.nhl" tvg-name="NHL Anaheim Ducks" group-title="ENG - Sports NHL",NHL Anaheim Ducks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509719
+#EXTINF:-1 tvg-id="UtahMammoth.nhl" tvg-name="NHL Utah Mammoth" tvg-logo="Arizonacoyotes" group-title="ENG - Sports NHL",NHL Utah Mammoth
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509707
+#EXTINF:-1 tvg-id="BostonBruins.nhl" tvg-name="NHL Boston Bruins" group-title="ENG - Sports NHL",NHL Boston Bruins
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509711
+#EXTINF:-1 tvg-id="BuffaloSabres.nhl" tvg-name="NHL Buffalo Sabres" group-title="ENG - Sports NHL",NHL Buffalo Sabres
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509710
+#EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="NHL Calgary Flames" group-title="ENG - Sports NHL",NHL Calgary Flames
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509713
+#EXTINF:-1 tvg-id="CarolinaHurricanes.nhl" tvg-name="NHL Carolina Hurricanes" group-title="ENG - Sports NHL",NHL Carolina Hurricanes
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509725
+#EXTINF:-1 tvg-id="ChicagoBlackhawks.nhl" tvg-name="NHL Chicago Blackhawks" group-title="ENG - Sports NHL",NHL Chicago Blackhawks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509730
+#EXTINF:-1 tvg-id="ColoradoAvalanche.nhl" tvg-name="NHL Colorado Avalanche" group-title="ENG - Sports NHL",NHL Colorado Avalanche
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509736
+#EXTINF:-1 tvg-id="ColumbusBlueJackets.nhl" tvg-name="NHL Columbus Blue Jackets" group-title="ENG - Sports NHL",NHL Columbus Blue Jackets
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509734
+#EXTINF:-1 tvg-id="DallasStars.nhl" tvg-name="NHL Dallas Stars" group-title="ENG - Sports NHL",NHL Dallas Stars
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509709
+#EXTINF:-1 tvg-id="DetroitRedWings.nhl" tvg-name="NHL Detroit Red Wings" group-title="ENG - Sports NHL",NHL Detroit Red Wings
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509737
+#EXTINF:-1 tvg-id="EdmontonOilers.nhl" tvg-name="NHL Edmonton Oilers" group-title="ENG - Sports NHL",NHL Edmonton Oilers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509722
+#EXTINF:-1 tvg-id="FloridaPanthers.nhl" tvg-name="NHL Florida Panthers" group-title="ENG - Sports NHL",NHL Florida Panthers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509716
+#EXTINF:-1 tvg-id="LosAngelesKings.nhl" tvg-name="NHL Los Angeles Kings" group-title="ENG - Sports NHL",NHL Los Angeles Kings
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509712
+#EXTINF:-1 tvg-id="MinnesotaWild.nhl" tvg-name="NHL Minnesota Wild" group-title="ENG - Sports NHL",NHL Minnesota Wild
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509733
+#EXTINF:-1 tvg-id="MontrealCanadiens.nhl" tvg-name="NHL Montreal Canadiens" group-title="ENG - Sports NHL",NHL Montreal Canadiens
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509728
+#EXTINF:-1 tvg-id="NashvillePredators.nhl" tvg-name="NHL Nashville Predators" group-title="ENG - Sports NHL",NHL Nashville Predators
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509724
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network SD US" group-title="ENG - Sports NHL",NHL Network SD US
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21615
+#EXTINF:-1 tvg-id="NewJerseyDevils.nhl" tvg-name="NHL New Jersey Devils" group-title="ENG - Sports NHL",NHL New Jersey Devils
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509718
+#EXTINF:-1 tvg-id="NewYorkIslanders.nhl" tvg-name="NHL New York Islanders" group-title="ENG - Sports NHL",NHL New York Islanders
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509735
+#EXTINF:-1 tvg-id="NewYorkRangers.nhl" tvg-name="NHL New York Rangers" group-title="ENG - Sports NHL",NHL New York Rangers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509732
+#EXTINF:-1 tvg-id="OttawaSenators.nhl" tvg-name="NHL Ottawa Senators" group-title="ENG - Sports NHL",NHL Ottawa Senators
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509729
+#EXTINF:-1 tvg-id="PhiladelphiaFlyers.nhl" tvg-name="NHL Philadelphia Flyers" group-title="ENG - Sports NHL",NHL Philadelphia Flyers
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509714
+#EXTINF:-1 tvg-id="PittsburghPenguins.nhl" tvg-name="NHL Pittsburgh Penguins" group-title="ENG - Sports NHL",NHL Pittsburgh Penguins
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509717
+#EXTINF:-1 tvg-id="SanJoseSharks.nhl" tvg-name="NHL San Jose Sharks" group-title="ENG - Sports NHL",NHL San Jose Sharks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509720
+#EXTINF:-1 tvg-id="StLouisBlues.nhl" tvg-name="NHL St Louis Blues" group-title="ENG - Sports NHL",NHL St Louis Blues
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509723
+#EXTINF:-1 tvg-id="TampaBayLightning.nhl" tvg-name="NHL Tampa Bay Lightning" group-title="ENG - Sports NHL",NHL Tampa Bay Lightning
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509727
+#EXTINF:-1 tvg-id="TorontoMapleLeafs.nhl" tvg-name="NHL Toronto Maple Leafs" group-title="ENG - Sports NHL",NHL Toronto Maple Leafs
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509731
+#EXTINF:-1 tvg-id="VancouverCanucks.nhl" tvg-name="NHL Vancouver Canucks" group-title="ENG - Sports NHL",NHL Vancouver Canucks
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509721
+#EXTINF:-1 tvg-id="VegasGoldenKnights.nhl" tvg-name="NHL Vegas Golden Knights" group-title="ENG - Sports NHL",NHL Vegas Golden Knights
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509708
+#EXTINF:-1 tvg-id="WashingtonCapitals.nhl" tvg-name="NHL Washington Capitals" group-title="ENG - Sports NHL",NHL Washington Capitals
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509726
+#EXTINF:-1 tvg-id="WinnipegJets.nhl" tvg-name="NHL Winnipeg Jets" group-title="ENG - Sports NHL",NHL Winnipeg Jets
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509715
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NHL Expansion (FUTURE1)" group-title="ENG - Sports NHL",NHL Expansion (FUTURE1)
+
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NHL Expansion (FUTURE2)" group-title="ENG - Sports NHL",NHL Expansion (FUTURE2)
+
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NHL Expansion (FUTURE3)" group-title="ENG - Sports NHL",NHL Expansion (FUTURE3)
+
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NHL Expansion (FUTURE4)" group-title="ENG - Sports NHL",NHL Expansion (FUTURE4)
+
 
 #GROUP:ESP - Chile
 #EXTINF:-1 tvg-name="CL A&E" tvg-logo="https://static.realiptv.to/snapshots/560364.jpg" group-title="ESP - Chile",CL A&E
@@ -5564,190 +5758,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119596
 #EXTINF:-1 tvg-name="Latin Tele El Salvador" tvg-logo="https://static.realiptv.to/snapshots/4591.jpg" group-title="ESP - El Salvador",Latin Tele El Salvador
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/4591
 
-#GROUP:ENG - Sports MLB
-#EXTINF:-1 tvg-id="ARI.mlb" tvg-name="MLB Arizona Diamondbacks" tvg-logo="https://static.realiptv.to/snapshots/390398.jpg" group-title="ENG - Sports MLB",MLB Arizona Diamondbacks
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390398
-#EXTINF:-1 tvg-id="ATL.mlb" tvg-name="MLB Atlanta Braves" tvg-logo="https://static.realiptv.to/snapshots/390399.jpg" group-title="ENG - Sports MLB",MLB Atlanta Braves
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390399
-#EXTINF:-1 tvg-id="BAL.mlb" tvg-name="MLB Baltimore Orioles" tvg-logo="https://static.realiptv.to/snapshots/390400.jpg" group-title="ENG - Sports MLB",MLB Baltimore Orioles
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390400
-#EXTINF:-1 tvg-id="BOS.mlb" tvg-name="MLB Boston Red Sox" tvg-logo="https://static.realiptv.to/snapshots/390401.jpg" group-title="ENG - Sports MLB",MLB Boston Red Sox
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390401
-#EXTINF:-1 tvg-id="CHC.mlb" tvg-name="MLB Chicago Cubs" tvg-logo="https://static.realiptv.to/snapshots/390402.jpg" group-title="ENG - Sports MLB",MLB Chicago Cubs
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390402
-#EXTINF:-1 tvg-id="CWS.mlb" tvg-name="MLB Chicago White Sox" tvg-logo="https://static.realiptv.to/snapshots/390406.jpg" group-title="ENG - Sports MLB",MLB Chicago White Sox
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390406
-#EXTINF:-1 tvg-id="CIN.mlb" tvg-name="MLB Cincinnati Reds" tvg-logo="https://static.realiptv.to/snapshots/390403.jpg" group-title="ENG - Sports MLB",MLB Cincinnati Reds
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390403
-#EXTINF:-1 tvg-name="MLB Cleveland Guardians" tvg-logo="https://static.realiptv.to/snapshots/390404.jpg" group-title="ENG - Sports MLB",MLB Cleveland Guardians
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390404
-#EXTINF:-1 tvg-id="COL.mlb" tvg-name="MLB Colorado Rockies" tvg-logo="https://static.realiptv.to/snapshots/390405.jpg" group-title="ENG - Sports MLB",MLB Colorado Rockies
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390405
-#EXTINF:-1 tvg-id="DET.mlb" tvg-name="MLB Detroit Tigers" tvg-logo="https://static.realiptv.to/snapshots/390407.jpg" group-title="ENG - Sports MLB",MLB Detroit Tigers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390407
-#EXTINF:-1 tvg-id="HOU.mlb" tvg-name="MLB Houston Astros" tvg-logo="https://static.realiptv.to/snapshots/390408.jpg" group-title="ENG - Sports MLB",MLB Houston Astros
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390408
-#EXTINF:-1 tvg-id="KC.mlb" tvg-name="MLB Kansas City Royals" tvg-logo="https://static.realiptv.to/snapshots/390409.jpg" group-title="ENG - Sports MLB",MLB Kansas City Royals
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390409
-#EXTINF:-1 tvg-id="LAA.mlb" tvg-name="MLB Los Angeles Angels" tvg-logo="https://static.realiptv.to/snapshots/390410.jpg" group-title="ENG - Sports MLB",MLB Los Angeles Angels
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390410
-#EXTINF:-1 tvg-id="LAD.mlb" tvg-name="MLB Los Angeles Dodgers" tvg-logo="https://static.realiptv.to/snapshots/390411.jpg" group-title="ENG - Sports MLB",MLB Los Angeles Dodgers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390411
-#EXTINF:-1 tvg-id="MIA.mlb" tvg-name="MLB Miami Marlins" tvg-logo="https://static.realiptv.to/snapshots/390412.jpg" group-title="ENG - Sports MLB",MLB Miami Marlins
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390412
-#EXTINF:-1 tvg-id="MIL.mlb" tvg-name="MLB Milwaukee Brewers" tvg-logo="https://static.realiptv.to/snapshots/390413.jpg" group-title="ENG - Sports MLB",MLB Milwaukee Brewers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390413
-#EXTINF:-1 tvg-id="MIN.mlb" tvg-name="MLB Minnesota Twins" tvg-logo="https://static.realiptv.to/snapshots/390414.jpg" group-title="ENG - Sports MLB",MLB Minnesota Twins
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390414
-#EXTINF:-1 tvg-id="NYM.mlb" tvg-name="MLB New York Mets" tvg-logo="https://static.realiptv.to/snapshots/390415.jpg" group-title="ENG - Sports MLB",MLB New York Mets
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390415
-#EXTINF:-1 tvg-id="NYY.mlb" tvg-name="MLB New York Yankees" tvg-logo="https://static.realiptv.to/snapshots/390416.jpg" group-title="ENG - Sports MLB",MLB New York Yankees
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390416
-#EXTINF:-1 tvg-id="OAK.mlb" tvg-name="MLB Oakland Athletics" tvg-logo="https://static.realiptv.to/snapshots/390417.jpg" group-title="ENG - Sports MLB",MLB Oakland Athletics
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390417
-#EXTINF:-1 tvg-id="PHI.mlb" tvg-name="MLB Philadelphia Phillies" tvg-logo="https://static.realiptv.to/snapshots/390418.jpg" group-title="ENG - Sports MLB",MLB Philadelphia Phillies
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390418
-#EXTINF:-1 tvg-id="PIT.mlb" tvg-name="MLB Pittsburgh Pirates" tvg-logo="https://static.realiptv.to/snapshots/390419.jpg" group-title="ENG - Sports MLB",MLB Pittsburgh Pirates
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390419
-#EXTINF:-1 tvg-id="SD.mlb" tvg-name="MLB San Diego Padres" tvg-logo="https://static.realiptv.to/snapshots/390420.jpg" group-title="ENG - Sports MLB",MLB San Diego Padres
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390420
-#EXTINF:-1 tvg-id="SF.mlb" tvg-name="MLB San Francisco Giants" tvg-logo="https://static.realiptv.to/snapshots/390422.jpg" group-title="ENG - Sports MLB",MLB San Francisco Giants
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390422
-#EXTINF:-1 tvg-id="SEA.mlb" tvg-name="MLB Seattle Mariners" tvg-logo="https://static.realiptv.to/snapshots/390421.jpg" group-title="ENG - Sports MLB",MLB Seattle Mariners
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390421
-#EXTINF:-1 tvg-id="STL.mlb" tvg-name="MLB St. Louis Cardinals" tvg-logo="https://static.realiptv.to/snapshots/390423.jpg" group-title="ENG - Sports MLB",MLB St. Louis Cardinals
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390423
-#EXTINF:-1 tvg-name="MLB Tampa Bay Rays" tvg-logo="https://static.realiptv.to/snapshots/390424.jpg" group-title="ENG - Sports MLB",MLB Tampa Bay Rays
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390424
-#EXTINF:-1 tvg-name="MLB Texas Rangers" tvg-logo="https://static.realiptv.to/snapshots/390425.jpg" group-title="ENG - Sports MLB",MLB Texas Rangers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390425
-#EXTINF:-1 tvg-id="TOR.mlb" tvg-name="MLB Toronto Blue Jays" tvg-logo="https://static.realiptv.to/snapshots/390426.jpg" group-title="ENG - Sports MLB",MLB Toronto Blue Jays
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390426
-#EXTINF:-1 tvg-name="MLB Washington Nationals" tvg-logo="https://static.realiptv.to/snapshots/390427.jpg" group-title="ENG - Sports MLB",MLB Washington Nationals
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390427
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network USA SD" tvg-logo="https://static.realiptv.to/snapshots/21574.jpg" group-title="ENG - Sports MLB",MLB Network USA SD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21574
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 01: Chicago Cubs VS Cincinnati Reds (Chicago Cubs Feed ) @ 18:40" tvg-logo="https://static.realiptv.to/snapshots/177038.jpg" group-title="ENG - Sports MLB",MLB 01: Chicago Cubs VS Cincinnati Reds (Chicago Cubs Feed ) @ 18:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177038
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 02: Chicago Cubs VS Cincinnati Reds (Cincinnati Reds Feed ) @ 18:40" tvg-logo="https://static.realiptv.to/snapshots/177039.jpg" group-title="ENG - Sports MLB",MLB 02: Chicago Cubs VS Cincinnati Reds (Cincinnati Reds Feed ) @ 18:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177039
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 03: Kansas City Royals VS Pittsburgh Pirates (Pittsburgh Pirates Feed ) @ 18:40" tvg-logo="https://static.realiptv.to/snapshots/177040.jpg" group-title="ENG - Sports MLB",MLB 03: Kansas City Royals VS Pittsburgh Pirates (Pittsburgh Pirates Feed ) @ 18:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177040
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 04: Kansas City Royals VS Pittsburgh Pirates (Kansas City Royals Feed ) @ 18:40" tvg-logo="https://static.realiptv.to/snapshots/177041.jpg" group-title="ENG - Sports MLB",MLB 04: Kansas City Royals VS Pittsburgh Pirates (Kansas City Royals Feed ) @ 18:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177041
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 05: Milwaukee Brewers VS Baltimore Orioles (Milwaukee Brewers Feed ) @ 19:05" tvg-logo="https://static.realiptv.to/snapshots/177042.jpg" group-title="ENG - Sports MLB",MLB 05: Milwaukee Brewers VS Baltimore Orioles (Milwaukee Brewers Feed ) @ 19:05
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177042
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 06: Milwaukee Brewers VS Baltimore Orioles (Baltimore Orioles Feed ) @ 19:05" tvg-logo="https://static.realiptv.to/snapshots/177043.jpg" group-title="ENG - Sports MLB",MLB 06: Milwaukee Brewers VS Baltimore Orioles (Baltimore Orioles Feed ) @ 19:05
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177043
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 07: Athletics VS Cleveland Guardians (Athletics Feed ) @ 19:10" tvg-logo="https://static.realiptv.to/snapshots/177044.jpg" group-title="ENG - Sports MLB",MLB 07: Athletics VS Cleveland Guardians (Athletics Feed ) @ 19:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177044
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 08: Athletics VS Cleveland Guardians (Cleveland Guardians Feed ) @ 19:10" tvg-logo="https://static.realiptv.to/snapshots/177045.jpg" group-title="ENG - Sports MLB",MLB 08: Athletics VS Cleveland Guardians (Cleveland Guardians Feed ) @ 19:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177045
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 09: Athletics VS Cleveland Guardians (Cleveland Guardians Feed ) @ 19:10" tvg-logo="https://static.realiptv.to/snapshots/177046.jpg" group-title="ENG - Sports MLB",MLB 09: Athletics VS Cleveland Guardians (Cleveland Guardians Feed ) @ 19:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177046
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 10: Boston Red Sox VS Tampa Bay Rays (Tampa Bay Rays Feed ) @ 19:10" tvg-logo="https://static.realiptv.to/snapshots/177047.jpg" group-title="ENG - Sports MLB",MLB 10: Boston Red Sox VS Tampa Bay Rays (Tampa Bay Rays Feed ) @ 19:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177047
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 11: Boston Red Sox VS Tampa Bay Rays (Boston Red Sox Feed ) @ 19:10" tvg-logo="https://static.realiptv.to/snapshots/177048.jpg" group-title="ENG - Sports MLB",MLB 11: Boston Red Sox VS Tampa Bay Rays (Boston Red Sox Feed ) @ 19:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177048
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 12: Detroit Tigers VS Chicago White Sox (Chicago White Sox Feed ) @ 19:40" tvg-logo="https://static.realiptv.to/snapshots/177049.jpg" group-title="ENG - Sports MLB",MLB 12: Detroit Tigers VS Chicago White Sox (Chicago White Sox Feed ) @ 19:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177049
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 13: Detroit Tigers VS Chicago White Sox (Detroit Tigers Feed ) @ 19:40" tvg-logo="https://static.realiptv.to/snapshots/177050.jpg" group-title="ENG - Sports MLB",MLB 13: Detroit Tigers VS Chicago White Sox (Detroit Tigers Feed ) @ 19:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177050
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 14: Toronto Blue Jays VS Texas Rangers (Toronto Blue Jays Feed ) @ 20:05" tvg-logo="https://static.realiptv.to/snapshots/177051.jpg" group-title="ENG - Sports MLB",MLB 14: Toronto Blue Jays VS Texas Rangers (Toronto Blue Jays Feed ) @ 20:05
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177051
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 15: Toronto Blue Jays VS Texas Rangers (Texas Rangers Feed ) @ 20:05" tvg-logo="https://static.realiptv.to/snapshots/177052.jpg" group-title="ENG - Sports MLB",MLB 15: Toronto Blue Jays VS Texas Rangers (Texas Rangers Feed ) @ 20:05
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177052
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 16: Seattle Mariners VS Colorado Rockies (Colorado Rockies Feed ) @ 20:10" tvg-logo="https://static.realiptv.to/snapshots/177053.jpg" group-title="ENG - Sports MLB",MLB 16: Seattle Mariners VS Colorado Rockies (Colorado Rockies Feed ) @ 20:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177053
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 17: Seattle Mariners VS Colorado Rockies (Seattle Mariners Feed ) @ 20:10" tvg-logo="https://static.realiptv.to/snapshots/177054.jpg" group-title="ENG - Sports MLB",MLB 17: Seattle Mariners VS Colorado Rockies (Seattle Mariners Feed ) @ 20:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177054
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 18: Atlanta Braves VS Houston Astros (Houston Astros Feed ) @ 20:10" tvg-logo="https://static.realiptv.to/snapshots/177055.jpg" group-title="ENG - Sports MLB",MLB 18: Atlanta Braves VS Houston Astros (Houston Astros Feed ) @ 20:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177055
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 19: Atlanta Braves VS Houston Astros (Atlanta Braves Feed ) @ 20:10" tvg-logo="https://static.realiptv.to/snapshots/177056.jpg" group-title="ENG - Sports MLB",MLB 19: Atlanta Braves VS Houston Astros (Atlanta Braves Feed ) @ 20:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177056
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 20: Atlanta Braves VS Houston Astros (Houston Astros Feed ) @ 20:10" tvg-logo="https://static.realiptv.to/snapshots/177057.jpg" group-title="ENG - Sports MLB",MLB 20: Atlanta Braves VS Houston Astros (Houston Astros Feed ) @ 20:10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177057
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 21: Washington Nationals VS St. Louis Cardinals (Washington Nationals Feed ) @ 20:15" tvg-logo="https://static.realiptv.to/snapshots/177058.jpg" group-title="ENG - Sports MLB",MLB 21: Washington Nationals VS St. Louis Cardinals (Washington Nationals Feed ) @ 20:15
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177058
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 22: Washington Nationals VS St. Louis Cardinals (St. Louis Cardinals Feed ) @ 20:15" tvg-logo="https://static.realiptv.to/snapshots/177059.jpg" group-title="ENG - Sports MLB",MLB 22: Washington Nationals VS St. Louis Cardinals (St. Louis Cardinals Feed ) @ 20:15
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177059
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 23: Minnesota Twins VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38" tvg-logo="https://static.realiptv.to/snapshots/177060.jpg" group-title="ENG - Sports MLB",MLB 23: Minnesota Twins VS Los Angeles Angels (Los Angeles Angels Feed ) @ 21:38
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177060
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 24: Minnesota Twins VS Los Angeles Angels (Minnesota Twins Feed ) @ 21:38" tvg-logo="https://static.realiptv.to/snapshots/177061.jpg" group-title="ENG - Sports MLB",MLB 24: Minnesota Twins VS Los Angeles Angels (Minnesota Twins Feed ) @ 21:38
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177061
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 25: Miami Marlins VS San Diego Padres (San Diego Padres Feed ) @ 21:40" tvg-logo="https://static.realiptv.to/snapshots/177062.jpg" group-title="ENG - Sports MLB",MLB 25: Miami Marlins VS San Diego Padres (San Diego Padres Feed ) @ 21:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177062
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 26: Miami Marlins VS San Diego Padres (Miami Marlins Feed ) @ 21:40" tvg-logo="https://static.realiptv.to/snapshots/177063.jpg" group-title="ENG - Sports MLB",MLB 26: Miami Marlins VS San Diego Padres (Miami Marlins Feed ) @ 21:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177063
-#EXTINF:-1 tvg-id="Real MLB 27" tvg-name="MLB 27: New York Yankees VS Arizona Diamondbacks (New York Yankees Feed ) @ 21:40" tvg-logo="https://static.realiptv.to/snapshots/177064.jpg" group-title="ENG - Sports MLB",MLB 27: New York Yankees VS Arizona Diamondbacks (New York Yankees Feed ) @ 21:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177064
-#EXTINF:-1 tvg-id="Real MLB 28" tvg-name="MLB 28: New York Yankees VS Arizona Diamondbacks (Arizona Diamondbacks Feed ) @ 21:40" tvg-logo="https://static.realiptv.to/snapshots/177065.jpg" group-title="ENG - Sports MLB",MLB 28: New York Yankees VS Arizona Diamondbacks (Arizona Diamondbacks Feed ) @ 21:40
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177065
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 29: Philadelphia Phillies vs New York Mets (Apple Tv) @ 07:10 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/177066.jpg" group-title="ENG - Sports MLB",MLB 29: Philadelphia Phillies vs New York Mets (Apple Tv) @ 07:10 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177066
-#EXTINF:-1 tvg-id="Real MLB 30" tvg-name="MLB 30: San Francisco Giants vs Los Angeles Dodgers (Apple Tv) @ 10:10 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/177067.jpg" group-title="ENG - Sports MLB",MLB 30: San Francisco Giants vs Los Angeles Dodgers (Apple Tv) @ 10:10 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177067
-#EXTINF:-1 tvg-id="Real MLB 31" tvg-name="MLB 31: " tvg-logo="https://static.realiptv.to/snapshots/177068.jpg" group-title="ENG - Sports MLB",MLB 31:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177068
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 32: " tvg-logo="https://static.realiptv.to/snapshots/177069.jpg" group-title="ENG - Sports MLB",MLB 32:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177069
-#EXTINF:-1 tvg-id="Real MLB 33" tvg-name="MLB 33: " tvg-logo="https://static.realiptv.to/snapshots/177070.jpg" group-title="ENG - Sports MLB",MLB 33:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177070
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="MLB 34: " tvg-logo="https://static.realiptv.to/snapshots/177071.jpg" group-title="ENG - Sports MLB",MLB 34:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177071
-#EXTINF:-1 tvg-id="Real MLB 35" tvg-name="MLB 35: " tvg-logo="https://static.realiptv.to/snapshots/177072.jpg" group-title="ENG - Sports MLB",MLB 35:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177072
-#EXTINF:-1 tvg-id="Real MLB 36" tvg-name="MLB 36: " tvg-logo="https://static.realiptv.to/snapshots/177073.jpg" group-title="ENG - Sports MLB",MLB 36:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177073
-#EXTINF:-1 tvg-id="Real MLB 37" tvg-name="MLB 37: " tvg-logo="https://static.realiptv.to/snapshots/177074.jpg" group-title="ENG - Sports MLB",MLB 37:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177074
-#EXTINF:-1 tvg-id="Real MLB 38" tvg-name="MLB 38: " tvg-logo="https://static.realiptv.to/snapshots/177075.jpg" group-title="ENG - Sports MLB",MLB 38:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177075
-#EXTINF:-1 tvg-id="Real MLB 39" tvg-name="MLB 39: " tvg-logo="https://static.realiptv.to/snapshots/177076.jpg" group-title="ENG - Sports MLB",MLB 39:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177076
-#EXTINF:-1 tvg-id="Real MLB 40" tvg-name="MLB 40: " tvg-logo="https://static.realiptv.to/snapshots/177077.jpg" group-title="ENG - Sports MLB",MLB 40:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177077
-#EXTINF:-1 tvg-id="Real MLB 41" tvg-name="MLB 41: " tvg-logo="https://static.realiptv.to/snapshots/177078.jpg" group-title="ENG - Sports MLB",MLB 41:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177078
-#EXTINF:-1 tvg-id="Real MLB 42" tvg-name="MLB 42: " tvg-logo="https://static.realiptv.to/snapshots/177079.jpg" group-title="ENG - Sports MLB",MLB 42:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177079
-#EXTINF:-1 tvg-id="Real MLB 43" tvg-name="MLB 43: " tvg-logo="https://static.realiptv.to/snapshots/177080.jpg" group-title="ENG - Sports MLB",MLB 43:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177080
-#EXTINF:-1 tvg-id="Real MLB 44" tvg-name="MLB 44: " tvg-logo="https://static.realiptv.to/snapshots/177081.jpg" group-title="ENG - Sports MLB",MLB 44:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177081
-#EXTINF:-1 tvg-id="Real MLB 45" tvg-name="MLB 45: " tvg-logo="https://static.realiptv.to/snapshots/177082.jpg" group-title="ENG - Sports MLB",MLB 45:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177082
-#EXTINF:-1 tvg-id="Real MLB 46" tvg-name="MLB 46: " tvg-logo="https://static.realiptv.to/snapshots/177083.jpg" group-title="ENG - Sports MLB",MLB 46:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177083
-#EXTINF:-1 tvg-id="Real MLB 47" tvg-name="MLB 47: " tvg-logo="https://static.realiptv.to/snapshots/177084.jpg" group-title="ENG - Sports MLB",MLB 47:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177084
-#EXTINF:-1 tvg-id="Real MLB 48" tvg-name="MLB 48: " tvg-logo="https://static.realiptv.to/snapshots/177085.jpg" group-title="ENG - Sports MLB",MLB 48:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177085
-#EXTINF:-1 tvg-id="Real MLB 49" tvg-name="MLB 49: " tvg-logo="https://static.realiptv.to/snapshots/177086.jpg" group-title="ENG - Sports MLB",MLB 49:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177086
-#EXTINF:-1 tvg-id="Real MLB 50" tvg-name="MLB 50: " tvg-logo="https://static.realiptv.to/snapshots/177087.jpg" group-title="ENG - Sports MLB",MLB 50:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177087
-#EXTINF:-1 tvg-id="Real MLB 51" tvg-name="MLB 51: " tvg-logo="https://static.realiptv.to/snapshots/177088.jpg" group-title="ENG - Sports MLB",MLB 51:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177088
-#EXTINF:-1 tvg-id="Real MLB 52" tvg-name="MLB 52: " tvg-logo="https://static.realiptv.to/snapshots/177089.jpg" group-title="ENG - Sports MLB",MLB 52:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177089
-#EXTINF:-1 tvg-id="Real MLB 53" tvg-name="MLB 53: " tvg-logo="https://static.realiptv.to/snapshots/177090.jpg" group-title="ENG - Sports MLB",MLB 53:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177090
-#EXTINF:-1 tvg-id="Real MLB 54" tvg-name="MLB 54: " tvg-logo="https://static.realiptv.to/snapshots/177091.jpg" group-title="ENG - Sports MLB",MLB 54:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177091
-#EXTINF:-1 tvg-id="Real MLB 55" tvg-name="MLB 55: " tvg-logo="https://static.realiptv.to/snapshots/177092.jpg" group-title="ENG - Sports MLB",MLB 55:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177092
-#EXTINF:-1 tvg-id="Real MLB 56" tvg-name="MLB 56: " tvg-logo="https://static.realiptv.to/snapshots/177093.jpg" group-title="ENG - Sports MLB",MLB 56:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177093
-#EXTINF:-1 tvg-id="Real MLB 57" tvg-name="MLB 57: " tvg-logo="https://static.realiptv.to/snapshots/177094.jpg" group-title="ENG - Sports MLB",MLB 57:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177094
-#EXTINF:-1 tvg-id="Real MLB 58" tvg-name="MLB 58: " tvg-logo="https://static.realiptv.to/snapshots/177095.jpg" group-title="ENG - Sports MLB",MLB 58:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177095
-#EXTINF:-1 tvg-id="Real MLB 59" tvg-name="MLB 59: " tvg-logo="https://static.realiptv.to/snapshots/177096.jpg" group-title="ENG - Sports MLB",MLB 59:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177096
-#EXTINF:-1 tvg-id="Real MLB 60" tvg-name="MLB 60: " tvg-logo="https://static.realiptv.to/snapshots/177097.jpg" group-title="ENG - Sports MLB",MLB 60:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177097
-
 #GROUP:ESP - Mexico
 #EXTINF:-1 tvg-name="MX PX Sports" tvg-logo="https://static.realiptv.to/snapshots/3980.jpg" group-title="ESP - Mexico",MX PX Sports
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3980
@@ -5889,334 +5899,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/4302
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/553262
 #EXTINF:-1 tvg-name="MX VH1 Classic" tvg-logo="https://static.realiptv.to/snapshots/4309.jpg" group-title="ESP - Mexico",MX VH1 Classic
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/4309
-
-#GROUP:ENG - Sports NBA/WNBA
-#EXTINF:-1 tvg-name="NBA G League 01: Cleveland Charge vs. Noblesville Boom 7:00 pm EDT" tvg-logo="https://static.realiptv.to/snapshots/711755.jpg" group-title="ENG - Sports NBA/WNBA",NBA G League 01: Cleveland Charge vs. Noblesville Boom 7:00 pm EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711755
-#EXTINF:-1 tvg-name="NBA G League 02: Oklahoma City Blue vs. Iowa Wolves 7:30 pm	EDT" tvg-logo="https://static.realiptv.to/snapshots/711756.jpg" group-title="ENG - Sports NBA/WNBA",NBA G League 02: Oklahoma City Blue vs. Iowa Wolves 7:30 pm	EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711756
-#EXTINF:-1 tvg-name="NBA G League 03: Sioux Falls Skyforce vs. South Bay Lakers 10:00 pm	EDT" tvg-logo="https://static.realiptv.to/snapshots/711757.jpg" group-title="ENG - Sports NBA/WNBA",NBA G League 03: Sioux Falls Skyforce vs. South Bay Lakers 10:00 pm	EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711757
-#EXTINF:-1 tvg-name="NBA G League 04: " tvg-logo="https://static.realiptv.to/snapshots/711758.jpg" group-title="ENG - Sports NBA/WNBA",NBA G League 04:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711758
-#EXTINF:-1 tvg-name="NBA G League 05: " tvg-logo="https://static.realiptv.to/snapshots/711759.jpg" group-title="ENG - Sports NBA/WNBA",NBA G League 05:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/711759
-#EXTINF:-1 tvg-name="NBA G League 06: " tvg-logo="https://static.realiptv.to/snapshots/738353.jpg" group-title="ENG - Sports NBA/WNBA",NBA G League 06:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/738353
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV USA SD" tvg-logo="https://static.realiptv.to/snapshots/21576.jpg" group-title="ENG - Sports NBA/WNBA",NBA TV USA SD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21576
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="NBA 01: " tvg-logo="https://static.realiptv.to/snapshots/214171.jpg" group-title="ENG - Sports NBA/WNBA",NBA 01:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214171
-#EXTINF:-1 tvg-id="89730" tvg-name="NBA 02: " tvg-logo="https://static.realiptv.to/snapshots/214172.jpg" group-title="ENG - Sports NBA/WNBA",NBA 02:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214172
-#EXTINF:-1 tvg-id="Bein Sports Espanol" tvg-name="NBA 03: " tvg-logo="https://static.realiptv.to/snapshots/214173.jpg" group-title="ENG - Sports NBA/WNBA",NBA 03:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214173
-#EXTINF:-1 tvg-id="89732" tvg-name="NBA 04: " tvg-logo="https://static.realiptv.to/snapshots/214174.jpg" group-title="ENG - Sports NBA/WNBA",NBA 04:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214174
-#EXTINF:-1 tvg-id="89733" tvg-name="NBA 05: " tvg-logo="https://static.realiptv.to/snapshots/214175.jpg" group-title="ENG - Sports NBA/WNBA",NBA 05:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214175
-#EXTINF:-1 tvg-id="89734" tvg-name="NBA 06: " tvg-logo="https://static.realiptv.to/snapshots/214176.jpg" group-title="ENG - Sports NBA/WNBA",NBA 06:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214176
-#EXTINF:-1 tvg-id="89735" tvg-name="NBA 07: " tvg-logo="https://static.realiptv.to/snapshots/214177.jpg" group-title="ENG - Sports NBA/WNBA",NBA 07:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214177
-#EXTINF:-1 tvg-id="89736" tvg-name="NBA 08: " tvg-logo="https://static.realiptv.to/snapshots/214178.jpg" group-title="ENG - Sports NBA/WNBA",NBA 08:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214178
-#EXTINF:-1 tvg-id="89737" tvg-name="NBA 09: " tvg-logo="https://static.realiptv.to/snapshots/214179.jpg" group-title="ENG - Sports NBA/WNBA",NBA 09:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214179
-#EXTINF:-1 tvg-id="89738" tvg-name="NBA 10: " tvg-logo="https://static.realiptv.to/snapshots/214180.jpg" group-title="ENG - Sports NBA/WNBA",NBA 10:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214180
-#EXTINF:-1 tvg-id="89739" tvg-name="NBA 11: " tvg-logo="https://static.realiptv.to/snapshots/214181.jpg" group-title="ENG - Sports NBA/WNBA",NBA 11:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214181
-#EXTINF:-1 tvg-id="89740" tvg-name="NBA 12: " tvg-logo="https://static.realiptv.to/snapshots/214182.jpg" group-title="ENG - Sports NBA/WNBA",NBA 12:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214182
-#EXTINF:-1 tvg-id="89741" tvg-name="NBA 13: " tvg-logo="https://static.realiptv.to/snapshots/214183.jpg" group-title="ENG - Sports NBA/WNBA",NBA 13:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214183
-#EXTINF:-1 tvg-id="89742" tvg-name="NBA 14: " tvg-logo="https://static.realiptv.to/snapshots/214184.jpg" group-title="ENG - Sports NBA/WNBA",NBA 14:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214184
-#EXTINF:-1 tvg-id="89743" tvg-name="NBA 15: " tvg-logo="https://static.realiptv.to/snapshots/214185.jpg" group-title="ENG - Sports NBA/WNBA",NBA 15:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214185
-#EXTINF:-1 tvg-id="89744" tvg-name="NBA 16: " tvg-logo="https://static.realiptv.to/snapshots/214186.jpg" group-title="ENG - Sports NBA/WNBA",NBA 16:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214186
-#EXTINF:-1 tvg-id="89745" tvg-name="NBA 17: " tvg-logo="https://static.realiptv.to/snapshots/214187.jpg" group-title="ENG - Sports NBA/WNBA",NBA 17:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214187
-#EXTINF:-1 tvg-id="89746" tvg-name="NBA 18: " tvg-logo="https://static.realiptv.to/snapshots/214188.jpg" group-title="ENG - Sports NBA/WNBA",NBA 18:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214188
-#EXTINF:-1 tvg-id="89747" tvg-name="NBA 19: " tvg-logo="https://static.realiptv.to/snapshots/214189.jpg" group-title="ENG - Sports NBA/WNBA",NBA 19:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214189
-#EXTINF:-1 tvg-id="89748" tvg-name="NBA 20: " tvg-logo="https://static.realiptv.to/snapshots/214190.jpg" group-title="ENG - Sports NBA/WNBA",NBA 20:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214190
-#EXTINF:-1 tvg-id="89749" tvg-name="NBA 21: " tvg-logo="https://static.realiptv.to/snapshots/214191.jpg" group-title="ENG - Sports NBA/WNBA",NBA 21:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214191
-#EXTINF:-1 tvg-id="89750" tvg-name="NBA 22: " tvg-logo="https://static.realiptv.to/snapshots/214192.jpg" group-title="ENG - Sports NBA/WNBA",NBA 22:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214192
-#EXTINF:-1 tvg-id="89751" tvg-name="NBA 23: " tvg-logo="https://static.realiptv.to/snapshots/214193.jpg" group-title="ENG - Sports NBA/WNBA",NBA 23:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214193
-#EXTINF:-1 tvg-id="89752" tvg-name="NBA 24: " tvg-logo="https://static.realiptv.to/snapshots/214194.jpg" group-title="ENG - Sports NBA/WNBA",NBA 24:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214194
-#EXTINF:-1 tvg-id="89753" tvg-name="NBA 25: " tvg-logo="https://static.realiptv.to/snapshots/214195.jpg" group-title="ENG - Sports NBA/WNBA",NBA 25:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214195
-#EXTINF:-1 tvg-id="89754" tvg-name="NBA 26: " tvg-logo="https://static.realiptv.to/snapshots/214196.jpg" group-title="ENG - Sports NBA/WNBA",NBA 26:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214196
-#EXTINF:-1 tvg-id="89755" tvg-name="NBA 27: " tvg-logo="https://static.realiptv.to/snapshots/214197.jpg" group-title="ENG - Sports NBA/WNBA",NBA 27:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214197
-#EXTINF:-1 tvg-id="89756" tvg-name="NBA 28: " tvg-logo="https://static.realiptv.to/snapshots/214198.jpg" group-title="ENG - Sports NBA/WNBA",NBA 28:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214198
-#EXTINF:-1 tvg-id="89757" tvg-name="NBA 29: " tvg-logo="https://static.realiptv.to/snapshots/214199.jpg" group-title="ENG - Sports NBA/WNBA",NBA 29:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214199
-#EXTINF:-1 tvg-id="89758" tvg-name="NBA 30: " tvg-logo="https://static.realiptv.to/snapshots/214200.jpg" group-title="ENG - Sports NBA/WNBA",NBA 30:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214200
-#EXTINF:-1 tvg-id="89759" tvg-name="NBA 31: " tvg-logo="https://static.realiptv.to/snapshots/214201.jpg" group-title="ENG - Sports NBA/WNBA",NBA 31:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214201
-#EXTINF:-1 tvg-id="89760" tvg-name="NBA 32: " tvg-logo="https://static.realiptv.to/snapshots/214202.jpg" group-title="ENG - Sports NBA/WNBA",NBA 32:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214202
-#EXTINF:-1 tvg-id="89761" tvg-name="NBA 33: " tvg-logo="https://static.realiptv.to/snapshots/214203.jpg" group-title="ENG - Sports NBA/WNBA",NBA 33:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214203
-#EXTINF:-1 tvg-id="89762" tvg-name="NBA 34: " tvg-logo="https://static.realiptv.to/snapshots/214204.jpg" group-title="ENG - Sports NBA/WNBA",NBA 34:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214204
-#EXTINF:-1 tvg-id="89763" tvg-name="NBA 35: " tvg-logo="https://static.realiptv.to/snapshots/214205.jpg" group-title="ENG - Sports NBA/WNBA",NBA 35:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214205
-#EXTINF:-1 tvg-id="89764" tvg-name="NBA 36: " tvg-logo="https://static.realiptv.to/snapshots/214206.jpg" group-title="ENG - Sports NBA/WNBA",NBA 36:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214206
-#EXTINF:-1 tvg-id="89765" tvg-name="NBA 37: " tvg-logo="https://static.realiptv.to/snapshots/214207.jpg" group-title="ENG - Sports NBA/WNBA",NBA 37:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214207
-#EXTINF:-1 tvg-id="89766" tvg-name="NBA 38: " tvg-logo="https://static.realiptv.to/snapshots/214208.jpg" group-title="ENG - Sports NBA/WNBA",NBA 38:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214208
-#EXTINF:-1 tvg-id="89767" tvg-name="NBA 39: " tvg-logo="https://static.realiptv.to/snapshots/214209.jpg" group-title="ENG - Sports NBA/WNBA",NBA 39:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214209
-#EXTINF:-1 tvg-id="89768" tvg-name="NBA 40: " tvg-logo="https://static.realiptv.to/snapshots/214210.jpg" group-title="ENG - Sports NBA/WNBA",NBA 40:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214210
-#EXTINF:-1 tvg-id="89769" tvg-name="NBA 41: " tvg-logo="https://static.realiptv.to/snapshots/214211.jpg" group-title="ENG - Sports NBA/WNBA",NBA 41:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214211
-#EXTINF:-1 tvg-id="89770" tvg-name="NBA 42: " tvg-logo="https://static.realiptv.to/snapshots/214212.jpg" group-title="ENG - Sports NBA/WNBA",NBA 42:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214212
-#EXTINF:-1 tvg-id="89771" tvg-name="NBA 43: " tvg-logo="https://static.realiptv.to/snapshots/214213.jpg" group-title="ENG - Sports NBA/WNBA",NBA 43:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214213
-#EXTINF:-1 tvg-id="89772" tvg-name="NBA 44: " tvg-logo="https://static.realiptv.to/snapshots/214214.jpg" group-title="ENG - Sports NBA/WNBA",NBA 44:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214214
-#EXTINF:-1 tvg-id="89773" tvg-name="NBA 45: " tvg-logo="https://static.realiptv.to/snapshots/214215.jpg" group-title="ENG - Sports NBA/WNBA",NBA 45:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214215
-#EXTINF:-1 tvg-id="89774" tvg-name="NBA 46: " tvg-logo="https://static.realiptv.to/snapshots/214216.jpg" group-title="ENG - Sports NBA/WNBA",NBA 46:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214216
-#EXTINF:-1 tvg-id="89775" tvg-name="NBA 47: " tvg-logo="https://static.realiptv.to/snapshots/214217.jpg" group-title="ENG - Sports NBA/WNBA",NBA 47:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214217
-#EXTINF:-1 tvg-id="89776" tvg-name="NBA 48: " tvg-logo="https://static.realiptv.to/snapshots/214218.jpg" group-title="ENG - Sports NBA/WNBA",NBA 48:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214218
-#EXTINF:-1 tvg-id="89777" tvg-name="NBA 49: " tvg-logo="https://static.realiptv.to/snapshots/214219.jpg" group-title="ENG - Sports NBA/WNBA",NBA 49:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214219
-#EXTINF:-1 tvg-id="89778" tvg-name="NBA 50: " tvg-logo="https://static.realiptv.to/snapshots/214220.jpg" group-title="ENG - Sports NBA/WNBA",NBA 50:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214220
-#EXTINF:-1 tvg-id="89783" tvg-name="NBA 51: " tvg-logo="https://static.realiptv.to/snapshots/214221.jpg" group-title="ENG - Sports NBA/WNBA",NBA 51:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214221
-#EXTINF:-1 tvg-id="89779" tvg-name="NBA 52: " tvg-logo="https://static.realiptv.to/snapshots/214222.jpg" group-title="ENG - Sports NBA/WNBA",NBA 52:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214222
-#EXTINF:-1 tvg-id="89780" tvg-name="NBA 53: " tvg-logo="https://static.realiptv.to/snapshots/214223.jpg" group-title="ENG - Sports NBA/WNBA",NBA 53:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214223
-#EXTINF:-1 tvg-id="89781" tvg-name="NBA 54: " tvg-logo="https://static.realiptv.to/snapshots/214224.jpg" group-title="ENG - Sports NBA/WNBA",NBA 54:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214224
-#EXTINF:-1 tvg-id="89782" tvg-name="NBA 55: " tvg-logo="https://static.realiptv.to/snapshots/214225.jpg" group-title="ENG - Sports NBA/WNBA",NBA 55:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214225
-#EXTINF:-1 tvg-id="89784" tvg-name="NBA 56: " tvg-logo="https://static.realiptv.to/snapshots/214226.jpg" group-title="ENG - Sports NBA/WNBA",NBA 56:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214226
-#EXTINF:-1 tvg-id="89785" tvg-name="NBA 57: " tvg-logo="https://static.realiptv.to/snapshots/214227.jpg" group-title="ENG - Sports NBA/WNBA",NBA 57:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214227
-#EXTINF:-1 tvg-id="89786" tvg-name="NBA 58: " tvg-logo="https://static.realiptv.to/snapshots/214228.jpg" group-title="ENG - Sports NBA/WNBA",NBA 58:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214228
-#EXTINF:-1 tvg-id="89787" tvg-name="NBA 59: " tvg-logo="https://static.realiptv.to/snapshots/214229.jpg" group-title="ENG - Sports NBA/WNBA",NBA 59:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214229
-#EXTINF:-1 tvg-id="89788" tvg-name="NBA 60: " tvg-logo="https://static.realiptv.to/snapshots/214230.jpg" group-title="ENG - Sports NBA/WNBA",NBA 60:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214230
-#EXTINF:-1 tvg-name="WNBA 01: Indiana Fever vs Toronto Tempo @ 07:30 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/685882.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 01: Indiana Fever vs Toronto Tempo @ 07:30 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/685882
-#EXTINF:-1 tvg-name="WNBA 02: New York Liberty vs Minnesota Lynx @ 07:30 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/679464.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 02: New York Liberty vs Minnesota Lynx @ 07:30 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679464
-#EXTINF:-1 tvg-name="WNBA 03 : Portland Fire vs Golden State Valkyries @ 10:00 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/679465.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 03 : Portland Fire vs Golden State Valkyries @ 10:00 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679465
-#EXTINF:-1 tvg-name="WNBA 04: " tvg-logo="https://static.realiptv.to/snapshots/679466.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 04:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679466
-#EXTINF:-1 tvg-name="WNBA 05: " tvg-logo="https://static.realiptv.to/snapshots/679467.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 05:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679467
-#EXTINF:-1 tvg-name="WNBA 06: " tvg-logo="https://static.realiptv.to/snapshots/679468.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 06:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679468
-#EXTINF:-1 tvg-name="WNBA 07" tvg-logo="https://static.realiptv.to/snapshots/679469.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 07
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679469
-#EXTINF:-1 tvg-name="WNBA 08" tvg-logo="https://static.realiptv.to/snapshots/679470.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 08
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679470
-#EXTINF:-1 tvg-name="WNBA 09" tvg-logo="https://static.realiptv.to/snapshots/679471.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 09
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679471
-#EXTINF:-1 tvg-name="WNBA 10" tvg-logo="https://static.realiptv.to/snapshots/679472.jpg" group-title="ENG - Sports NBA/WNBA",WNBA 10
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/679472
-#EXTINF:-1 tvg-id="ATL.nba" tvg-name="[NBA] ATLANTA HAWKS" tvg-logo="https://static.realiptv.to/snapshots/89060.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] ATLANTA HAWKS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89060
-#EXTINF:-1 tvg-id="BOS.nba" tvg-name="[NBA] BOSTON CELTICS" tvg-logo="https://static.realiptv.to/snapshots/89061.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] BOSTON CELTICS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89061
-#EXTINF:-1 tvg-id="BKN.nba" tvg-name="[NBA] BROOKLYN NETS" tvg-logo="https://static.realiptv.to/snapshots/89062.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] BROOKLYN NETS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89062
-#EXTINF:-1 tvg-id="CHA.nba" tvg-name="[NBA] CHARLOTTE HORNETS" tvg-logo="https://static.realiptv.to/snapshots/89063.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] CHARLOTTE HORNETS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89063
-#EXTINF:-1 tvg-id="CHI.nba" tvg-name="[NBA] CHICAGO BULLS" tvg-logo="https://static.realiptv.to/snapshots/89064.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] CHICAGO BULLS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89064
-#EXTINF:-1 tvg-id="CLE.mlb" tvg-name="[NBA] CLEVELAND CAVALIERS" tvg-logo="https://static.realiptv.to/snapshots/89065.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] CLEVELAND CAVALIERS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89065
-#EXTINF:-1 tvg-id="DAL.nba" tvg-name="[NBA] DALLAS MAVERICKS" tvg-logo="https://static.realiptv.to/snapshots/89066.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] DALLAS MAVERICKS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89066
-#EXTINF:-1 tvg-id="DEN.nba" tvg-name="[NBA] DENVER NUGGETS" tvg-logo="https://static.realiptv.to/snapshots/89067.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] DENVER NUGGETS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89067
-#EXTINF:-1 tvg-id="DET.nba" tvg-name="[NBA] DETROIT PISTONS" tvg-logo="https://static.realiptv.to/snapshots/89068.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] DETROIT PISTONS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89068
-#EXTINF:-1 tvg-id="GS.nba" tvg-name="[NBA] GOLDEN STATE WARRIORS" tvg-logo="https://static.realiptv.to/snapshots/92887.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] GOLDEN STATE WARRIORS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/92887
-#EXTINF:-1 tvg-id="HOU.nba" tvg-name="[NBA] HOUSTON ROCKETS" tvg-logo="https://static.realiptv.to/snapshots/89069.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] HOUSTON ROCKETS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89069
-#EXTINF:-1 tvg-id="IND.nba" tvg-name="[NBA] INDIANA PACERS" tvg-logo="https://static.realiptv.to/snapshots/89070.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] INDIANA PACERS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89070
-#EXTINF:-1 tvg-id="LAC.nba" tvg-name="[NBA] LOS ANGELES CLIPPERS" tvg-logo="https://static.realiptv.to/snapshots/89071.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] LOS ANGELES CLIPPERS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89071
-#EXTINF:-1 tvg-id="LAL.nba" tvg-name="[NBA] LOS ANGELES LAKERS" tvg-logo="https://static.realiptv.to/snapshots/89072.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] LOS ANGELES LAKERS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89072
-#EXTINF:-1 tvg-id="MEM.nba" tvg-name="[NBA] MEMPHIS GRIZZLIES" tvg-logo="https://static.realiptv.to/snapshots/89073.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] MEMPHIS GRIZZLIES
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89073
-#EXTINF:-1 tvg-id="MIA.nba" tvg-name="[NBA] MIAMI HEAT" tvg-logo="https://static.realiptv.to/snapshots/89074.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] MIAMI HEAT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89074
-#EXTINF:-1 tvg-id="MIL.nba" tvg-name="[NBA] MILWAUKEE BUCKS" tvg-logo="https://static.realiptv.to/snapshots/89075.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] MILWAUKEE BUCKS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89075
-#EXTINF:-1 tvg-id="MIN.nba" tvg-name="[NBA] MINNESOTA TIMBERWOLVES" tvg-logo="https://static.realiptv.to/snapshots/89076.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] MINNESOTA TIMBERWOLVES
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89076
-#EXTINF:-1 tvg-id="NO.nba" tvg-name="[NBA] NEW ORLEANS PELICANS" tvg-logo="https://static.realiptv.to/snapshots/89077.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] NEW ORLEANS PELICANS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89077
-#EXTINF:-1 tvg-id="NY.nba" tvg-name="[NBA] NEW YORK KNICKS" tvg-logo="https://static.realiptv.to/snapshots/89078.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] NEW YORK KNICKS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89078
-#EXTINF:-1 tvg-id="OKC.nba" tvg-name="[NBA] OKLAHOMA CITY THUNDER" tvg-logo="https://static.realiptv.to/snapshots/89079.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] OKLAHOMA CITY THUNDER
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89079
-#EXTINF:-1 tvg-id="ORL.nba" tvg-name="[NBA] ORLANDO MAGIC" tvg-logo="https://static.realiptv.to/snapshots/89080.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] ORLANDO MAGIC
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89080
-#EXTINF:-1 tvg-id="PHI.nba" tvg-name="[NBA] PHILADELPHIA 76ERS" tvg-logo="https://static.realiptv.to/snapshots/89081.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] PHILADELPHIA 76ERS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89081
-#EXTINF:-1 tvg-id="PHX.nba" tvg-name="[NBA] PHOENIX SUNS" tvg-logo="https://static.realiptv.to/snapshots/89082.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] PHOENIX SUNS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89082
-#EXTINF:-1 tvg-id="POR.nba" tvg-name="[NBA] PORTLAND TRAIL BLAZERS" tvg-logo="https://static.realiptv.to/snapshots/89083.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] PORTLAND TRAIL BLAZERS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89083
-#EXTINF:-1 tvg-id="SAC.nba" tvg-name="[NBA] SACRAMENTO KINGS" tvg-logo="https://static.realiptv.to/snapshots/89084.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] SACRAMENTO KINGS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89084
-#EXTINF:-1 tvg-id="SA.nba" tvg-name="[NBA] SAN ANTONIO SPURS" tvg-logo="https://static.realiptv.to/snapshots/89085.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] SAN ANTONIO SPURS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89085
-#EXTINF:-1 tvg-id="TOR.nba" tvg-name="[NBA] TORONTO RAPTORS" tvg-logo="https://static.realiptv.to/snapshots/89086.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] TORONTO RAPTORS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89086
-#EXTINF:-1 tvg-id="UTAH.nba" tvg-name="[NBA] UTAH JAZZ" tvg-logo="https://static.realiptv.to/snapshots/89087.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] UTAH JAZZ
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89087
-#EXTINF:-1 tvg-id="WSH.nba" tvg-name="[NBA] WASHINGTON WIZARDS" tvg-logo="https://static.realiptv.to/snapshots/89088.jpg" group-title="ENG - Sports NBA/WNBA",[NBA] WASHINGTON WIZARDS
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89088
-
-#GROUP:ENG - Sports NFL
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL Red Zone LHD" tvg-logo="https://static.realiptv.to/snapshots/3752.jpg" group-title="ENG - Sports NFL",NFL Red Zone LHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3752
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL Red zone UHD" tvg-logo="https://static.realiptv.to/snapshots/3671.jpg" group-title="ENG - Sports NFL",NFL Red zone UHD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3671
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL Red Zone (SD)" tvg-logo="https://static.realiptv.to/snapshots/97491.jpg" group-title="ENG - Sports NFL",NFL Red Zone (SD)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97491
-#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NFL SNF (1080p): Dallas Cowboys vs New York Giants @ 08:20 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/740091.jpg" group-title="ENG - Sports NFL",NFL SNF (1080p): Dallas Cowboys vs New York Giants @ 08:20 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/740091
-#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="NFL SNF (720p): Dallas Cowboys vs New York Giants @ 08:20 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/401123.jpg" group-title="ENG - Sports NFL",NFL SNF (720p): Dallas Cowboys vs New York Giants @ 08:20 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401123
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NFL MNF:  Denver Broncos vs Kansas City Chiefs @ 08:15 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/401124.jpg" group-title="ENG - Sports NFL",NFL MNF:  Denver Broncos vs Kansas City Chiefs @ 08:15 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401124
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL TNF: Detroit Lions vs Buffalo Bills @ 08:15 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/401125.jpg" group-title="ENG - Sports NFL",NFL TNF: Detroit Lions vs Buffalo Bills @ 08:15 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401125
-#EXTINF:-1 tvg-id="nflsundayticket705.us" tvg-name="NFL 705: Buffalo Bills vs Houston Texans @ 01:00 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3913.jpg" group-title="ENG - Sports NFL",NFL 705: Buffalo Bills vs Houston Texans @ 01:00 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3913
-#EXTINF:-1 tvg-id="nflsundayticket706.us" tvg-name="NFL 706: Baltimore Ravens vs Indianapolis Colts @ 01:00 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3914.jpg" group-title="ENG - Sports NFL",NFL 706: Baltimore Ravens vs Indianapolis Colts @ 01:00 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3914
-#EXTINF:-1 tvg-id="nflsundayticket707.us" tvg-name="NFL 707: Cleveland Browns vs Jacksonville Jaguars @ 01:00 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3915.jpg" group-title="ENG - Sports NFL",NFL 707: Cleveland Browns vs Jacksonville Jaguars @ 01:00 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3915
-#EXTINF:-1 tvg-id="nflsundayticket708.us" tvg-name="NFL 708: New York Jets vs Tennessee Titans @ 01:00 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3916.jpg" group-title="ENG - Sports NFL",NFL 708: New York Jets vs Tennessee Titans @ 01:00 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3916
-#EXTINF:-1 tvg-id="nflsundayticket709.us" tvg-name="NFL 709: Chicago Bears vs Carolina Panthers @ 01:00 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3917.jpg" group-title="ENG - Sports NFL",NFL 709: Chicago Bears vs Carolina Panthers @ 01:00 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3917
-#EXTINF:-1 tvg-id="nflsundayticket710.us" tvg-name="NFL 710: Tampa Bay Buccaneers vs Cincinnati Bengals @ 01:00 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3918.jpg" group-title="ENG - Sports NFL",NFL 710: Tampa Bay Buccaneers vs Cincinnati Bengals @ 01:00 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3918
-#EXTINF:-1 tvg-id="nflsundayticket711.us" tvg-name="NFL 711: New Orleans Saints vs Detroit Lions @ 01:00 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3919.jpg" group-title="ENG - Sports NFL",NFL 711: New Orleans Saints vs Detroit Lions @ 01:00 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3919
-#EXTINF:-1 tvg-id="nflsundayticket712.us" tvg-name="NFL 712: Atlanta Falcons vs PittsburghSteelers @ 01:00 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3920.jpg" group-title="ENG - Sports NFL",NFL 712: Atlanta Falcons vs PittsburghSteelers @ 01:00 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3920
-#EXTINF:-1 tvg-id="nflsundayticket713.us" tvg-name="NFL 713: Arizona Cardinals vs Los Angeles Chargers @ 04:25 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3921.jpg" group-title="ENG - Sports NFL",NFL 713: Arizona Cardinals vs Los Angeles Chargers @ 04:25 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3921
-#EXTINF:-1 tvg-id="nflsundayticket714.us" tvg-name="NFL 714: Green Bay Packers vs Minnesota Vikings @ 04:25 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3922.jpg" group-title="ENG - Sports NFL",NFL 714: Green Bay Packers vs Minnesota Vikings @ 04:25 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3922
-#EXTINF:-1 tvg-id="nflsundayticket716.us" tvg-name="NFL 715: Washington Commanders vs Philadelphia Eagles  @ 04:25 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3923.jpg" group-title="ENG - Sports NFL",NFL 715: Washington Commanders vs Philadelphia Eagles  @ 04:25 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3923
-#EXTINF:-1 tvg-id="nflsundayticket716.us" tvg-name="NFL 716: Miami Dolphins vs Las Vegas Raiders @ 04:25 PM EDT" tvg-logo="https://static.realiptv.to/snapshots/3924.jpg" group-title="ENG - Sports NFL",NFL 716: Miami Dolphins vs Las Vegas Raiders @ 04:25 PM EDT
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3924
-#EXTINF:-1 tvg-id="nflsundayticket717.us" tvg-name="NFL 717: " tvg-logo="https://static.realiptv.to/snapshots/3925.jpg" group-title="ENG - Sports NFL",NFL 717:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3925
-#EXTINF:-1 tvg-id="nflsundayticket718.us" tvg-name="NFL 718: " tvg-logo="https://static.realiptv.to/snapshots/3926.jpg" group-title="ENG - Sports NFL",NFL 718:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3926
-#EXTINF:-1 tvg-id="nflsundayticket719.us" tvg-name="NFL 719: " tvg-logo="https://static.realiptv.to/snapshots/506721.jpg" group-title="ENG - Sports NFL",NFL 719:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/506721
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network USA (SD)" tvg-logo="https://static.realiptv.to/snapshots/21600.jpg" group-title="ENG - Sports NFL",NFL Network USA (SD)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21600
-#EXTINF:-1 tvg-name="USA NFL-Saints " tvg-logo="https://static.realiptv.to/snapshots/401122.jpg" group-title="ENG - Sports NFL",USA NFL-Saints
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401122
-#EXTINF:-1 tvg-name="USA NFL: 49ers" tvg-logo="https://static.realiptv.to/snapshots/390458.jpg" group-title="ENG - Sports NFL",USA NFL: 49ers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390458
-#EXTINF:-1 tvg-name="USA NFL: Bears" tvg-logo="https://static.realiptv.to/snapshots/390457.jpg" group-title="ENG - Sports NFL",USA NFL: Bears
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390457
-#EXTINF:-1 tvg-name="USA NFL: Bengals" tvg-logo="https://static.realiptv.to/snapshots/390456.jpg" group-title="ENG - Sports NFL",USA NFL: Bengals
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390456
-#EXTINF:-1 tvg-name="USA NFL: Bills" tvg-logo="https://static.realiptv.to/snapshots/390455.jpg" group-title="ENG - Sports NFL",USA NFL: Bills
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390455
-#EXTINF:-1 tvg-name="USA NFL: Broncos" tvg-logo="https://static.realiptv.to/snapshots/390454.jpg" group-title="ENG - Sports NFL",USA NFL: Broncos
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390454
-#EXTINF:-1 tvg-name="USA NFL: Browns" tvg-logo="https://static.realiptv.to/snapshots/390453.jpg" group-title="ENG - Sports NFL",USA NFL: Browns
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390453
-#EXTINF:-1 tvg-name="USA NFL: Buccaneers" tvg-logo="https://static.realiptv.to/snapshots/390452.jpg" group-title="ENG - Sports NFL",USA NFL: Buccaneers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390452
-#EXTINF:-1 tvg-name="USA NFL: Cardinals" tvg-logo="https://static.realiptv.to/snapshots/390451.jpg" group-title="ENG - Sports NFL",USA NFL: Cardinals
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390451
-#EXTINF:-1 tvg-name="USA NFL: Chargers" tvg-logo="https://static.realiptv.to/snapshots/390450.jpg" group-title="ENG - Sports NFL",USA NFL: Chargers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390450
-#EXTINF:-1 tvg-name="USA NFL: Chiefs" tvg-logo="https://static.realiptv.to/snapshots/390449.jpg" group-title="ENG - Sports NFL",USA NFL: Chiefs
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390449
-#EXTINF:-1 tvg-name="USA NFL: Colts" tvg-logo="https://static.realiptv.to/snapshots/390448.jpg" group-title="ENG - Sports NFL",USA NFL: Colts
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390448
-#EXTINF:-1 tvg-name="USA NFL: Commanders" tvg-logo="https://static.realiptv.to/snapshots/390433.jpg" group-title="ENG - Sports NFL",USA NFL: Commanders
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390433
-#EXTINF:-1 tvg-name="USA NFL: Cowboys" tvg-logo="https://static.realiptv.to/snapshots/390447.jpg" group-title="ENG - Sports NFL",USA NFL: Cowboys
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390447
-#EXTINF:-1 tvg-name="USA NFL: Dolphins" tvg-logo="https://static.realiptv.to/snapshots/390446.jpg" group-title="ENG - Sports NFL",USA NFL: Dolphins
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390446
-#EXTINF:-1 tvg-name="USA NFL: Eagles" tvg-logo="https://static.realiptv.to/snapshots/390445.jpg" group-title="ENG - Sports NFL",USA NFL: Eagles
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390445
-#EXTINF:-1 tvg-name="USA NFL: Falcons" tvg-logo="https://static.realiptv.to/snapshots/390444.jpg" group-title="ENG - Sports NFL",USA NFL: Falcons
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390444
-#EXTINF:-1 tvg-name="USA NFL: Giants" tvg-logo="https://static.realiptv.to/snapshots/390443.jpg" group-title="ENG - Sports NFL",USA NFL: Giants
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390443
-#EXTINF:-1 tvg-name="USA NFL: Jaguars" tvg-logo="https://static.realiptv.to/snapshots/390442.jpg" group-title="ENG - Sports NFL",USA NFL: Jaguars
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390442
-#EXTINF:-1 tvg-name="USA NFL: Jets" tvg-logo="https://static.realiptv.to/snapshots/390441.jpg" group-title="ENG - Sports NFL",USA NFL: Jets
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390441
-#EXTINF:-1 tvg-name="USA NFL: Lions" tvg-logo="https://static.realiptv.to/snapshots/390440.jpg" group-title="ENG - Sports NFL",USA NFL: Lions
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390440
-#EXTINF:-1 tvg-name="USA NFL: Packers" tvg-logo="https://static.realiptv.to/snapshots/390439.jpg" group-title="ENG - Sports NFL",USA NFL: Packers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390439
-#EXTINF:-1 tvg-name="USA NFL: Panthers" tvg-logo="https://static.realiptv.to/snapshots/390438.jpg" group-title="ENG - Sports NFL",USA NFL: Panthers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390438
-#EXTINF:-1 tvg-name="USA NFL: Patriots" tvg-logo="https://static.realiptv.to/snapshots/390437.jpg" group-title="ENG - Sports NFL",USA NFL: Patriots
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390437
-#EXTINF:-1 tvg-name="USA NFL: Raiders" tvg-logo="https://static.realiptv.to/snapshots/390436.jpg" group-title="ENG - Sports NFL",USA NFL: Raiders
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390436
-#EXTINF:-1 tvg-name="USA NFL: Rams" tvg-logo="https://static.realiptv.to/snapshots/390435.jpg" group-title="ENG - Sports NFL",USA NFL: Rams
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390435
-#EXTINF:-1 tvg-name="USA NFL: Ravens" tvg-logo="https://static.realiptv.to/snapshots/390434.jpg" group-title="ENG - Sports NFL",USA NFL: Ravens
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390434
-#EXTINF:-1 tvg-name="USA NFL: Seahawks" tvg-logo="https://static.realiptv.to/snapshots/390432.jpg" group-title="ENG - Sports NFL",USA NFL: Seahawks
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390432
-#EXTINF:-1 tvg-name="USA NFL: Steelers" tvg-logo="https://static.realiptv.to/snapshots/390431.jpg" group-title="ENG - Sports NFL",USA NFL: Steelers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390431
-#EXTINF:-1 tvg-name="USA NFL: Texans" tvg-logo="https://static.realiptv.to/snapshots/390430.jpg" group-title="ENG - Sports NFL",USA NFL: Texans
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390430
-#EXTINF:-1 tvg-name="USA NFL: Titans" tvg-logo="https://static.realiptv.to/snapshots/390429.jpg" group-title="ENG - Sports NFL",USA NFL: Titans
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390429
-#EXTINF:-1 tvg-name="USA NFL: Vikings" tvg-logo="https://static.realiptv.to/snapshots/390428.jpg" group-title="ENG - Sports NFL",USA NFL: Vikings
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390428
 
 #GROUP:ESP - USA Latin
 #EXTINF:-1 tvg-id="GALAHD" tvg-name="USA  Galavision" tvg-logo="https://static.realiptv.to/snapshots/30927.jpg" group-title="ESP - USA Latin",USA  Galavision
@@ -6367,192 +6049,6 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/4634
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/4643
 #EXTINF:-1 tvg-id="hbolatinopacific.us" tvg-name="USA HBO Latino West" tvg-logo="https://static.realiptv.to/snapshots/553421.jpg" group-title="ESP - Películas",USA HBO Latino West
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/553421
-
-#GROUP:ENG - Sports NHL
-#EXTINF:-1 tvg-name="USA NHL Anaheim Ducks" tvg-logo="https://static.realiptv.to/snapshots/509719.jpg" group-title="ENG - Sports NHL",USA NHL Anaheim Ducks
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509719
-#EXTINF:-1 tvg-name="USA NHL Arizona Coyotes" tvg-logo="https://static.realiptv.to/snapshots/509707.jpg" group-title="ENG - Sports NHL",USA NHL Arizona Coyotes
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509707
-#EXTINF:-1 tvg-name="USA NHL Boston Bruins" tvg-logo="https://static.realiptv.to/snapshots/509711.jpg" group-title="ENG - Sports NHL",USA NHL Boston Bruins
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509711
-#EXTINF:-1 tvg-name="USA NHL Buffalo Sabres" tvg-logo="https://static.realiptv.to/snapshots/509710.jpg" group-title="ENG - Sports NHL",USA NHL Buffalo Sabres
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509710
-#EXTINF:-1 tvg-name="USA NHL Calgary Flames" tvg-logo="https://static.realiptv.to/snapshots/509713.jpg" group-title="ENG - Sports NHL",USA NHL Calgary Flames
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509713
-#EXTINF:-1 tvg-name="USA NHL Carolina Hurricanes" tvg-logo="https://static.realiptv.to/snapshots/509725.jpg" group-title="ENG - Sports NHL",USA NHL Carolina Hurricanes
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509725
-#EXTINF:-1 tvg-name="USA NHL Chicago Blackhawks" tvg-logo="https://static.realiptv.to/snapshots/509730.jpg" group-title="ENG - Sports NHL",USA NHL Chicago Blackhawks
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509730
-#EXTINF:-1 tvg-name="USA NHL Colorado Avalanche" tvg-logo="https://static.realiptv.to/snapshots/509736.jpg" group-title="ENG - Sports NHL",USA NHL Colorado Avalanche
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509736
-#EXTINF:-1 tvg-name="USA NHL Columbus Blue Jackets" tvg-logo="https://static.realiptv.to/snapshots/509734.jpg" group-title="ENG - Sports NHL",USA NHL Columbus Blue Jackets
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509734
-#EXTINF:-1 tvg-name="USA NHL Dallas Stars" tvg-logo="https://static.realiptv.to/snapshots/509709.jpg" group-title="ENG - Sports NHL",USA NHL Dallas Stars
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509709
-#EXTINF:-1 tvg-name="USA NHL Detroit Red Wings" tvg-logo="https://static.realiptv.to/snapshots/509737.jpg" group-title="ENG - Sports NHL",USA NHL Detroit Red Wings
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509737
-#EXTINF:-1 tvg-name="USA NHL Edmonton Oilers" tvg-logo="https://static.realiptv.to/snapshots/509722.jpg" group-title="ENG - Sports NHL",USA NHL Edmonton Oilers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509722
-#EXTINF:-1 tvg-name="USA NHL Florida Panthers" tvg-logo="https://static.realiptv.to/snapshots/509716.jpg" group-title="ENG - Sports NHL",USA NHL Florida Panthers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509716
-#EXTINF:-1 tvg-name="USA NHL Los Angeles Kings" tvg-logo="https://static.realiptv.to/snapshots/509712.jpg" group-title="ENG - Sports NHL",USA NHL Los Angeles Kings
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509712
-#EXTINF:-1 tvg-name="USA NHL Minnesota Wild" tvg-logo="https://static.realiptv.to/snapshots/509733.jpg" group-title="ENG - Sports NHL",USA NHL Minnesota Wild
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509733
-#EXTINF:-1 tvg-name="USA NHL Montreal Canadiens" tvg-logo="https://static.realiptv.to/snapshots/509728.jpg" group-title="ENG - Sports NHL",USA NHL Montreal Canadiens
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509728
-#EXTINF:-1 tvg-name="USA NHL Nashville Predators" tvg-logo="https://static.realiptv.to/snapshots/509724.jpg" group-title="ENG - Sports NHL",USA NHL Nashville Predators
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509724
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network USA (SD)" tvg-logo="https://static.realiptv.to/snapshots/21615.jpg" group-title="ENG - Sports NHL",NHL Network USA (SD)
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21615
-#EXTINF:-1 tvg-name="USA NHL New Jersey Devils" tvg-logo="https://static.realiptv.to/snapshots/509718.jpg" group-title="ENG - Sports NHL",USA NHL New Jersey Devils
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509718
-#EXTINF:-1 tvg-name="USA NHL New York Islanders" tvg-logo="https://static.realiptv.to/snapshots/509735.jpg" group-title="ENG - Sports NHL",USA NHL New York Islanders
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509735
-#EXTINF:-1 tvg-name="USA NHL New York Rangers" tvg-logo="https://static.realiptv.to/snapshots/509732.jpg" group-title="ENG - Sports NHL",USA NHL New York Rangers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509732
-#EXTINF:-1 tvg-name="USA NHL Ottawa Senators" tvg-logo="https://static.realiptv.to/snapshots/509729.jpg" group-title="ENG - Sports NHL",USA NHL Ottawa Senators
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509729
-#EXTINF:-1 tvg-name="USA NHL Philadelphia Flyers" tvg-logo="https://static.realiptv.to/snapshots/509714.jpg" group-title="ENG - Sports NHL",USA NHL Philadelphia Flyers
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509714
-#EXTINF:-1 tvg-name="USA NHL Pittsburgh Penguins" tvg-logo="https://static.realiptv.to/snapshots/509717.jpg" group-title="ENG - Sports NHL",USA NHL Pittsburgh Penguins
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509717
-#EXTINF:-1 tvg-name="USA NHL San Jose Sharks" tvg-logo="https://static.realiptv.to/snapshots/509720.jpg" group-title="ENG - Sports NHL",USA NHL San Jose Sharks
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509720
-#EXTINF:-1 tvg-name="USA NHL St Louis Blues" tvg-logo="https://static.realiptv.to/snapshots/509723.jpg" group-title="ENG - Sports NHL",USA NHL St Louis Blues
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509723
-#EXTINF:-1 tvg-name="USA NHL Tampa Bay Lightning" tvg-logo="https://static.realiptv.to/snapshots/509727.jpg" group-title="ENG - Sports NHL",USA NHL Tampa Bay Lightning
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509727
-#EXTINF:-1 tvg-name="USA NHL Toronto Maple Leafs" tvg-logo="https://static.realiptv.to/snapshots/509731.jpg" group-title="ENG - Sports NHL",USA NHL Toronto Maple Leafs
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509731
-#EXTINF:-1 tvg-name="USA NHL Vancouver Canucks" tvg-logo="https://static.realiptv.to/snapshots/509721.jpg" group-title="ENG - Sports NHL",USA NHL Vancouver Canucks
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509721
-#EXTINF:-1 tvg-name="USA NHL Vegas Golden Knights" tvg-logo="https://static.realiptv.to/snapshots/509708.jpg" group-title="ENG - Sports NHL",USA NHL Vegas Golden Knights
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509708
-#EXTINF:-1 tvg-name="USA NHL Washington Capitals" tvg-logo="https://static.realiptv.to/snapshots/509726.jpg" group-title="ENG - Sports NHL",USA NHL Washington Capitals
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509726
-#EXTINF:-1 tvg-name="USA NHL Winnipeg Jets" tvg-logo="https://static.realiptv.to/snapshots/509715.jpg" group-title="ENG - Sports NHL",USA NHL Winnipeg Jets
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/509715
-#EXTINF:-1 tvg-id="89662" tvg-name="NHL 01: TOR VS MTL (NHLN Feed ) @ 7:00 pm" tvg-logo="https://static.realiptv.to/snapshots/205046.jpg" group-title="ENG - Sports NHL",NHL 01: TOR VS MTL (NHLN Feed ) @ 7:00 pm
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205046
-#EXTINF:-1 tvg-id="89663" tvg-name="NHL 02: TOR VS MTL (SN1 Feed ) @ 7:00 pm" tvg-logo="https://static.realiptv.to/snapshots/205047.jpg" group-title="ENG - Sports NHL",NHL 02: TOR VS MTL (SN1 Feed ) @ 7:00 pm
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205047
-#EXTINF:-1 tvg-id="89664" tvg-name="NHL 03: TOR VS MTL (RDS Feed ) @ 7:00 pm" tvg-logo="https://static.realiptv.to/snapshots/205048.jpg" group-title="ENG - Sports NHL",NHL 03: TOR VS MTL (RDS Feed ) @ 7:00 pm
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205048
-#EXTINF:-1 tvg-id="89665" tvg-name="NHL 04: " tvg-logo="https://static.realiptv.to/snapshots/205049.jpg" group-title="ENG - Sports NHL",NHL 04:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205049
-#EXTINF:-1 tvg-id="89666" tvg-name="NHL 05: " tvg-logo="https://static.realiptv.to/snapshots/205050.jpg" group-title="ENG - Sports NHL",NHL 05:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205050
-#EXTINF:-1 tvg-id="89667" tvg-name="NHL 06: " tvg-logo="https://static.realiptv.to/snapshots/205051.jpg" group-title="ENG - Sports NHL",NHL 06:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205051
-#EXTINF:-1 tvg-id="89668" tvg-name="NHL 07: " tvg-logo="https://static.realiptv.to/snapshots/205052.jpg" group-title="ENG - Sports NHL",NHL 07:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205052
-#EXTINF:-1 tvg-id="89669" tvg-name="NHL 08: " tvg-logo="https://static.realiptv.to/snapshots/205053.jpg" group-title="ENG - Sports NHL",NHL 08:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205053
-#EXTINF:-1 tvg-id="89670" tvg-name="NHL 09: " tvg-logo="https://static.realiptv.to/snapshots/205054.jpg" group-title="ENG - Sports NHL",NHL 09:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205054
-#EXTINF:-1 tvg-id="89671" tvg-name="NHL 10: " tvg-logo="https://static.realiptv.to/snapshots/205055.jpg" group-title="ENG - Sports NHL",NHL 10:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205055
-#EXTINF:-1 tvg-id="89672" tvg-name="NHL 11: " tvg-logo="https://static.realiptv.to/snapshots/205056.jpg" group-title="ENG - Sports NHL",NHL 11:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205056
-#EXTINF:-1 tvg-id="89673" tvg-name="NHL 12: " tvg-logo="https://static.realiptv.to/snapshots/205057.jpg" group-title="ENG - Sports NHL",NHL 12:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205057
-#EXTINF:-1 tvg-id="89674" tvg-name="NHL 13: " tvg-logo="https://static.realiptv.to/snapshots/205058.jpg" group-title="ENG - Sports NHL",NHL 13:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205058
-#EXTINF:-1 tvg-id="89675" tvg-name="NHL 14: " tvg-logo="https://static.realiptv.to/snapshots/205059.jpg" group-title="ENG - Sports NHL",NHL 14:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205059
-#EXTINF:-1 tvg-id="89676" tvg-name="NHL 15: " tvg-logo="https://static.realiptv.to/snapshots/205060.jpg" group-title="ENG - Sports NHL",NHL 15:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205060
-#EXTINF:-1 tvg-id="89677" tvg-name="NHL 16: " tvg-logo="https://static.realiptv.to/snapshots/205061.jpg" group-title="ENG - Sports NHL",NHL 16:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205061
-#EXTINF:-1 tvg-id="89678" tvg-name="NHL 17: " tvg-logo="https://static.realiptv.to/snapshots/205062.jpg" group-title="ENG - Sports NHL",NHL 17:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205062
-#EXTINF:-1 tvg-id="89679" tvg-name="NHL 18: " tvg-logo="https://static.realiptv.to/snapshots/205063.jpg" group-title="ENG - Sports NHL",NHL 18:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205063
-#EXTINF:-1 tvg-id="89680" tvg-name="NHL 19: " tvg-logo="https://static.realiptv.to/snapshots/205064.jpg" group-title="ENG - Sports NHL",NHL 19:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205064
-#EXTINF:-1 tvg-id="89681" tvg-name="NHL 20: " tvg-logo="https://static.realiptv.to/snapshots/205065.jpg" group-title="ENG - Sports NHL",NHL 20:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205065
-#EXTINF:-1 tvg-id="89682" tvg-name="NHL 21: " tvg-logo="https://static.realiptv.to/snapshots/205066.jpg" group-title="ENG - Sports NHL",NHL 21:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205066
-#EXTINF:-1 tvg-id="89683" tvg-name="NHL 22: " tvg-logo="https://static.realiptv.to/snapshots/205067.jpg" group-title="ENG - Sports NHL",NHL 22:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205067
-#EXTINF:-1 tvg-id="89684" tvg-name="NHL 23: " tvg-logo="https://static.realiptv.to/snapshots/205068.jpg" group-title="ENG - Sports NHL",NHL 23:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205068
-#EXTINF:-1 tvg-id="89685" tvg-name="NHL 24: " tvg-logo="https://static.realiptv.to/snapshots/205069.jpg" group-title="ENG - Sports NHL",NHL 24:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205069
-#EXTINF:-1 tvg-id="89686" tvg-name="NHL 25: " tvg-logo="https://static.realiptv.to/snapshots/205070.jpg" group-title="ENG - Sports NHL",NHL 25:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205070
-#EXTINF:-1 tvg-id="mlbextrainnings726.us" tvg-name="NHL 26: " tvg-logo="https://static.realiptv.to/snapshots/205071.jpg" group-title="ENG - Sports NHL",NHL 26:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205071
-#EXTINF:-1 tvg-id="mlbextrainnings727.us" tvg-name="NHL 27: " tvg-logo="https://static.realiptv.to/snapshots/205072.jpg" group-title="ENG - Sports NHL",NHL 27:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205072
-#EXTINF:-1 tvg-id="my28wrdc.us" tvg-name="NHL 28: " tvg-logo="https://static.realiptv.to/snapshots/205073.jpg" group-title="ENG - Sports NHL",NHL 28:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205073
-#EXTINF:-1 tvg-id="mlbextrainnings729.us" tvg-name="NHL 29: " tvg-logo="https://static.realiptv.to/snapshots/205074.jpg" group-title="ENG - Sports NHL",NHL 29:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205074
-#EXTINF:-1 tvg-id="my30wuxp.us" tvg-name="NHL 30: " tvg-logo="https://static.realiptv.to/snapshots/205075.jpg" group-title="ENG - Sports NHL",NHL 30:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205075
-#EXTINF:-1 tvg-id="mlbextrainnings731.us" tvg-name="NHL 31: " tvg-logo="https://static.realiptv.to/snapshots/205076.jpg" group-title="ENG - Sports NHL",NHL 31:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205076
-#EXTINF:-1 tvg-id="nbc32wmbf.us" tvg-name="NHL 32: " tvg-logo="https://static.realiptv.to/snapshots/205077.jpg" group-title="ENG - Sports NHL",NHL 32:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205077
-#EXTINF:-1 tvg-id="my33kvcwdt.us" tvg-name="NHL 33: " tvg-logo="https://static.realiptv.to/snapshots/205078.jpg" group-title="ENG - Sports NHL",NHL 33:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205078
-#EXTINF:-1 tvg-id="mlbextrainnings734.us" tvg-name="NHL 34: " tvg-logo="https://static.realiptv.to/snapshots/205079.jpg" group-title="ENG - Sports NHL",NHL 34:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205079
-#EXTINF:-1 tvg-id="my35wfgx.us" tvg-name="NHL 35: " tvg-logo="https://static.realiptv.to/snapshots/205080.jpg" group-title="ENG - Sports NHL",NHL 35:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205080
-#EXTINF:-1 tvg-id="nbc36kxan.us" tvg-name="NHL 36: " tvg-logo="https://static.realiptv.to/snapshots/205081.jpg" group-title="ENG - Sports NHL",NHL 36:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205081
-#EXTINF:-1 tvg-id="mlbextrainnings737.us" tvg-name="NHL 37: " tvg-logo="https://static.realiptv.to/snapshots/205082.jpg" group-title="ENG - Sports NHL",NHL 37:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205082
-#EXTINF:-1 tvg-id="nbc38wltz.us" tvg-name="NHL 38: " tvg-logo="https://static.realiptv.to/snapshots/205083.jpg" group-title="ENG - Sports NHL",NHL 38:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205083
-#EXTINF:-1 tvg-id="mlbextrainnings739.us" tvg-name="NHL 39: " tvg-logo="https://static.realiptv.to/snapshots/205084.jpg" group-title="ENG - Sports NHL",NHL 39:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205084
-#EXTINF:-1 tvg-id="my40wmya.us" tvg-name="NHL 40: " tvg-logo="https://static.realiptv.to/snapshots/205085.jpg" group-title="ENG - Sports NHL",NHL 40:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205085
-#EXTINF:-1 tvg-id="nbc41kshb.us" tvg-name="NHL 41: " tvg-logo="https://static.realiptv.to/snapshots/205086.jpg" group-title="ENG - Sports NHL",NHL 41:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205086
-#EXTINF:-1 tvg-id="mlbextrainnings742.us" tvg-name="NHL 42: " tvg-logo="https://static.realiptv.to/snapshots/205087.jpg" group-title="ENG - Sports NHL",NHL 42:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205087
-#EXTINF:-1 tvg-id="mlbextrainnings743.us" tvg-name="NHL 43: " tvg-logo="https://static.realiptv.to/snapshots/205088.jpg" group-title="ENG - Sports NHL",NHL 43:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205088
-#EXTINF:-1 tvg-id="mlbextrainnings744.us" tvg-name="NHL 44: " tvg-logo="https://static.realiptv.to/snapshots/205089.jpg" group-title="ENG - Sports NHL",NHL 44:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205089
-#EXTINF:-1 tvg-id="mlbextrainnings745.us" tvg-name="NHL 45: " tvg-logo="https://static.realiptv.to/snapshots/205090.jpg" group-title="ENG - Sports NHL",NHL 45:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205090
-#EXTINF:-1 tvg-id="mlbextrainnings746.us" tvg-name="NHL 46: " tvg-logo="https://static.realiptv.to/snapshots/205091.jpg" group-title="ENG - Sports NHL",NHL 46:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205091
-#EXTINF:-1 tvg-id="mlbextrainnings747.us" tvg-name="NHL 47: " tvg-logo="https://static.realiptv.to/snapshots/205092.jpg" group-title="ENG - Sports NHL",NHL 47:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205092
-#EXTINF:-1 tvg-id="my48wmyv.us" tvg-name="NHL 48: " tvg-logo="https://static.realiptv.to/snapshots/205093.jpg" group-title="ENG - Sports NHL",NHL 48:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205093
-#EXTINF:-1 tvg-id="my49wnyo.us" tvg-name="NHL 49: " tvg-logo="https://static.realiptv.to/snapshots/205094.jpg" group-title="ENG - Sports NHL",NHL 49:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205094
-#EXTINF:-1 tvg-id="nbaleaguepass750.us" tvg-name="NHL 50: " tvg-logo="https://static.realiptv.to/snapshots/205095.jpg" group-title="ENG - Sports NHL",NHL 50:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205095
-#EXTINF:-1 tvg-id="nbaleaguepass751.us" tvg-name="NHL 51: " tvg-logo="https://static.realiptv.to/snapshots/205096.jpg" group-title="ENG - Sports NHL",NHL 51:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205096
-#EXTINF:-1 tvg-id="nbaleaguepass752.us" tvg-name="NHL 52: " tvg-logo="https://static.realiptv.to/snapshots/205097.jpg" group-title="ENG - Sports NHL",NHL 52:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205097
-#EXTINF:-1 tvg-id="nbaleaguepass753.us" tvg-name="NHL 53: " tvg-logo="https://static.realiptv.to/snapshots/205098.jpg" group-title="ENG - Sports NHL",NHL 53:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205098
-#EXTINF:-1 tvg-id="nbaleaguepass754.us" tvg-name="NHL 54: " tvg-logo="https://static.realiptv.to/snapshots/205099.jpg" group-title="ENG - Sports NHL",NHL 54:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205099
-#EXTINF:-1 tvg-id="wlnytv1055.us" tvg-name="NHL 55: " tvg-logo="https://static.realiptv.to/snapshots/205100.jpg" group-title="ENG - Sports NHL",NHL 55:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205100
-#EXTINF:-1 tvg-id="nbaleaguepass756.us" tvg-name="NHL 56: " tvg-logo="https://static.realiptv.to/snapshots/205101.jpg" group-title="ENG - Sports NHL",NHL 56:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205101
-#EXTINF:-1 tvg-id="nbaleaguepass757.us" tvg-name="NHL 57: " tvg-logo="https://static.realiptv.to/snapshots/205102.jpg" group-title="ENG - Sports NHL",NHL 57:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205102
-#EXTINF:-1 tvg-id="nbaleaguepass758.us" tvg-name="NHL 58: " tvg-logo="https://static.realiptv.to/snapshots/205103.jpg" group-title="ENG - Sports NHL",NHL 58:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205103
-#EXTINF:-1 tvg-id="nbaleaguepass759.us" tvg-name="NHL 59: " tvg-logo="https://static.realiptv.to/snapshots/205104.jpg" group-title="ENG - Sports NHL",NHL 59:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205104
-#EXTINF:-1 tvg-id="nbaleaguepass760.us" tvg-name="NHL 60: " tvg-logo="https://static.realiptv.to/snapshots/205105.jpg" group-title="ENG - Sports NHL",NHL 60:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/205105
 
 
 ==================================================
@@ -7655,8 +7151,6 @@ https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:-1 tvg-id="6532e6a9bdf3cf000887ab29" tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="ENG - Streams Pluto",More True Crime
 https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
-#EXTINF:-1 tvg-id="6549337183595c000815ad05" tvg-name="Murder, She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="ENG - Streams Pluto",She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="ENG - Streams Pluto",She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="ENG - Pluto Streams",Murder, She Wrote
-https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
 #EXTINF:-1 tvg-id="66e0b4866ad04d0008fff4d8" tvg-name="MythBusters" tvg-logo="https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png" group-title="ENG - Streams Pluto",MythBusters
 https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
 #EXTINF:-1 tvg-id="5f7274806621ff00072651ff" tvg-name="Narcos" tvg-logo="https://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="ENG - Streams Pluto",Narcos
@@ -8135,7 +7629,7 @@ https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 #EXTINF:-1 tvg-id="61f33318210549000806a530" tvg-name="Classic Movie Westerns" tvg-logo="https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png" group-title="ENG - Classic TV & Westerns",Classic Movie Westerns
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
-#EXTINF:-1 tvg-id="6a2b0f2509705ebdf781231d" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/6a2b0f2509705ebdf781231d/colorLogoPNG_1782946772357.png" group-title="ENG - Classic TV & Westerns",Dr. Quinn Medicine Woman
+#EXTINF:-1 tvg-id="6a2b0f2509705ebdf781231d" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/6a2b0f2509705ebdf781231d/colorLogoPNG_1782946772357.png" group-title="ENG - Classic TV & Westerns",Medicine Woman" tvg-logo="https://images.pluto.tv/channels/6a2b0f2509705ebdf781231d/colorLogoPNG_1782946772357.png" group-title="ENG - Classic TV & Westerns",Dr. Quinn Medicine Woman
 https://jmp2.uk/plu-6a2b0f2509705ebdf781231d.m3u8
 #EXTINF:-1 tvg-id="60f75771dfc72a00071fd0e0" tvg-name="Gunsmoke" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="ENG - Classic TV & Westerns",Gunsmoke
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
@@ -9123,8 +8617,6 @@ https://jmp2.uk/stvp-US170002608
 https://jmp2.uk/stvp-US310000101
 #EXTINF:-1 tvg-id="USBA3000093U" tvg-name="MTV Pluto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20260421T133520SQUARE.png" group-title="ENG - Streams Samsung",MTV Pluto TV
 https://jmp2.uk/stvp-USBA3000093U
-#EXTINF:-1 tvg-id="US1800001D1" tvg-name="Murder, She Wrote" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800001D1_20260818T061316SQUARE.png" group-title="ENG - Streams Samsung",She Wrote" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800001D1_20260818T061316SQUARE.png" group-title="ENG - Streams Samsung",She Wrote" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800001D1_20260818T061316SQUARE.png" group-title="ENG - Samsung Streams",Murder, She Wrote
-https://jmp2.uk/stvp-US1800001D1
 #EXTINF:-1 tvg-id="USBB5200028MM" tvg-name="Mysteries Xplored" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20260120T230343SQUARE.png" group-title="ENG - Streams Samsung",Mysteries Xplored
 https://jmp2.uk/stvp-USBB5200028MM
 #EXTINF:-1 tvg-id="US4500004SQ" tvg-name="Mystery Science Theater 3000" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500004SQ_20260421T143040SQUARE.png" group-title="ENG - Streams Samsung",Mystery Science Theater 3000
